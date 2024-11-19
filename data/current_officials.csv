@@ -1,0 +1,131 @@
+District,Office,Name,Party,Email,County(ies),sheet_name,First Name,Middle Name,Last Name,Name on Ballot,record_id
+0,US Senate,Mitt Romney,REPUBLICAN,No Email,No County,fed_reps,Mitt,,Romney,Mitt  Romney,MITT-US SENATE-0
+0,US Senate,Mike Lee,REPUBLICAN,No Email,No County,fed_reps,Mike,,Lee,Mike  Lee,MIKE-US SENATE-0
+1,US House,Blake Moore,REPUBLICAN,No Email,No County,fed_reps,Blake,,Moore,Blake  Moore,BLAKE-US HOUSE-1
+2,US House,Chris Stewart,REPUBLICAN,No Email,No County,fed_reps,Chris,,Stewart,Chris  Stewart,CHRIS-US HOUSE-2
+3,US House,John Curtis,REPUBLICAN,No Email,No County,fed_reps,John,,Curtis,John  Curtis,JOHN-US HOUSE-3
+4,US House,Burgess Owens,REPUBLICAN,No Email,No County,fed_reps,Burgess,,Owens,Burgess  Owens,BURGESS-US HOUSE-4
+0,Attorney General,Sean D Reyes,NO PARTY,No Email,No County,executive_branch,Sean,D,Reyes,Sean D Reyes,SEAN-ATTORNEY GENERAL-0
+0,Lt. Governor,Deidre Henderson,REPUBLICAN,No Email,No County,executive_branch,Deidre,,Henderson,Deidre  Henderson,DEIDRE-LT. GOVERNOR-0
+0,Governor,Spencer J Cox,REPUBLICAN,No Email,No County,executive_branch,Spencer,J,Cox,Spencer J Cox,SPENCER-GOVERNOR-0
+0,State Auditor,John Dougall,NO PARTY,No Email,No County,executive_branch,John,,Dougall,John  Dougall,JOHN-STATE AUDITOR-0
+0,State Treasurer,Marlo Oaks,NO PARTY,No Email,No County,executive_branch,Marlo,,Oaks,Marlo  Oaks,MARLO-STATE TREASURER-0
+1,State House,"Peterson, Thomas W.",R,tpeterson@le.utah.gov,"Box Elder, Cache",State_House,Thomas,W.,"Peterson,","Thomas W. Peterson,",THOMAS-STATE HOUSE-1
+2,State House,"Petersen, Michael J.",R,mpetersen@le.utah.gov,Cache,State_House,Michael,J.,"Petersen,","Michael J. Petersen,",MICHAEL-STATE HOUSE-2
+3,State House,"Johnson, Dan N.",R,dnjohnson@le.utah.gov,Cache,State_House,Dan,N.,"Johnson,","Dan N. Johnson,",DAN-STATE HOUSE-3
+4,State House,"Birkeland, Kera",R,kbirkeland@le.utah.gov,"Daggett, Duchesne, Morgan, Rich, Summit",State_House,Kera,,"Birkeland,","Kera  Birkeland,",KERA-STATE HOUSE-4
+5,State House,"Snider, Casey",R,csnider@le.utah.gov,Cache,State_House,Casey,,"Snider,","Casey  Snider,",CASEY-STATE HOUSE-5
+6,State House,"Gwynn, Matthew H.",R,mgwynn@le.utah.gov,"Box Elder, Weber",State_House,Matthew,H.,"Gwynn,","Matthew H. Gwynn,",MATTHEW-STATE HOUSE-6
+7,State House,"Wilcox, Ryan D.",R,ryanwilcox@le.utah.gov,Weber,State_House,Ryan,D.,"Wilcox,","Ryan D. Wilcox,",RYAN-STATE HOUSE-7
+8,State House,"Kyle, Jason B.",R,jkyle@le.utah.gov,"Morgan, Weber",State_House,Jason,B.,"Kyle,","Jason B. Kyle,",JASON-STATE HOUSE-8
+9,State House,"Musselman, Calvin R.",R,cmusselman@le.utah.gov,Weber,State_House,Calvin,R.,"Musselman,","Calvin R. Musselman,",CALVIN-STATE HOUSE-9
+10,State House,"Lesser, Rosemary T.",D,rlesser@le.utah.gov,Weber,State_House,Rosemary,T.,"Lesser,","Rosemary T. Lesser,",ROSEMARY-STATE HOUSE-10
+11,State House,"Hall, Katy",R,khall@le.utah.gov,"Davis, Weber",State_House,Katy,,"Hall,","Katy  Hall,",KATY-STATE HOUSE-11
+12,State House,"Schultz, Mike",R,mikeschultz@le.utah.gov,"Davis, Weber",State_House,Mike,,"Schultz,","Mike  Schultz,",MIKE-STATE HOUSE-12
+13,State House,"Peterson, Karen M.",R,kpeterson@le.utah.gov,Davis,State_House,Karen,M.,"Peterson,","Karen M. Peterson,",KAREN-STATE HOUSE-13
+14,State House,"Lisonbee, Karianne",R,karilisonbee@le.utah.gov,Davis,State_House,Karianne,,"Lisonbee,","Karianne  Lisonbee,",KARIANNE-STATE HOUSE-14
+15,State House,"Defay, Ariel",R,adefay@le.utah.gov,Davis,State_House,Ariel,,"Defay,","Ariel  Defay,",ARIEL-STATE HOUSE-15
+16,State House,"Lee, Trevor",R,tlee@le.utah.gov,Davis,State_House,Trevor,,"Lee,","Trevor  Lee,",TREVOR-STATE HOUSE-16
+17,State House,"Barlow, Stewart E.",R,sbarlow@le.utah.gov,Davis,State_House,Stewart,E.,"Barlow,","Stewart E. Barlow,",STEWART-STATE HOUSE-17
+18,State House,"Cutler, Paul A.",R,pcutler@le.utah.gov,Davis,State_House,Paul,A.,"Cutler,","Paul A. Cutler,",PAUL-STATE HOUSE-18
+19,State House,"Ward, Raymond P.",R,rayward@le.utah.gov,Davis,State_House,Raymond,P.,"Ward,","Raymond P. Ward,",RAYMOND-STATE HOUSE-19
+20,State House,"Ballard, Melissa G.",R,mballard@le.utah.gov,Davis,State_House,Melissa,G.,"Ballard,","Melissa G. Ballard,",MELISSA-STATE HOUSE-20
+21,State House,"Hollins, Sandra",D,shollins@le.utah.gov,Salt Lake,State_House,Sandra,,"Hollins,","Sandra  Hollins,",SANDRA-STATE HOUSE-21
+22,State House,"Dailey-Provost, Jennifer",D,jdprovost@le.utah.gov,Salt Lake,State_House,Jennifer,,"Dailey-Provost,","Jennifer  Dailey-Provost,",JENNIFER-STATE HOUSE-22
+23,State House,"King, Brian S.",D,briansking@le.utah.gov,"Salt Lake, Summit",State_House,Brian,S.,"King,","Brian S. King,",BRIAN-STATE HOUSE-23
+24,State House,"Briscoe, Joel K.",D,jbriscoe@le.utah.gov,Salt Lake,State_House,Joel,K.,"Briscoe,","Joel K. Briscoe,",JOEL-STATE HOUSE-24
+25,State House,"Romero, Angela",D,angelaromero@le.utah.gov,Salt Lake,State_House,Angela,,"Romero,","Angela  Romero,",ANGELA-STATE HOUSE-25
+26,State House,"MacPherson, Matt",R,mmacpherson@le.utah.gov,Salt Lake,State_House,Matt,,"MacPherson,","Matt  MacPherson,",MATT-STATE HOUSE-26
+27,State House,"Loubet, Anthony E.",R,aloubet@le.utah.gov,Salt Lake,State_House,Anthony,E.,"Loubet,","Anthony E. Loubet,",ANTHONY-STATE HOUSE-27
+28,State House,"Jimenez, Tim",R,tjimenez@le.utah.gov,Tooele,State_House,Tim,,"Jimenez,","Tim  Jimenez,",TIM-STATE HOUSE-28
+29,State House,"Bolinder, Bridger",R,bbolinder@le.utah.gov,"Juab, Millard, Tooele",State_House,Bridger,,"Bolinder,","Bridger  Bolinder,",BRIDGER-STATE HOUSE-29
+30,State House,"Rohner, Judy Weeks",R,jrohner@le.utah.gov,Salt Lake,State_House,Judy,Weeks,"Rohner,","Judy Weeks Rohner,",JUDY-STATE HOUSE-30
+31,State House,"Garner, Brett",D,bgarner@le.utah.gov,No County,State_House,Brett,,"Garner,","Brett  Garner,",BRETT-STATE HOUSE-31
+32,State House,"Hayes, Sahara",D,shayes@le.utah.gov,Salt Lake,State_House,Sahara,,"Hayes,","Sahara  Hayes,",SAHARA-STATE HOUSE-32
+33,State House,"Owens, Doug",D,dougowens@le.utah.gov,Salt Lake,State_House,Doug,,"Owens,","Doug  Owens,",DOUG-STATE HOUSE-33
+34,State House,"Moss, Carol S.",D,csmoss@le.utah.gov,Salt Lake,State_House,Carol,S.,"Moss,","Carol S. Moss,",CAROL-STATE HOUSE-34
+35,State House,"Wheatley, Mark A.",D,markwheatley@le.utah.gov,Salt Lake,State_House,Mark,A.,"Wheatley,","Mark A. Wheatley,",MARK-STATE HOUSE-35
+36,State House,"Dunnigan, James A.",R,jdunnigan@le.utah.gov,Salt Lake,State_House,James,A.,"Dunnigan,","James A. Dunnigan,",JAMES-STATE HOUSE-36
+37,State House,"Matthews, Ashlee",D,amatthews@le.utah.gov,Salt Lake,State_House,Ashlee,,"Matthews,","Ashlee  Matthews,",ASHLEE-STATE HOUSE-37
+38,State House,"Acton, Cheryl K.",R,cacton@le.utah.gov,Salt Lake,State_House,Cheryl,K.,"Acton,","Cheryl K. Acton,",CHERYL-STATE HOUSE-38
+39,State House,"Ivory, Ken",R,kivory@le.utah.gov,Salt Lake,State_House,Ken,,"Ivory,","Ken  Ivory,",KEN-STATE HOUSE-39
+40,State House,"Stoddard, Andrew",D,astoddard@le.utah.gov,Salt Lake,State_House,Andrew,,"Stoddard,","Andrew  Stoddard,",ANDREW-STATE HOUSE-40
+41,State House,"Bennion, Gay Lynn",D,glbennion@le.utah.gov,Salt Lake,State_House,Gay,Lynn,"Bennion,","Gay Lynn Bennion,",GAY-STATE HOUSE-41
+42,State House,"Spendlove, Robert M.",R,rspendlove@le.utah.gov,Salt Lake,State_House,Robert,M.,"Spendlove,","Robert M. Spendlove,",ROBERT-STATE HOUSE-42
+43,State House,"Eliason, Steve",R,seliason@le.utah.gov,Salt Lake,State_House,Steve,,"Eliason,","Steve  Eliason,",STEVE-STATE HOUSE-43
+44,State House,"Teuscher, Jordan D.",R,jteuscher@le.utah.gov,Salt Lake,State_House,Jordan,D.,"Teuscher,","Jordan D. Teuscher,",JORDAN-STATE HOUSE-44
+45,State House,"Pulsipher, Susan",R,susanpulsipher@le.utah.gov,Salt Lake,State_House,Susan,,"Pulsipher,","Susan  Pulsipher,",SUSAN-STATE HOUSE-45
+46,State House,"Stenquist, Jeffrey D.",R,jstenquist@le.utah.gov,Salt Lake,State_House,Jeffrey,D.,"Stenquist,","Jeffrey D. Stenquist,",JEFFREY-STATE HOUSE-46
+47,State House,"Strong, Mark A.",R,mstrong@le.utah.gov,Salt Lake,State_House,Mark,A.,"Strong,","Mark A. Strong,",MARK-STATE HOUSE-47
+48,State House,"Cobb, James F.",R,jcobb@le.utah.gov,Salt Lake,State_House,James,F.,"Cobb,","James F. Cobb,",JAMES-STATE HOUSE-48
+49,State House,"Pierucci, Candice B.",R,cpierucci@le.utah.gov,Salt Lake,State_House,Candice,B.,"Pierucci,","Candice B. Pierucci,",CANDICE-STATE HOUSE-49
+50,State House,"Gricius, Stephanie",R,sgricius@le.utah.gov,Utah,State_House,Stephanie,,"Gricius,","Stephanie  Gricius,",STEPHANIE-STATE HOUSE-50
+51,State House,"Moss, Jefferson",R,jeffersonmoss@le.utah.gov,Utah,State_House,Jefferson,,"Moss,","Jefferson  Moss,",JEFFERSON-STATE HOUSE-51
+52,State House,"Maloy, A. Cory",R,corymaloy@le.utah.gov,Utah,State_House,A.,Cory,"Maloy,","A. Cory Maloy,",A.-STATE HOUSE-52
+53,State House,"Christofferson, Kay J.",R,kchristofferson@le.utah.gov,Utah,State_House,Kay,J.,"Christofferson,","Kay J. Christofferson,",KAY-STATE HOUSE-53
+54,State House,"Brammer, Brady",R,bbrammer@le.utah.gov,Utah,State_House,Brady,,"Brammer,","Brady  Brammer,",BRADY-STATE HOUSE-54
+55,State House,"Hawkins, Jon",R,jhawkins@le.utah.gov,Utah,State_House,Jon,,"Hawkins,","Jon  Hawkins,",JON-STATE HOUSE-55
+56,State House,"Peterson, Val L.",R,vpeterson@le.utah.gov,Utah,State_House,Val,L.,"Peterson,","Val L. Peterson,",VAL-STATE HOUSE-56
+57,State House,"Abbott, Nelson T.",R,nabbott@le.utah.gov,Utah,State_House,Nelson,T.,"Abbott,","Nelson T. Abbott,",NELSON-STATE HOUSE-57
+58,State House,"Stratton, Keven J.",R,kstratton@le.utah.gov,Utah,State_House,Keven,J.,"Stratton,","Keven J. Stratton,",KEVEN-STATE HOUSE-58
+59,State House,"Kohler, Mike L.",R,mkohler@le.utah.gov,"Summit, Wasatch",State_House,Mike,L.,"Kohler,","Mike L. Kohler,",MIKE-STATE HOUSE-59
+60,State House,"Clancy, Tyler",R,tclancy@le.utah.gov,Utah,State_House,Tyler,,"Clancy,","Tyler  Clancy,",TYLER-STATE HOUSE-60
+61,State House,"Judkins, Marsha",R,mjudkins@le.utah.gov,Utah,State_House,Marsha,,"Judkins,","Marsha  Judkins,",MARSHA-STATE HOUSE-61
+62,State House,"Thurston, Norman K",R,normthurston@le.utah.gov,Utah,State_House,Norman,K,"Thurston,","Norman K Thurston,",NORMAN-STATE HOUSE-62
+63,State House,"Whyte, Stephen L.",R,swhyte@le.utah.gov,Utah,State_House,Stephen,L.,"Whyte,","Stephen L. Whyte,",STEPHEN-STATE HOUSE-63
+64,State House,"Burton, Jefferson S.",R,jburton@le.utah.gov,Utah,State_House,Jefferson,S.,"Burton,","Jefferson S. Burton,",JEFFERSON-STATE HOUSE-64
+65,State House,"Welton, Douglas R.",R,dwelton@le.utah.gov,Utah,State_House,Douglas,R.,"Welton,","Douglas R. Welton,",DOUGLAS-STATE HOUSE-65
+66,State House,"Lund, Steven J.",R,slund@le.utah.gov,"Juab, Sanpete",State_House,Steven,J.,"Lund,","Steven J. Lund,",STEVEN-STATE HOUSE-66
+67,State House,"Watkins, Christine F.",R,christinewatkins@le.utah.gov,"Carbon, Duchesne, Emery, Grand",State_House,Christine,F.,"Watkins,","Christine F. Watkins,",CHRISTINE-STATE HOUSE-67
+68,State House,"Chew, Scott H.",R,scottchew@le.utah.gov,"Duchesne, Uintah",State_House,Scott,H.,"Chew,","Scott H. Chew,",SCOTT-STATE HOUSE-68
+69,State House,"Lyman, Phil",R,plyman@le.utah.gov,"Emery, Garfield, Grand, Kane, San Juan, Wayne",State_House,Phil,,"Lyman,","Phil  Lyman,",PHIL-STATE HOUSE-69
+70,State House,"Albrecht, Carl R.",R,carlalbrecht@le.utah.gov,"Sevier, Piute, Beaver, and Iron",State_House,Carl,R.,"Albrecht,","Carl R. Albrecht,",CARL-STATE HOUSE-70
+71,State House,"Shipp, Rex P.",R,rshipp@le.utah.gov,Iron,State_House,Rex,P.,"Shipp,","Rex P. Shipp,",REX-STATE HOUSE-71
+72,State House,"Elison, Joseph",R,jelison@le.utah.gov,Washington,State_House,Joseph,,"Elison,","Joseph  Elison,",JOSEPH-STATE HOUSE-72
+73,State House,"Jack, Colin W.",R,cjack@le.utah.gov,Washington,State_House,Colin,W.,"Jack,","Colin W. Jack,",COLIN-STATE HOUSE-73
+74,State House,"Walter, R. Neil",R,nwalter@le.utah.gov,Washington,State_House,R.,Neil,"Walter,","R. Neil Walter,",R.-STATE HOUSE-74
+75,State House,"Brooks, Walt",R,wbrooks@le.utah.gov,Washington,State_House,Walt,,"Brooks,","Walt  Brooks,",WALT-STATE HOUSE-75
+1,State Senate,"Sandall, Scott D.",R,ssandall@le.utah.gov,"Box Elder, Cache, Tooele",State_Senate,Scott,D.,"Sandall,","Scott D. Sandall,",SCOTT-STATE SENATE-1
+2,State Senate,"Wilson, Chris H.",R,cwilson@le.utah.gov,"Cache, Rich",State_Senate,Chris,H.,"Wilson,","Chris H. Wilson,",CHRIS-STATE SENATE-2
+3,State Senate,"Johnson, John D.",R,jjohnson@le.utah.gov,"Morgan, Summit, Weber",State_Senate,John,D.,"Johnson,","John D. Johnson,",JOHN-STATE SENATE-3
+4,State Senate,"Buxton, David G.",R,gbuxton@le.utah.gov,"Davis, Weber",State_Senate,David,G.,"Buxton,","David G. Buxton,",DAVID-STATE SENATE-4
+5,State Senate,"Millner, Ann",R,amillner@le.utah.gov,"Davis, Morgan, Weber",State_Senate,Ann,,"Millner,","Ann  Millner,",ANN-STATE SENATE-5
+6,State Senate,"Stevenson, Jerry W.",R,jwstevenson@le.utah.gov,Davis,State_Senate,Jerry,W.,"Stevenson,","Jerry W. Stevenson,",JERRY-STATE SENATE-6
+7,State Senate,"Adams, J. Stuart",R,jsadams@le.utah.gov,Davis,State_Senate,J.,Stuart,"Adams,","J. Stuart Adams,",J.-STATE SENATE-7
+8,State Senate,"Weiler, Todd D.",R,tweiler@le.utah.gov,"Davis, Salt Lake",State_Senate,Todd,D.,"Weiler,","Todd D. Weiler,",TODD-STATE SENATE-8
+9,State Senate,"Plumb, Jen",D,jplumb@le.utah.gov,Salt Lake,State_Senate,Jen,,"Plumb,","Jen  Plumb,",JEN-STATE SENATE-9
+10,State Senate,"Escamilla, Luz",D,lescamilla@le.utah.gov,Salt Lake,State_Senate,Luz,,"Escamilla,","Luz  Escamilla,",LUZ-STATE SENATE-10
+11,State Senate,"Thatcher, Daniel W.",R,dthatcher@le.utah.gov,"Salt Lake, Tooele",State_Senate,Daniel,W.,"Thatcher,","Daniel W. Thatcher,",DANIEL-STATE SENATE-11
+12,State Senate,"Kwan, Karen",D,kkwan@le.utah.gov,Salt Lake,State_Senate,Karen,,"Kwan,","Karen  Kwan,",KAREN-STATE SENATE-12
+13,State Senate,"Blouin, Nate",D,nblouin@le.utah.gov,Salt Lake,State_Senate,Nate,,"Blouin,","Nate  Blouin,",NATE-STATE SENATE-13
+14,State Senate,"Pitcher, Stephanie",D,spitcher@le.utah.gov,Salt Lake,State_Senate,Stephanie,,"Pitcher,","Stephanie  Pitcher,",STEPHANIE-STATE SENATE-14
+15,State Senate,"Riebe, Kathleen A.",D,kriebe@le.utah.gov,Salt Lake,State_Senate,Kathleen,A.,"Riebe,","Kathleen A. Riebe,",KATHLEEN-STATE SENATE-15
+16,State Senate,"Harper, Wayne A.",R,wharper@le.utah.gov,Salt Lake,State_Senate,Wayne,A.,"Harper,","Wayne A. Harper,",WAYNE-STATE SENATE-16
+17,State Senate,"Fillmore, Lincoln",R,lfillmore@le.utah.gov,Salt Lake,State_Senate,Lincoln,,"Fillmore,","Lincoln  Fillmore,",LINCOLN-STATE SENATE-17
+18,State Senate,"McCay, Daniel",R,dmccay@le.utah.gov,"Salt Lake, Utah",State_Senate,Daniel,,"McCay,","Daniel  McCay,",DANIEL-STATE SENATE-18
+19,State Senate,"Cullimore, Kirk A.",R,kcullimore@le.utah.gov,Salt Lake,State_Senate,Kirk,A.,"Cullimore,","Kirk A. Cullimore,",KIRK-STATE SENATE-19
+20,State Senate,"Winterton, Ronald M.",R,rwinterton@le.utah.gov,"Daggett, Duchesne, Summit, Uintah, Wasatch",State_Senate,Ronald,M.,"Winterton,","Ronald M. Winterton,",RONALD-STATE SENATE-20
+21,State Senate,"Kennedy, Michael S.",R,mkennedy@le.utah.gov,Utah,State_Senate,Michael,S.,"Kennedy,","Michael S. Kennedy,",MICHAEL-STATE SENATE-21
+22,State Senate,"Balderree, Heidi",R,hbalderree@le.utah.gov,"Salt Lake, Utah",State_Senate,Heidi,,"Balderree,","Heidi  Balderree,",HEIDI-STATE SENATE-22
+23,State Senate,"Grover, Keith",R,keithgrover@le.utah.gov,Utah,State_Senate,Keith,,"Grover,","Keith  Grover,",KEITH-STATE SENATE-23
+24,State Senate,"Bramble, Curtis S.",R,curt@cbramble.com,"Utah, Wasatch",State_Senate,Curtis,S.,"Bramble,","Curtis S. Bramble,",CURTIS-STATE SENATE-24
+25,State Senate,"McKell, Michael K.",R,mmckell@le.utah.gov,Utah,State_Senate,Michael,K.,"McKell,","Michael K. McKell,",MICHAEL-STATE SENATE-25
+26,State Senate,"Hinkins, David P.",R,dhinkins@le.utah.gov,"Carbon, Emery, Grand, San Juan, Utah, Wasatch",State_Senate,David,P.,"Hinkins,","David P. Hinkins,",DAVID-STATE SENATE-26
+27,State Senate,"Owens, Derrin R.",R,derrinowens@le.utah.gov,"Beaver, Garfield, Juab, Kane, Millard, Piute, Sanpete, Sevier, Utah, Wayne",State_Senate,Derrin,R.,"Owens,","Derrin R. Owens,",DERRIN-STATE SENATE-27
+28,State Senate,"Vickers, Evan J.",R,evickers@le.utah.gov,"Beaver, Iron, Washington",State_Senate,Evan,J.,"Vickers,","Evan J. Vickers,",EVAN-STATE SENATE-28
+29,State Senate,"Ipson, Don L.",R,dipson@le.utah.gov,Washington,State_Senate,Don,L.,"Ipson,","Don L. Ipson,",DON-STATE SENATE-29
+1,State School Board,Jennie Earl,NO PARTY,No Email,No County,State_School_Board,Jennie,,Earl,Jennie  Earl,JENNIE-STATE SCHOOL BOARD-1
+2,State School Board,Joseph Kerry,NO PARTY,No Email,No County,State_School_Board,Joseph,,Kerry,Joseph  Kerry,JOSEPH-STATE SCHOOL BOARD-2
+3,State School Board,Brent J Strate,NO PARTY,No Email,No County,State_School_Board,Brent,J,Strate,Brent J Strate,BRENT-STATE SCHOOL BOARD-3
+5,State School Board,LeAnn Wood,NO PARTY,No Email,No County,State_School_Board,LeAnn,,Wood,LeAnn  Wood,LEANN-STATE SCHOOL BOARD-5
+5,State School Board,Sarah Reale,NO PARTY,No Email,No County,State_School_Board,Sarah,,Reale,Sarah  Reale,SARAH-STATE SCHOOL BOARD-5
+6,State School Board,Carol Barlow Lear,NO PARTY,No Email,No County,State_School_Board,Carol,Barlow,Lear,Carol Barlow Lear,CAROL-STATE SCHOOL BOARD-6
+7,State School Board,Molly Hart,NO PARTY,No Email,No County,State_School_Board,Molly,,Hart,Molly  Hart,MOLLY-STATE SCHOOL BOARD-7
+8,State School Board,Christina Boggess,NO PARTY,No Email,No County,State_School_Board,Christina,,Boggess,Christina  Boggess,CHRISTINA-STATE SCHOOL BOARD-8
+9,State School Board,Natalie Cline,NO PARTY,No Email,No County,State_School_Board,Natalie,,Cline,Natalie  Cline,NATALIE-STATE SCHOOL BOARD-9
+10,State School Board,Matt Hymas,NO PARTY,No Email,No County,State_School_Board,Matt,,Hymas,Matt  Hymas,MATT-STATE SCHOOL BOARD-10
+11,State School Board,Cindy Bishop Davis,NO PARTY,No Email,No County,State_School_Board,Cindy,Bishop,Davis,Cindy Bishop Davis,CINDY-STATE SCHOOL BOARD-11
+12,State School Board,James Moss,NO PARTY,No Email,No County,State_School_Board,James,,Moss,James  Moss,JAMES-STATE SCHOOL BOARD-12
+13,State School Board,Randy Boothe,NO PARTY,No Email,No County,State_School_Board,Randy,,Boothe,Randy  Boothe,RANDY-STATE SCHOOL BOARD-13
+14,State School Board,Emily Green,NO PARTY,No Email,No County,State_School_Board,Emily,,Green,Emily  Green,EMILY-STATE SCHOOL BOARD-14
+15,State School Board,Kristan Norton,NO PARTY,No Email,No County,State_School_Board,Kristan,,Norton,Kristan  Norton,KRISTAN-STATE SCHOOL BOARD-15
