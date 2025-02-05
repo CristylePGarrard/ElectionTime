@@ -1,0 +1,80 @@
+Mustache.js is a simple templating library that allows you to dynamically render data in HTML. Here are a few examples:
+Basic Variable Substitution:
+<div id="target"></div>
+
+<script id="template" type="text/html">
+    <h1>Hello {{name}}!</h1>
+</script>
+
+<script>
+    const Mustache = require('mustache');
+    const view = { name: "John" };
+    const output = Mustache.render(document.getElementById('template').innerHTML, view);
+    document.getElementById('target').innerHTML = output;
+</script>
+
+This will render "Hello John!" in the target div.
+Iterating Over an Array:
+<div id="target"></div>
+
+<script id="template" type="text/html">
+    <ul>
+        {{#people}}
+            <li>{{name}} is {{age}} years old.</li>
+        {{/people}}
+    </ul>
+</script>
+
+<script>
+    const Mustache = require('mustache');
+    const view = {
+        people: [
+            { name: "Alice", age: 25 },
+            { name: "Bob", age: 30 }
+        ]
+    };
+    const output = Mustache.render(document.getElementById('template').innerHTML, view);
+    document.getElementById('target').innerHTML = output;
+</script>
+
+This will render an unordered list with each person's name and age.
+Conditional Rendering:
+<div id="target"></div>
+
+<script id="template" type="text/html">
+    {{#show}}
+        <p>This will be shown if the "show" variable is true.</p>
+    {{/show}}
+</script>
+
+<script>
+    const Mustache = require('mustache');
+    const view = { show: true };
+    const output = Mustache.render(document.getElementById('template').innerHTML, view);
+    document.getElementById('target').innerHTML = output;
+</script>
+
+This will render the paragraph only if the show variable in the view object is true.
+Using Functions:
+<div id="target"></div>
+
+<script id="template" type="text/html">
+    <p>Doubled value: {{doubled}}</p>
+</script>
+
+<script>
+    const Mustache = require('mustache');
+    const view = {
+        value: 5,
+        doubled: function() {
+            return this.value * 2;
+        }
+    };
+    const output = Mustache.render(document.getElementById('template').innerHTML, view);
+    document.getElementById('target').innerHTML = output;
+</script>
+
+This will render "Doubled value: 10".
+
+Generative AI is experimental.
+
