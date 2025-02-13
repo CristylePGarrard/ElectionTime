@@ -10,7 +10,7 @@
 
     <title>Election Time Git-pages Site</title>
 </head>
-<body>
+<body data-office="State Senate">
 
 <!-- Top Navbar -->
 
@@ -55,64 +55,16 @@
             <h1 class="display-3 text-info">Utah State Senators</h1>
             <h3 class="text-secondary px-4">2025 Legislative Session</h3>
         </div>
-        <div class="row px-3">
-            <!--
-                Example Senator:
-                ID: STEVEJW
-                Name: Jerry W. Stevenson
-                Role: Executive Appropriations Chair
-                Party: Republican
-                District: 6
-
-            -->
-            <!-- Rep Card Template -->
-<!--            <div id="REPNAME_ID" class="card mb-3" style="max-width: 18rem; background-color: #dae6f2;">-->
-<!--&lt;!&ndash;                <div class="card-header " style="background-color: #ffc107">Header</div>&ndash;&gt;-->
-<!--                <img src="..." class="card-img-top pt-2" alt="...">-->
-<!--                <div class="card-body">-->
-<!--                    <h5 class="card-title">REP NAME HERE</h5>-->
-<!--                    <h6 class="card-subtitle mb-2 text-body-secondary mx-2">District: DISTRICT HERE</h6>-->
-<!--                    <h6 class="card-subtitle mb-2 text-body-secondary mx-2">Party: PARTY HERE</h6>-->
-<!--&lt;!&ndash;                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>&ndash;&gt;-->
-<!--                    <a href="#" class="card-link">le.utah.gov</a>-->
-<!--                    <a href="#" class="card-link">rep dashboard</a>-->
-<!--                </div>-->
-<!--            </div>-->
-
-            <div id="STEVEJW" class="card mb-3 mx-2 row" style="max-width: 16rem; background-color: #a8e3f0;">
-                <div class="col">
-                    <img src="assets/img/rep_photos/state_senate/2025/STEVEJW.jpg" class="card-img-top pt-2" alt="image of senator from utah.gov website">
-                    <div class="card-body">
-                        <h5 class="card-title">Jerry W. Stevenson</h5>
-                        <h6 class="card-subtitle mb-2 text-body-secondary mx-2">District: 6</h6>
-                        <h6 class="card-subtitle mb-2 text-body-secondary mx-2">Party: Republican</h6>
-                        <p>
-                            <button class="btn btn-primary" type="button" data-bs-toggle="collapse" data-bs-target="#collapseWidthExample" aria-expanded="false" aria-controls="collapseWidthExample">
-                                Toggle width collapse
-                            </button>
-                        </p>
-<!--                        <a href="https://senate.utah.gov/sen/STEVEJW" class="card-link">Gov Website</a>-->
-<!--                        <a href="#" class="card-link">Dashboard</a>-->
-                    </div>
-                </div>
-                <div class="col">
-                    <div>
-                        <div class="col collapse collapse-horizontal pb-2" id="collapseWidthExample">
-                            <div class="card card-body" style="min-width: 13rem;">
-                                This is some placeholder content for a horizontal collapse. It's hidden by default and shown when triggered.
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
+        <div class="row px-3" id="cards-container">
 
         </div>
+
+        <script src="assets/js/generate_rep_cards.js">
+        </script>
 
     </div>
 
 </main>
-
-
 
 
 <!-- Option 1: Bootstrap Bundle with Popper -->
