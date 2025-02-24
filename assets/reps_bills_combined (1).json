@@ -1,0 +1,4609 @@
+[
+  {
+    "Img_ID":"PETERT",
+    "Office":"State House",
+    "Rep_Name":"Thomas W Peterson",
+    "District":"1",
+    "Party":"R",
+    "Email":"tpeterson@le.utah.gov",
+    "County(ies)":"Box Elder, Cache",
+    "Webpage":"https:\/\/house.utleg.gov\/rep\/PETERT",
+    "Img_URL":"https:\/\/le.utah.gov\/images\/legislator\/house\/PETERT.jpg",
+    "Legislation_By_Representative":"https:\/\/le.utah.gov\/asp\/billsintro\/SenResults.asp?Listbox2=PETERT",
+    "Bill Sponsor":"Peterson, T.",
+    "New_Bills":[
+      {
+        "Bill Number":"HB0507",
+        "Link to Bill":"https:\/\/le.utah.gov\/~2025\/bills\/static\/HB0507.html",
+        "Short Title":"Legislative Water Development Commission Amendments",
+        "Sponsor":"Rep. Peterson, T.",
+        "Date Numbered":1739491200000,
+        "Office":"State House",
+        "First Initial":"T",
+        "Middle":null,
+        "Last Name":"Peterson",
+        "sheet_name":"new_bills_02142025",
+        "Bill Sponsor":"Peterson, T."
+      }
+    ],
+    "Passed_Bills":[
+      {
+        "Bill Number":"HB0032",
+        "Bill Title":"Borgstrom Brothers Memorial Highway Designation\u00a0",
+        "Bill Sponsor":"Peterson, T.",
+        "Date Passed":1739404800000,
+        "Effective Date":null,
+        "Governor's Action":null,
+        "Gov's Action Date":null,
+        "Laws of Utah Chapter":null,
+        "filename":"passedBills_02142025.csv",
+        "file_date":1739491200000
+      },
+      {
+        "Bill Number":"HB0032",
+        "Bill Title":"Borgstrom Brothers Memorial Highway Designation\u00a0",
+        "Bill Sponsor":"Peterson, T.",
+        "Date Passed":1739404800000,
+        "Effective Date":1746576000000,
+        "Governor's Action":null,
+        "Gov's Action Date":null,
+        "Laws of Utah Chapter":null,
+        "filename":"passedBills_02242025.csv",
+        "file_date":1740355200000
+      }
+    ]
+  },
+  {
+    "Img_ID":"PETERM",
+    "Office":"State House",
+    "Rep_Name":"Michael J Petersen",
+    "District":"2",
+    "Party":"R",
+    "Email":"mpetersen@le.utah.gov",
+    "County(ies)":"Cache",
+    "Webpage":"https:\/\/house.utleg.gov\/rep\/PETERM",
+    "Img_URL":"https:\/\/le.utah.gov\/images\/legislator\/house\/PETERM.jpg",
+    "Legislation_By_Representative":"https:\/\/le.utah.gov\/asp\/billsintro\/SenResults.asp?Listbox2=PETERM",
+    "Bill Sponsor":"Petersen, M.",
+    "New_Bills":[
+
+    ],
+    "Passed_Bills":[
+      {
+        "Bill Number":"HB0095S02",
+        "Bill Title":"Financial Disclosure Revisions\u00a0",
+        "Bill Sponsor":"Petersen, M.",
+        "Date Passed":1740096000000,
+        "Effective Date":null,
+        "Governor's Action":null,
+        "Gov's Action Date":null,
+        "Laws of Utah Chapter":null,
+        "filename":"passedBills_02242025.csv",
+        "file_date":1740355200000
+      }
+    ]
+  },
+  {
+    "Img_ID":"THOMJA",
+    "Office":"State House",
+    "Rep_Name":"Jason E Thompson",
+    "District":"3",
+    "Party":"R",
+    "Email":"jthompson@le.utah.gov",
+    "County(ies)":"Cache",
+    "Webpage":"https:\/\/house.utleg.gov\/rep\/THOMJA",
+    "Img_URL":"https:\/\/le.utah.gov\/images\/legislator\/house\/THOMJA.jpg",
+    "Legislation_By_Representative":"https:\/\/le.utah.gov\/asp\/billsintro\/SenResults.asp?Listbox2=THOMJA",
+    "Bill Sponsor":"Thompson, J.",
+    "New_Bills":[
+
+    ],
+    "Passed_Bills":[
+
+    ]
+  },
+  {
+    "Img_ID":"AUXIET",
+    "Office":"State House",
+    "Rep_Name":"Tiara Auxier",
+    "District":"4",
+    "Party":"R",
+    "Email":"tauxier@le.utah.gov",
+    "County(ies)":"Daggett, Duchesne, Morgan, Rich, Summit",
+    "Webpage":"https:\/\/house.utleg.gov\/rep\/AUXIET",
+    "Img_URL":"https:\/\/le.utah.gov\/images\/legislator\/house\/AUXIET.jpg",
+    "Legislation_By_Representative":"https:\/\/le.utah.gov\/asp\/billsintro\/SenResults.asp?Listbox2=AUXIET",
+    "Bill Sponsor":"Auxier, T.",
+    "New_Bills":[
+      {
+        "Bill Number":"HB0472",
+        "Link to Bill":"https:\/\/le.utah.gov\/~2025\/bills\/static\/HB0472.html",
+        "Short Title":"Senior Care Facility Amendments",
+        "Sponsor":"Rep. Auxier, T.",
+        "Date Numbered":1739145600000,
+        "Office":"State House",
+        "First Initial":"T",
+        "Middle":null,
+        "Last Name":"Auxier",
+        "sheet_name":"new_bills_02142025",
+        "Bill Sponsor":"Auxier, T."
+      },
+      {
+        "Bill Number":"HB0462",
+        "Link to Bill":"https:\/\/le.utah.gov\/~2025\/bills\/static\/HB0462.html",
+        "Short Title":"Rural School Funding Amendments",
+        "Sponsor":"Rep. Auxier, T.",
+        "Date Numbered":1739145600000,
+        "Office":"State House",
+        "First Initial":"T",
+        "Middle":null,
+        "Last Name":"Auxier",
+        "sheet_name":"new_bills_02142025",
+        "Bill Sponsor":"Auxier, T."
+      }
+    ],
+    "Passed_Bills":[
+      {
+        "Bill Number":"HB0074",
+        "Bill Title":"Foreign Judgment Amendments\u00a0",
+        "Bill Sponsor":"Auxier, T.",
+        "Date Passed":1740009600000,
+        "Effective Date":1746576000000,
+        "Governor's Action":null,
+        "Gov's Action Date":null,
+        "Laws of Utah Chapter":null,
+        "filename":"passedBills_02242025.csv",
+        "file_date":1740355200000
+      }
+    ]
+  },
+  {
+    "Img_ID":"SNIDEC",
+    "Office":"State House",
+    "Rep_Name":"Casey Snider",
+    "District":"5",
+    "Party":"R",
+    "Email":"csnider@le.utah.gov",
+    "County(ies)":"Cache",
+    "Webpage":"https:\/\/house.utleg.gov\/rep\/SNIDEC",
+    "Img_URL":"https:\/\/le.utah.gov\/images\/legislator\/house\/SNIDEC.jpg",
+    "Legislation_By_Representative":"https:\/\/le.utah.gov\/asp\/billsintro\/SenResults.asp?Listbox2=SNIDEC",
+    "Bill Sponsor":"Snider, C.",
+    "New_Bills":[
+
+    ],
+    "Passed_Bills":[
+
+    ]
+  },
+  {
+    "Img_ID":"GWYNNM",
+    "Office":"State House",
+    "Rep_Name":"Matthew H Gwynn",
+    "District":"6",
+    "Party":"R",
+    "Email":"mgwynn@le.utah.gov",
+    "County(ies)":"Box Elder, Weber",
+    "Webpage":"https:\/\/house.utleg.gov\/rep\/GWYNNM",
+    "Img_URL":"https:\/\/le.utah.gov\/images\/legislator\/house\/GWYNNM.jpg",
+    "Legislation_By_Representative":"https:\/\/le.utah.gov\/asp\/billsintro\/SenResults.asp?Listbox2=GWYNNM",
+    "Bill Sponsor":"Gwynn, M.",
+    "New_Bills":[
+
+    ],
+    "Passed_Bills":[
+      {
+        "Bill Number":"HB0022S01",
+        "Bill Title":"Prostitution Offense Amendments\u00a0",
+        "Bill Sponsor":"Gwynn, M.",
+        "Date Passed":1739145600000,
+        "Effective Date":1746576000000,
+        "Governor's Action":null,
+        "Gov's Action Date":null,
+        "Laws of Utah Chapter":null,
+        "filename":"passedBills_02142025.csv",
+        "file_date":1739491200000
+      }
+    ]
+  },
+  {
+    "Img_ID":"WILCORD",
+    "Office":"State House",
+    "Rep_Name":"Ryan D Wilcox",
+    "District":"7",
+    "Party":"R",
+    "Email":"ryanwilcox@le.utah.gov",
+    "County(ies)":"Weber",
+    "Webpage":"https:\/\/house.utleg.gov\/rep\/WILCORD",
+    "Img_URL":"https:\/\/le.utah.gov\/images\/legislator\/house\/WILCORD.jpg",
+    "Legislation_By_Representative":"https:\/\/le.utah.gov\/asp\/billsintro\/SenResults.asp?Listbox2=WILCORD",
+    "Bill Sponsor":"Wilcox, R.",
+    "New_Bills":[
+      {
+        "Bill Number":"HB0501",
+        "Link to Bill":"https:\/\/le.utah.gov\/~2025\/bills\/static\/HB0501.html",
+        "Short Title":"Division of Natural Resources Law Enforcement Amendments",
+        "Sponsor":"Rep. Wilcox, R.",
+        "Date Numbered":1739404800000,
+        "Office":"State House",
+        "First Initial":"R",
+        "Middle":null,
+        "Last Name":"Wilcox",
+        "sheet_name":"new_bills_02142025",
+        "Bill Sponsor":"Wilcox, R."
+      },
+      {
+        "Bill Number":"HB0474",
+        "Link to Bill":"https:\/\/le.utah.gov\/~2025\/bills\/static\/HB0474.html",
+        "Short Title":"Regulatory Oversight Amendments",
+        "Sponsor":"Rep. Wilcox, R.",
+        "Date Numbered":1739232000000,
+        "Office":"State House",
+        "First Initial":"R",
+        "Middle":null,
+        "Last Name":"Wilcox",
+        "sheet_name":"new_bills_02142025",
+        "Bill Sponsor":"Wilcox, R."
+      }
+    ],
+    "Passed_Bills":[
+      {
+        "Bill Number":"HB0013",
+        "Bill Title":"Sexual Extortion Amendments\u00a0",
+        "Bill Sponsor":"Wilcox, R.",
+        "Date Passed":1739491200000,
+        "Effective Date":-5364662400000,
+        "Governor's Action":null,
+        "Gov's Action Date":null,
+        "Laws of Utah Chapter":null,
+        "filename":"passedBills_02242025.csv",
+        "file_date":1740355200000
+      }
+    ]
+  },
+  {
+    "Img_ID":"KYLEJB",
+    "Office":"State House",
+    "Rep_Name":"Jason B Kyle",
+    "District":"8",
+    "Party":"R",
+    "Email":"jkyle@le.utah.gov",
+    "County(ies)":"Morgan, Weber",
+    "Webpage":"https:\/\/house.utleg.gov\/rep\/KYLEJB",
+    "Img_URL":"https:\/\/le.utah.gov\/images\/legislator\/house\/KYLEJB.jpg",
+    "Legislation_By_Representative":"https:\/\/le.utah.gov\/asp\/billsintro\/SenResults.asp?Listbox2=KYLEJB",
+    "Bill Sponsor":"Kyle, J.",
+    "New_Bills":[
+
+    ],
+    "Passed_Bills":[
+
+    ]
+  },
+  {
+    "Img_ID":"SAWYEJ",
+    "Office":"State House",
+    "Rep_Name":"Jake Sawyer",
+    "District":"9",
+    "Party":"R",
+    "Email":"jsawyer@le.utah.gov",
+    "County(ies)":"Weber",
+    "Webpage":"https:\/\/house.utleg.gov\/rep\/SAWYEJ",
+    "Img_URL":"https:\/\/le.utah.gov\/images\/legislator\/house\/SAWYEJ.jpg",
+    "Legislation_By_Representative":"https:\/\/le.utah.gov\/asp\/billsintro\/SenResults.asp?Listbox2=SAWYEJ",
+    "Bill Sponsor":"Sawyer, J.",
+    "New_Bills":[
+
+    ],
+    "Passed_Bills":[
+      {
+        "Bill Number":"HB0345",
+        "Bill Title":"State Park Road Amendments\u00a0",
+        "Bill Sponsor":"Sawyer, J.",
+        "Date Passed":1740009600000,
+        "Effective Date":null,
+        "Governor's Action":null,
+        "Gov's Action Date":null,
+        "Laws of Utah Chapter":null,
+        "filename":"passedBills_02242025.csv",
+        "file_date":1740355200000
+      }
+    ]
+  },
+  {
+    "Img_ID":"KOFORJ",
+    "Office":"State House",
+    "Rep_Name":"Jill Koford",
+    "District":"10",
+    "Party":"R",
+    "Email":"jkoford@le.utah.gov",
+    "County(ies)":"Weber",
+    "Webpage":"https:\/\/house.utleg.gov\/rep\/KOFORJ",
+    "Img_URL":"https:\/\/le.utah.gov\/images\/legislator\/house\/KOFORJ.jpg",
+    "Legislation_By_Representative":"https:\/\/le.utah.gov\/asp\/billsintro\/SenResults.asp?Listbox2=KOFORJ",
+    "Bill Sponsor":"Koford, J.",
+    "New_Bills":[
+
+    ],
+    "Passed_Bills":[
+
+    ]
+  },
+  {
+    "Img_ID":"HALLK",
+    "Office":"State House",
+    "Rep_Name":"Katy Hall",
+    "District":"11",
+    "Party":"R",
+    "Email":"khall@le.utah.gov",
+    "County(ies)":"Davis, Weber",
+    "Webpage":"https:\/\/house.utleg.gov\/rep\/HALLK",
+    "Img_URL":"https:\/\/le.utah.gov\/images\/legislator\/house\/HALLK.jpg",
+    "Legislation_By_Representative":"https:\/\/le.utah.gov\/asp\/billsintro\/SenResults.asp?Listbox2=HALLK",
+    "Bill Sponsor":"Hall, K.",
+    "New_Bills":[
+      {
+        "Bill Number":"HB0503",
+        "Link to Bill":"https:\/\/le.utah.gov\/~2025\/bills\/static\/HB0503.html",
+        "Short Title":"Medical Malpractice Modifications",
+        "Sponsor":"Rep. Hall, K.",
+        "Date Numbered":1739404800000,
+        "Office":"State House",
+        "First Initial":"K",
+        "Middle":null,
+        "Last Name":"Hall",
+        "sheet_name":"new_bills_02142025",
+        "Bill Sponsor":"Hall, K."
+      },
+      {
+        "Bill Number":"HB0497",
+        "Link to Bill":"https:\/\/le.utah.gov\/~2025\/bills\/static\/HB0497.html",
+        "Short Title":"Public Education Compliance",
+        "Sponsor":"Rep. Hall, K.",
+        "Date Numbered":1739404800000,
+        "Office":"State House",
+        "First Initial":"K",
+        "Middle":null,
+        "Last Name":"Hall",
+        "sheet_name":"new_bills_02142025",
+        "Bill Sponsor":"Hall, K."
+      }
+    ],
+    "Passed_Bills":[
+      {
+        "Bill Number":"HB0146",
+        "Bill Title":"Mammography Amendments\u00a0",
+        "Bill Sponsor":"Hall, K.",
+        "Date Passed":1739404800000,
+        "Effective Date":null,
+        "Governor's Action":null,
+        "Gov's Action Date":null,
+        "Laws of Utah Chapter":null,
+        "filename":"passedBills_02142025.csv",
+        "file_date":1739491200000
+      },
+      {
+        "Bill Number":"HB0146",
+        "Bill Title":"Mammography Amendments\u00a0",
+        "Bill Sponsor":"Hall, K.",
+        "Date Passed":1739404800000,
+        "Effective Date":1746576000000,
+        "Governor's Action":null,
+        "Gov's Action Date":null,
+        "Laws of Utah Chapter":null,
+        "filename":"passedBills_02242025.csv",
+        "file_date":1740355200000
+      }
+    ]
+  },
+  {
+    "Img_ID":"SCHULM",
+    "Office":"State House",
+    "Rep_Name":"Mike Schultz",
+    "District":"12",
+    "Party":"R",
+    "Email":"mikeschultz@le.utah.gov",
+    "County(ies)":"Davis, Weber",
+    "Webpage":"https:\/\/house.utleg.gov\/rep\/SCHULM",
+    "Img_URL":"https:\/\/le.utah.gov\/images\/legislator\/house\/SCHULM.jpg",
+    "Legislation_By_Representative":"https:\/\/le.utah.gov\/asp\/billsintro\/SenResults.asp?Listbox2=SCHULM",
+    "Bill Sponsor":"Schultz, M.",
+    "New_Bills":[
+
+    ],
+    "Passed_Bills":[
+
+    ]
+  },
+  {
+    "Img_ID":"PETERK",
+    "Office":"State House",
+    "Rep_Name":"Karen M Peterson",
+    "District":"13",
+    "Party":"R",
+    "Email":"kpeterson@le.utah.gov",
+    "County(ies)":"Davis",
+    "Webpage":"https:\/\/house.utleg.gov\/rep\/PETERK",
+    "Img_URL":"https:\/\/le.utah.gov\/images\/legislator\/house\/PETERK.jpg",
+    "Legislation_By_Representative":"https:\/\/le.utah.gov\/asp\/billsintro\/SenResults.asp?Listbox2=PETERK",
+    "Bill Sponsor":"Peterson, K.",
+    "New_Bills":[
+
+    ],
+    "Passed_Bills":[
+      {
+        "Bill Number":"HB0001",
+        "Bill Title":"Higher Education Base Budget \u00a0",
+        "Bill Sponsor":"Peterson, K.",
+        "Date Passed":1738195200000,
+        "Effective Date":1751328000000,
+        "Governor's Action":null,
+        "Gov's Action Date":null,
+        "Laws of Utah Chapter":null,
+        "filename":"passedBills_02142025.csv",
+        "file_date":1739491200000
+      },
+      {
+        "Bill Number":"HB0043",
+        "Bill Title":"Education Program Sunset Amendments\u00a0",
+        "Bill Sponsor":"Peterson, K.",
+        "Date Passed":1738627200000,
+        "Effective Date":1746576000000,
+        "Governor's Action":null,
+        "Gov's Action Date":null,
+        "Laws of Utah Chapter":null,
+        "filename":"passedBills_02142025.csv",
+        "file_date":1739491200000
+      },
+      {
+        "Bill Number":"HB0051S01",
+        "Bill Title":"Higher Education Reporting Amendments\u00a0",
+        "Bill Sponsor":"Peterson, K.",
+        "Date Passed":1739145600000,
+        "Effective Date":1746576000000,
+        "Governor's Action":null,
+        "Gov's Action Date":null,
+        "Laws of Utah Chapter":null,
+        "filename":"passedBills_02142025.csv",
+        "file_date":1739491200000
+      },
+      {
+        "Bill Number":"HB0001",
+        "Bill Title":"Higher Education Base Budget \u00a0",
+        "Bill Sponsor":"Peterson, K.",
+        "Date Passed":1738195200000,
+        "Effective Date":1751328000000,
+        "Governor's Action":"GSIGN",
+        "Gov's Action Date":"2\/14\/2025",
+        "Laws of Utah Chapter":1.0,
+        "filename":"passedBills_02242025.csv",
+        "file_date":1740355200000
+      },
+      {
+        "Bill Number":"HB0026",
+        "Bill Title":"Road Jurisdiction Amendments\u00a0",
+        "Bill Sponsor":"Peterson, K.",
+        "Date Passed":1739491200000,
+        "Effective Date":1746576000000,
+        "Governor's Action":null,
+        "Gov's Action Date":null,
+        "Laws of Utah Chapter":null,
+        "filename":"passedBills_02242025.csv",
+        "file_date":1740355200000
+      }
+    ]
+  },
+  {
+    "Img_ID":"LISONK",
+    "Office":"State House",
+    "Rep_Name":"Karianne Lisonbee",
+    "District":"14",
+    "Party":"R",
+    "Email":"karilisonbee@le.utah.gov",
+    "County(ies)":"Davis",
+    "Webpage":"https:\/\/house.utleg.gov\/rep\/LISONK",
+    "Img_URL":"https:\/\/le.utah.gov\/images\/legislator\/house\/LISONK.jpg",
+    "Legislation_By_Representative":"https:\/\/le.utah.gov\/asp\/billsintro\/SenResults.asp?Listbox2=LISONK",
+    "Bill Sponsor":"Lisonbee, K.",
+    "New_Bills":[
+
+    ],
+    "Passed_Bills":[
+      {
+        "Bill Number":"HB0252S01",
+        "Bill Title":"State Custody Amendments\u00a0",
+        "Bill Sponsor":"Lisonbee, K.",
+        "Date Passed":1740009600000,
+        "Effective Date":1746576000000,
+        "Governor's Action":null,
+        "Gov's Action Date":null,
+        "Laws of Utah Chapter":null,
+        "filename":"passedBills_02242025.csv",
+        "file_date":1740355200000
+      }
+    ]
+  },
+  {
+    "Img_ID":"DEFAYA",
+    "Office":"State House",
+    "Rep_Name":"Ariel Defay",
+    "District":"15",
+    "Party":"R",
+    "Email":"adefay@le.utah.gov",
+    "County(ies)":"Davis",
+    "Webpage":"https:\/\/house.utleg.gov\/rep\/DEFAYA",
+    "Img_URL":"https:\/\/le.utah.gov\/images\/legislator\/house\/DEFAYA.jpg",
+    "Legislation_By_Representative":"https:\/\/le.utah.gov\/asp\/billsintro\/SenResults.asp?Listbox2=DEFAYA",
+    "Bill Sponsor":"Defay, A.",
+    "New_Bills":[
+
+    ],
+    "Passed_Bills":[
+      {
+        "Bill Number":"HB0197S02",
+        "Bill Title":"Criminal Conduct Amendments\u00a0",
+        "Bill Sponsor":"Defay, A.",
+        "Date Passed":1740009600000,
+        "Effective Date":null,
+        "Governor's Action":null,
+        "Gov's Action Date":null,
+        "Laws of Utah Chapter":null,
+        "filename":"passedBills_02242025.csv",
+        "file_date":1740355200000
+      },
+      {
+        "Bill Number":"HB0234S01",
+        "Bill Title":"Motorcycle Safety Amendments\u00a0",
+        "Bill Sponsor":"Defay, A.",
+        "Date Passed":1740096000000,
+        "Effective Date":null,
+        "Governor's Action":null,
+        "Gov's Action Date":null,
+        "Laws of Utah Chapter":null,
+        "filename":"passedBills_02242025.csv",
+        "file_date":1740355200000
+      }
+    ]
+  },
+  {
+    "Img_ID":"LEETA",
+    "Office":"State House",
+    "Rep_Name":"Trevor Lee",
+    "District":"16",
+    "Party":"R",
+    "Email":"tlee@le.utah.gov",
+    "County(ies)":"Davis",
+    "Webpage":"https:\/\/house.utleg.gov\/rep\/LEETA",
+    "Img_URL":"https:\/\/le.utah.gov\/images\/legislator\/house\/LEETA.jpg",
+    "Legislation_By_Representative":"https:\/\/le.utah.gov\/asp\/billsintro\/SenResults.asp?Listbox2=LEETA",
+    "Bill Sponsor":"Lee, T.",
+    "New_Bills":[
+
+    ],
+    "Passed_Bills":[
+      {
+        "Bill Number":"HB0124S01",
+        "Bill Title":"Education Industry Employee Privacy\u00a0",
+        "Bill Sponsor":"Lee, T.",
+        "Date Passed":1739923200000,
+        "Effective Date":1751328000000,
+        "Governor's Action":null,
+        "Gov's Action Date":null,
+        "Laws of Utah Chapter":null,
+        "filename":"passedBills_02242025.csv",
+        "file_date":1740355200000
+      }
+    ]
+  },
+  {
+    "Img_ID":"BARLOSE",
+    "Office":"State House",
+    "Rep_Name":"Stewart E Barlow",
+    "District":"17",
+    "Party":"R",
+    "Email":"sbarlow@le.utah.gov",
+    "County(ies)":"Davis",
+    "Webpage":"https:\/\/house.utleg.gov\/rep\/BARLOSE",
+    "Img_URL":"https:\/\/le.utah.gov\/images\/legislator\/house\/BARLOSE.jpg",
+    "Legislation_By_Representative":"https:\/\/le.utah.gov\/asp\/billsintro\/SenResults.asp?Listbox2=BARLOSE",
+    "Bill Sponsor":"Barlow, S.",
+    "New_Bills":[
+
+    ],
+    "Passed_Bills":[
+
+    ]
+  },
+  {
+    "Img_ID":"CUTLEP",
+    "Office":"State House",
+    "Rep_Name":"Paul A Cutler",
+    "District":"18",
+    "Party":"R",
+    "Email":"pcutler@le.utah.gov",
+    "County(ies)":"Davis",
+    "Webpage":"https:\/\/house.utleg.gov\/rep\/CUTLEP",
+    "Img_URL":"https:\/\/le.utah.gov\/images\/legislator\/house\/CUTLEP.jpg",
+    "Legislation_By_Representative":"https:\/\/le.utah.gov\/asp\/billsintro\/SenResults.asp?Listbox2=CUTLEP",
+    "Bill Sponsor":"Cutler, P.",
+    "New_Bills":[
+
+    ],
+    "Passed_Bills":[
+      {
+        "Bill Number":"HB0200",
+        "Bill Title":"Outdoor Recreation Amendments\u00a0",
+        "Bill Sponsor":"Cutler, P.",
+        "Date Passed":1739491200000,
+        "Effective Date":1746576000000,
+        "Governor's Action":null,
+        "Gov's Action Date":null,
+        "Laws of Utah Chapter":null,
+        "filename":"passedBills_02242025.csv",
+        "file_date":1740355200000
+      }
+    ]
+  },
+  {
+    "Img_ID":"WARDR",
+    "Office":"State House",
+    "Rep_Name":"Raymond P Ward",
+    "District":"19",
+    "Party":"R",
+    "Email":"rayward@le.utah.gov",
+    "County(ies)":"Davis",
+    "Webpage":"https:\/\/house.utleg.gov\/rep\/WARDR",
+    "Img_URL":"https:\/\/le.utah.gov\/images\/legislator\/house\/WARDR.jpg",
+    "Legislation_By_Representative":"https:\/\/le.utah.gov\/asp\/billsintro\/SenResults.asp?Listbox2=WARDR",
+    "Bill Sponsor":"Ward, R.",
+    "New_Bills":[
+      {
+        "Bill Number":"HB0493",
+        "Link to Bill":"https:\/\/le.utah.gov\/~2025\/bills\/static\/HB0493.html",
+        "Short Title":"Medical Examiner Amendments",
+        "Sponsor":"Rep. Ward, R.",
+        "Date Numbered":1739318400000,
+        "Office":"State House",
+        "First Initial":"R",
+        "Middle":null,
+        "Last Name":"Ward",
+        "sheet_name":"new_bills_02142025",
+        "Bill Sponsor":"Ward, R."
+      },
+      {
+        "Bill Number":"HB0470",
+        "Link to Bill":"https:\/\/le.utah.gov\/~2025\/bills\/static\/HB0470.html",
+        "Short Title":"Water Heater Emissions Amendments",
+        "Sponsor":"Rep. Ward, R.",
+        "Date Numbered":1739145600000,
+        "Office":"State House",
+        "First Initial":"R",
+        "Middle":null,
+        "Last Name":"Ward",
+        "sheet_name":"new_bills_02142025",
+        "Bill Sponsor":"Ward, R."
+      },
+      {
+        "Bill Number":"HB0463",
+        "Link to Bill":"https:\/\/le.utah.gov\/~2025\/bills\/static\/HB0463.html",
+        "Short Title":"Child Support Modifications",
+        "Sponsor":"Rep. Ward, R.",
+        "Date Numbered":1739145600000,
+        "Office":"State House",
+        "First Initial":"R",
+        "Middle":null,
+        "Last Name":"Ward",
+        "sheet_name":"new_bills_02142025",
+        "Bill Sponsor":"Ward, R."
+      }
+    ],
+    "Passed_Bills":[
+      {
+        "Bill Number":"HB0129S02",
+        "Bill Title":"Adoption Records Access Amendments\u00a0",
+        "Bill Sponsor":"Ward, R.",
+        "Date Passed":1740096000000,
+        "Effective Date":null,
+        "Governor's Action":null,
+        "Gov's Action Date":null,
+        "Laws of Utah Chapter":null,
+        "filename":"passedBills_02242025.csv",
+        "file_date":1740355200000
+      },
+      {
+        "Bill Number":"HB0175",
+        "Bill Title":"Housing Construction Amendments\u00a0",
+        "Bill Sponsor":"Ward, R.",
+        "Date Passed":1740009600000,
+        "Effective Date":1746576000000,
+        "Governor's Action":null,
+        "Gov's Action Date":null,
+        "Laws of Utah Chapter":null,
+        "filename":"passedBills_02242025.csv",
+        "file_date":1740355200000
+      }
+    ]
+  },
+  {
+    "Img_ID":"BALLAMG",
+    "Office":"State House",
+    "Rep_Name":"Melissa G Ballard",
+    "District":"20",
+    "Party":"R",
+    "Email":"mballard@le.utah.gov",
+    "County(ies)":"Davis",
+    "Webpage":"https:\/\/house.utleg.gov\/rep\/BALLAMG",
+    "Img_URL":"https:\/\/le.utah.gov\/images\/legislator\/house\/BALLAMG.jpg",
+    "Legislation_By_Representative":"https:\/\/le.utah.gov\/asp\/billsintro\/SenResults.asp?Listbox2=BALLAMG",
+    "Bill Sponsor":"Ballard, M.",
+    "New_Bills":[
+
+    ],
+    "Passed_Bills":[
+
+    ]
+  },
+  {
+    "Img_ID":"HOLLIS",
+    "Office":"State House",
+    "Rep_Name":"Sandra Hollins",
+    "District":"21",
+    "Party":"D",
+    "Email":"shollins@le.utah.gov",
+    "County(ies)":"Salt Lake",
+    "Webpage":"https:\/\/house.utleg.gov\/rep\/HOLLIS",
+    "Img_URL":"https:\/\/le.utah.gov\/images\/legislator\/house\/HOLLIS.jpg",
+    "Legislation_By_Representative":"https:\/\/le.utah.gov\/asp\/billsintro\/SenResults.asp?Listbox2=HOLLIS",
+    "Bill Sponsor":"Hollins, S.",
+    "New_Bills":[
+
+    ],
+    "Passed_Bills":[
+
+    ]
+  },
+  {
+    "Img_ID":"DAILEJ",
+    "Office":"State House",
+    "Rep_Name":"Jennifer Dailey-Provost",
+    "District":"22",
+    "Party":"D",
+    "Email":"jdprovost@le.utah.gov",
+    "County(ies)":"Salt Lake",
+    "Webpage":"https:\/\/house.utleg.gov\/rep\/DAILEJ",
+    "Img_URL":"https:\/\/le.utah.gov\/images\/legislator\/house\/DAILEJ.jpg",
+    "Legislation_By_Representative":"https:\/\/le.utah.gov\/asp\/billsintro\/SenResults.asp?Listbox2=DAILEJ",
+    "Bill Sponsor":"Dailey-Provost, J.",
+    "New_Bills":[
+      {
+        "Bill Number":"HB0509",
+        "Link to Bill":"https:\/\/le.utah.gov\/~2025\/bills\/static\/HB0509.html",
+        "Short Title":"Kratom Amendments",
+        "Sponsor":"Rep. Dailey-Provost, J.",
+        "Date Numbered":1739491200000,
+        "Office":"State House",
+        "First Initial":"J",
+        "Middle":null,
+        "Last Name":"Dailey-Provost",
+        "sheet_name":"new_bills_02142025",
+        "Bill Sponsor":"Dailey-Provost, J."
+      },
+      {
+        "Bill Number":"HB0500",
+        "Link to Bill":"https:\/\/le.utah.gov\/~2025\/bills\/static\/HB0500.html",
+        "Short Title":"Controlled Substance Modifications",
+        "Sponsor":"Rep. Dailey-Provost, J.",
+        "Date Numbered":1739404800000,
+        "Office":"State House",
+        "First Initial":"J",
+        "Middle":null,
+        "Last Name":"Dailey-Provost",
+        "sheet_name":"new_bills_02142025",
+        "Bill Sponsor":"Dailey-Provost, J."
+      }
+    ],
+    "Passed_Bills":[
+      {
+        "Bill Number":"HB0223",
+        "Bill Title":"State Grant Requirements\u00a0",
+        "Bill Sponsor":"Dailey-Provost, J.",
+        "Date Passed":1740009600000,
+        "Effective Date":1746576000000,
+        "Governor's Action":null,
+        "Gov's Action Date":null,
+        "Laws of Utah Chapter":null,
+        "filename":"passedBills_02242025.csv",
+        "file_date":1740355200000
+      },
+      {
+        "Bill Number":"HB0266",
+        "Bill Title":"Veteran Housing Amendments\u00a0",
+        "Bill Sponsor":"Dailey-Provost, J.",
+        "Date Passed":1740096000000,
+        "Effective Date":null,
+        "Governor's Action":null,
+        "Gov's Action Date":null,
+        "Laws of Utah Chapter":null,
+        "filename":"passedBills_02242025.csv",
+        "file_date":1740355200000
+      }
+    ]
+  },
+  {
+    "Img_ID":"NGUYEH",
+    "Office":"State House",
+    "Rep_Name":"Hoang Nguyen",
+    "District":"23",
+    "Party":"D",
+    "Email":"hnguyen@le.utah.gov",
+    "County(ies)":"Salt Lake, Summit",
+    "Webpage":"https:\/\/house.utleg.gov\/rep\/NGUYEH",
+    "Img_URL":"https:\/\/le.utah.gov\/images\/legislator\/house\/NGUYEH.jpg",
+    "Legislation_By_Representative":"https:\/\/le.utah.gov\/asp\/billsintro\/SenResults.asp?Listbox2=NGUYEH",
+    "Bill Sponsor":"Nguyen, H.",
+    "New_Bills":[
+
+    ],
+    "Passed_Bills":[
+
+    ]
+  },
+  {
+    "Img_ID":"MILLGR",
+    "Office":"State House",
+    "Rep_Name":"Grant Amjad Miller",
+    "District":"24",
+    "Party":"D",
+    "Email":"gmiller@le.utah.gov",
+    "County(ies)":"Salt Lake",
+    "Webpage":"https:\/\/house.utleg.gov\/rep\/MILLGR",
+    "Img_URL":"https:\/\/le.utah.gov\/images\/legislator\/house\/MILLGR.jpg",
+    "Legislation_By_Representative":"https:\/\/le.utah.gov\/asp\/billsintro\/SenResults.asp?Listbox2=MILLGR",
+    "Bill Sponsor":"Miller, G.",
+    "New_Bills":[
+
+    ],
+    "Passed_Bills":[
+
+    ]
+  },
+  {
+    "Img_ID":"ROMERAY",
+    "Office":"State House",
+    "Rep_Name":"Angela Romero",
+    "District":"25",
+    "Party":"D",
+    "Email":"angelaromero@le.utah.gov",
+    "County(ies)":"Salt Lake",
+    "Webpage":"https:\/\/house.utleg.gov\/rep\/ROMERAY",
+    "Img_URL":"https:\/\/le.utah.gov\/images\/legislator\/house\/ROMERAY.jpg",
+    "Legislation_By_Representative":"https:\/\/le.utah.gov\/asp\/billsintro\/SenResults.asp?Listbox2=ROMERAY",
+    "Bill Sponsor":"Romero, A.",
+    "New_Bills":[
+
+    ],
+    "Passed_Bills":[
+
+    ]
+  },
+  {
+    "Img_ID":"MACPHM",
+    "Office":"State House",
+    "Rep_Name":"Matt MacPherson",
+    "District":"26",
+    "Party":"R",
+    "Email":"mmacpherson@le.utah.gov",
+    "County(ies)":"Salt Lake",
+    "Webpage":"https:\/\/house.utleg.gov\/rep\/MACPHM",
+    "Img_URL":"https:\/\/le.utah.gov\/images\/legislator\/house\/MACPHM.jpg",
+    "Legislation_By_Representative":"https:\/\/le.utah.gov\/asp\/billsintro\/SenResults.asp?Listbox2=MACPHM",
+    "Bill Sponsor":"MacPherson, M.",
+    "New_Bills":[
+      {
+        "Bill Number":"HB0508",
+        "Link to Bill":"https:\/\/le.utah.gov\/~2025\/bills\/static\/HB0508.html",
+        "Short Title":"School Data Amendments",
+        "Sponsor":"Rep. MacPherson, M.",
+        "Date Numbered":1739491200000,
+        "Office":"State House",
+        "First Initial":"M",
+        "Middle":null,
+        "Last Name":"MacPherson",
+        "sheet_name":"new_bills_02142025",
+        "Bill Sponsor":"MacPherson, M."
+      },
+      {
+        "Bill Number":"HB0477",
+        "Link to Bill":"https:\/\/le.utah.gov\/~2025\/bills\/static\/HB0477.html",
+        "Short Title":"School Trespass Amendments",
+        "Sponsor":"Rep. MacPherson, M.",
+        "Date Numbered":1739232000000,
+        "Office":"State House",
+        "First Initial":"M",
+        "Middle":null,
+        "Last Name":"MacPherson",
+        "sheet_name":"new_bills_02142025",
+        "Bill Sponsor":"MacPherson, M."
+      },
+      {
+        "Bill Number":"HB0476",
+        "Link to Bill":"https:\/\/le.utah.gov\/~2025\/bills\/static\/HB0476.html",
+        "Short Title":"Tax Return Donation Amendments",
+        "Sponsor":"Rep. MacPherson, M.",
+        "Date Numbered":1739232000000,
+        "Office":"State House",
+        "First Initial":"M",
+        "Middle":null,
+        "Last Name":"MacPherson",
+        "sheet_name":"new_bills_02142025",
+        "Bill Sponsor":"MacPherson, M."
+      }
+    ],
+    "Passed_Bills":[
+
+    ]
+  },
+  {
+    "Img_ID":"LOUBEA",
+    "Office":"State House",
+    "Rep_Name":"Anthony E Loubet",
+    "District":"27",
+    "Party":"R",
+    "Email":"aloubet@le.utah.gov",
+    "County(ies)":"Salt Lake",
+    "Webpage":"https:\/\/house.utleg.gov\/rep\/LOUBEA",
+    "Img_URL":"https:\/\/le.utah.gov\/images\/legislator\/house\/LOUBEA.jpg",
+    "Legislation_By_Representative":"https:\/\/le.utah.gov\/asp\/billsintro\/SenResults.asp?Listbox2=LOUBEA",
+    "Bill Sponsor":"Loubet, A.",
+    "New_Bills":[
+      {
+        "Bill Number":"HB0481",
+        "Link to Bill":"https:\/\/le.utah.gov\/~2025\/bills\/static\/HB0481.html",
+        "Short Title":"Ballot Proposition Requirements",
+        "Sponsor":"Rep. Loubet, A.",
+        "Date Numbered":1739232000000,
+        "Office":"State House",
+        "First Initial":"A",
+        "Middle":null,
+        "Last Name":"Loubet",
+        "sheet_name":"new_bills_02142025",
+        "Bill Sponsor":"Loubet, A."
+      },
+      {
+        "Bill Number":"HJR010",
+        "Link to Bill":"https:\/\/le.utah.gov\/~2025\/bills\/static\/HJR010.html",
+        "Short Title":"Proposal to Amend Utah Constitution - Publication Amendments",
+        "Sponsor":"Rep. Loubet, A.",
+        "Date Numbered":1739232000000,
+        "Office":"State House",
+        "First Initial":"A",
+        "Middle":null,
+        "Last Name":"Loubet",
+        "sheet_name":"new_bills_02142025",
+        "Bill Sponsor":"Loubet, A."
+      }
+    ],
+    "Passed_Bills":[
+      {
+        "Bill Number":"HB0111",
+        "Bill Title":"Workers' Compensation Amendments\u00a0",
+        "Bill Sponsor":"Loubet, A.",
+        "Date Passed":1740096000000,
+        "Effective Date":null,
+        "Governor's Action":null,
+        "Gov's Action Date":null,
+        "Laws of Utah Chapter":null,
+        "filename":"passedBills_02242025.csv",
+        "file_date":1740355200000
+      }
+    ]
+  },
+  {
+    "Img_ID":"PECKNI",
+    "Office":"State House",
+    "Rep_Name":"Nicholeen P Peck",
+    "District":"28",
+    "Party":"R",
+    "Email":"npeck@le.utah.gov",
+    "County(ies)":"Tooele",
+    "Webpage":"https:\/\/house.utleg.gov\/rep\/PECKNI",
+    "Img_URL":"https:\/\/le.utah.gov\/images\/legislator\/house\/PECKNI.jpg",
+    "Legislation_By_Representative":"https:\/\/le.utah.gov\/asp\/billsintro\/SenResults.asp?Listbox2=PECKNI",
+    "Bill Sponsor":"Peck, N.",
+    "New_Bills":[
+      {
+        "Bill Number":"HJR011",
+        "Link to Bill":"https:\/\/le.utah.gov\/~2025\/bills\/static\/HJR011.html",
+        "Short Title":"Joint Resolution on the Foundation for a Strong Utah Future",
+        "Sponsor":"Rep. Peck, N.",
+        "Date Numbered":1739318400000,
+        "Office":"State House",
+        "First Initial":"N",
+        "Middle":null,
+        "Last Name":"Peck",
+        "sheet_name":"new_bills_02142025",
+        "Bill Sponsor":"Peck, N."
+      },
+      {
+        "Bill Number":"HB0487",
+        "Link to Bill":"https:\/\/le.utah.gov\/~2025\/bills\/static\/HB0487.html",
+        "Short Title":"Women Veterans Day Observance",
+        "Sponsor":"Rep. Peck, N.",
+        "Date Numbered":1739318400000,
+        "Office":"State House",
+        "First Initial":"N",
+        "Middle":null,
+        "Last Name":"Peck",
+        "sheet_name":"new_bills_02142025",
+        "Bill Sponsor":"Peck, N."
+      },
+      {
+        "Bill Number":"HB0473",
+        "Link to Bill":"https:\/\/le.utah.gov\/~2025\/bills\/static\/HB0473.html",
+        "Short Title":"School Digital Materials Amendments",
+        "Sponsor":"Rep. Peck, N.",
+        "Date Numbered":1739145600000,
+        "Office":"State House",
+        "First Initial":"N",
+        "Middle":null,
+        "Last Name":"Peck",
+        "sheet_name":"new_bills_02142025",
+        "Bill Sponsor":"Peck, N."
+      }
+    ],
+    "Passed_Bills":[
+
+    ]
+  },
+  {
+    "Img_ID":"BOLINB",
+    "Office":"State House",
+    "Rep_Name":"Bridger Bolinder",
+    "District":"29",
+    "Party":"R",
+    "Email":"bbolinder@le.utah.gov",
+    "County(ies)":"Juab, Millard, Tooele",
+    "Webpage":"https:\/\/house.utleg.gov\/rep\/BOLINB",
+    "Img_URL":"https:\/\/le.utah.gov\/images\/legislator\/house\/BOLINB.jpg",
+    "Legislation_By_Representative":"https:\/\/le.utah.gov\/asp\/billsintro\/SenResults.asp?Listbox2=BOLINB",
+    "Bill Sponsor":"Bolinder, B.",
+    "New_Bills":[
+      {
+        "Bill Number":"HB0478",
+        "Link to Bill":"https:\/\/le.utah.gov\/~2025\/bills\/static\/HB0478.html",
+        "Short Title":"Brine Mining Amendments",
+        "Sponsor":"Rep. Bolinder, B.",
+        "Date Numbered":1739232000000,
+        "Office":"State House",
+        "First Initial":"B",
+        "Middle":null,
+        "Last Name":"Bolinder",
+        "sheet_name":"new_bills_02142025",
+        "Bill Sponsor":"Bolinder, B."
+      }
+    ],
+    "Passed_Bills":[
+      {
+        "Bill Number":"HB0254",
+        "Bill Title":"Waste Classification Amendments\u00a0",
+        "Bill Sponsor":"Bolinder, B.",
+        "Date Passed":1740355200000,
+        "Effective Date":null,
+        "Governor's Action":null,
+        "Gov's Action Date":null,
+        "Laws of Utah Chapter":null,
+        "filename":"passedBills_02242025.csv",
+        "file_date":1740355200000
+      }
+    ]
+  },
+  {
+    "Img_ID":"FITISJ",
+    "Office":"State House",
+    "Rep_Name":"Jake Fitisemanu",
+    "District":"30",
+    "Party":"D",
+    "Email":"jfitisemanu@le.utah.gov",
+    "County(ies)":"Salt Lake",
+    "Webpage":"https:\/\/house.utleg.gov\/rep\/FITISJ",
+    "Img_URL":"https:\/\/le.utah.gov\/images\/legislator\/house\/FITISJ.jpg",
+    "Legislation_By_Representative":"https:\/\/le.utah.gov\/asp\/billsintro\/SenResults.asp?Listbox2=FITISJ",
+    "Bill Sponsor":"Fitisemanu, J.",
+    "New_Bills":[
+      {
+        "Bill Number":"HB0485",
+        "Link to Bill":"https:\/\/le.utah.gov\/~2025\/bills\/static\/HB0485.html",
+        "Short Title":"Residential Notification Amendments",
+        "Sponsor":"Rep. Fitisemanu, J.",
+        "Date Numbered":1739318400000,
+        "Office":"State House",
+        "First Initial":"J",
+        "Middle":null,
+        "Last Name":"Fitisemanu",
+        "sheet_name":"new_bills_02142025",
+        "Bill Sponsor":"Fitisemanu, J."
+      }
+    ],
+    "Passed_Bills":[
+
+    ]
+  },
+  {
+    "Img_ID":"MAUGAV",
+    "Office":"State House",
+    "Rep_Name":"Verona Mauga",
+    "District":"31",
+    "Party":"D",
+    "Email":"vmauga@le.utah.gov",
+    "County(ies)":"Salt Lake",
+    "Webpage":"https:\/\/house.utleg.gov\/rep\/MAUGAV",
+    "Img_URL":"https:\/\/le.utah.gov\/images\/legislator\/house\/MAUGAV.jpg",
+    "Legislation_By_Representative":"https:\/\/le.utah.gov\/asp\/billsintro\/SenResults.asp?Listbox2=MAUGAV",
+    "Bill Sponsor":"Mauga, V.",
+    "New_Bills":[
+      {
+        "Bill Number":"HB0461",
+        "Link to Bill":"https:\/\/le.utah.gov\/~2025\/bills\/static\/HB0461.html",
+        "Short Title":"Animal Crime Victim Amendments",
+        "Sponsor":"Rep. Mauga, V.",
+        "Date Numbered":1739145600000,
+        "Office":"State House",
+        "First Initial":"V",
+        "Middle":null,
+        "Last Name":"Mauga",
+        "sheet_name":"new_bills_02142025",
+        "Bill Sponsor":"Mauga, V."
+      }
+    ],
+    "Passed_Bills":[
+
+    ]
+  },
+  {
+    "Img_ID":"HAYESS",
+    "Office":"State House",
+    "Rep_Name":"Sahara Hayes",
+    "District":"32",
+    "Party":"D",
+    "Email":"shayes@le.utah.gov",
+    "County(ies)":"Salt Lake",
+    "Webpage":"https:\/\/house.utleg.gov\/rep\/HAYESS",
+    "Img_URL":"https:\/\/le.utah.gov\/images\/legislator\/house\/HAYESS.jpg",
+    "Legislation_By_Representative":"https:\/\/le.utah.gov\/asp\/billsintro\/SenResults.asp?Listbox2=HAYESS",
+    "Bill Sponsor":"Hayes, S.",
+    "New_Bills":[
+      {
+        "Bill Number":"HB0479",
+        "Link to Bill":"https:\/\/le.utah.gov\/~2025\/bills\/static\/HB0479.html",
+        "Short Title":"Student Athlete Revisions",
+        "Sponsor":"Rep. Hayes, S.",
+        "Date Numbered":1739232000000,
+        "Office":"State House",
+        "First Initial":"S",
+        "Middle":null,
+        "Last Name":"Hayes",
+        "sheet_name":"new_bills_02142025",
+        "Bill Sponsor":"Hayes, S."
+      }
+    ],
+    "Passed_Bills":[
+
+    ]
+  },
+  {
+    "Img_ID":"OWENSDO",
+    "Office":"State House",
+    "Rep_Name":"Doug Owens",
+    "District":"33",
+    "Party":"D",
+    "Email":"dougowens@le.utah.gov",
+    "County(ies)":"Salt Lake",
+    "Webpage":"https:\/\/house.utleg.gov\/rep\/OWENSDO",
+    "Img_URL":"https:\/\/le.utah.gov\/images\/legislator\/house\/OWENSDO.jpg",
+    "Legislation_By_Representative":"https:\/\/le.utah.gov\/asp\/billsintro\/SenResults.asp?Listbox2=OWENSDO",
+    "Bill Sponsor":"Owens, D.",
+    "New_Bills":[
+
+    ],
+    "Passed_Bills":[
+      {
+        "Bill Number":"HB0071",
+        "Bill Title":"Committee of Consumer Services Sunset Amendments\u00a0",
+        "Bill Sponsor":"Owens, D.",
+        "Date Passed":1738800000000,
+        "Effective Date":1746576000000,
+        "Governor's Action":null,
+        "Gov's Action Date":null,
+        "Laws of Utah Chapter":null,
+        "filename":"passedBills_02142025.csv",
+        "file_date":1739491200000
+      },
+      {
+        "Bill Number":"HB0046",
+        "Bill Title":"Water Rights Applications Amendments\u00a0",
+        "Bill Sponsor":"Owens, D.",
+        "Date Passed":1739491200000,
+        "Effective Date":1746576000000,
+        "Governor's Action":null,
+        "Gov's Action Date":null,
+        "Laws of Utah Chapter":null,
+        "filename":"passedBills_02242025.csv",
+        "file_date":1740355200000
+      }
+    ]
+  },
+  {
+    "Img_ID":"MOSSCS",
+    "Office":"State House",
+    "Rep_Name":"Carol S Moss",
+    "District":"34",
+    "Party":"D",
+    "Email":"csmoss@le.utah.gov",
+    "County(ies)":"Salt Lake",
+    "Webpage":"https:\/\/house.utleg.gov\/rep\/MOSSCS",
+    "Img_URL":"https:\/\/le.utah.gov\/images\/legislator\/house\/MOSSCS.jpg",
+    "Legislation_By_Representative":"https:\/\/le.utah.gov\/asp\/billsintro\/SenResults.asp?Listbox2=MOSSCS",
+    "Bill Sponsor":"Moss, C.",
+    "New_Bills":[
+
+    ],
+    "Passed_Bills":[
+      {
+        "Bill Number":"HB0011",
+        "Bill Title":"Native American Remains Review Committee Amendments\u00a0",
+        "Bill Sponsor":"Moss, C.",
+        "Date Passed":1738195200000,
+        "Effective Date":1746576000000,
+        "Governor's Action":null,
+        "Gov's Action Date":null,
+        "Laws of Utah Chapter":null,
+        "filename":"passedBills_02142025.csv",
+        "file_date":1739491200000
+      },
+      {
+        "Bill Number":"HB0028S01",
+        "Bill Title":"On Premise Sign Installation Amendments\u00a0",
+        "Bill Sponsor":"Moss, C.",
+        "Date Passed":1740009600000,
+        "Effective Date":1746576000000,
+        "Governor's Action":null,
+        "Gov's Action Date":null,
+        "Laws of Utah Chapter":null,
+        "filename":"passedBills_02242025.csv",
+        "file_date":1740355200000
+      }
+    ]
+  },
+  {
+    "Img_ID":"DOMINR",
+    "Office":"State House",
+    "Rep_Name":"Rosalba Dominguez",
+    "District":"35",
+    "Party":"D",
+    "Email":"rdominguez@le.utah.gov",
+    "County(ies)":"Salt Lake",
+    "Webpage":"https:\/\/house.utleg.gov\/rep\/DOMINR",
+    "Img_URL":"https:\/\/le.utah.gov\/images\/legislator\/house\/DOMINR.jpg",
+    "Legislation_By_Representative":"https:\/\/le.utah.gov\/asp\/billsintro\/SenResults.asp?Listbox2=DOMINR",
+    "Bill Sponsor":"Dominguez, R.",
+    "New_Bills":[
+
+    ],
+    "Passed_Bills":[
+      {
+        "Bill Number":"HR0004",
+        "Bill Title":"Resolution Regarding Dr. Martha Hughes Cannon Commemorative Stamp\u00a0",
+        "Bill Sponsor":"Dominguez, R.",
+        "Date Passed":1740096000000,
+        "Effective Date":null,
+        "Governor's Action":null,
+        "Gov's Action Date":null,
+        "Laws of Utah Chapter":null,
+        "filename":"passedBills_02242025.csv",
+        "file_date":1740355200000
+      }
+    ]
+  },
+  {
+    "Img_ID":"DUNNIJA",
+    "Office":"State House",
+    "Rep_Name":"James A Dunnigan",
+    "District":"36",
+    "Party":"R",
+    "Email":"jdunnigan@le.utah.gov",
+    "County(ies)":"Salt Lake",
+    "Webpage":"https:\/\/house.utleg.gov\/rep\/DUNNIJA",
+    "Img_URL":"https:\/\/le.utah.gov\/images\/legislator\/house\/DUNNIJA.jpg",
+    "Legislation_By_Representative":"https:\/\/le.utah.gov\/asp\/billsintro\/SenResults.asp?Listbox2=DUNNIJA",
+    "Bill Sponsor":"Dunnigan, J.",
+    "New_Bills":[
+      {
+        "Bill Number":"HB0495",
+        "Link to Bill":"https:\/\/le.utah.gov\/~2025\/bills\/static\/HB0495.html",
+        "Short Title":"Health Care Amendments",
+        "Sponsor":"Rep. Dunnigan, J.",
+        "Date Numbered":1739318400000,
+        "Office":"State House",
+        "First Initial":"J",
+        "Middle":null,
+        "Last Name":"Dunnigan",
+        "sheet_name":"new_bills_02142025",
+        "Bill Sponsor":"Dunnigan, J."
+      }
+    ],
+    "Passed_Bills":[
+      {
+        "Bill Number":"HB0050",
+        "Bill Title":"Occupational Safety and Health Amendments\u00a0",
+        "Bill Sponsor":"Dunnigan, J.",
+        "Date Passed":1738886400000,
+        "Effective Date":1746576000000,
+        "Governor's Action":null,
+        "Gov's Action Date":null,
+        "Laws of Utah Chapter":null,
+        "filename":"passedBills_02142025.csv",
+        "file_date":1739491200000
+      },
+      {
+        "Bill Number":"HB0059S01",
+        "Bill Title":"Fireworks Modifications\u00a0",
+        "Bill Sponsor":"Dunnigan, J.",
+        "Date Passed":1739145600000,
+        "Effective Date":1746576000000,
+        "Governor's Action":null,
+        "Gov's Action Date":null,
+        "Laws of Utah Chapter":null,
+        "filename":"passedBills_02142025.csv",
+        "file_date":1739491200000
+      },
+      {
+        "Bill Number":"HJR004",
+        "Bill Title":"Joint Rules Resolution - Amendments to Joint Rules\u00a0",
+        "Bill Sponsor":"Dunnigan, J.",
+        "Date Passed":1738713600000,
+        "Effective Date":-5364662400000,
+        "Governor's Action":null,
+        "Gov's Action Date":null,
+        "Laws of Utah Chapter":null,
+        "filename":"passedBills_02142025.csv",
+        "file_date":1739491200000
+      },
+      {
+        "Bill Number":"HR0001S01",
+        "Bill Title":"House Rules Resolution - Amendments to House Rules\u00a0",
+        "Bill Sponsor":"Dunnigan, J.",
+        "Date Passed":1737417600000,
+        "Effective Date":null,
+        "Governor's Action":null,
+        "Gov's Action Date":null,
+        "Laws of Utah Chapter":null,
+        "filename":"passedBills_02142025.csv",
+        "file_date":1739491200000
+      },
+      {
+        "Bill Number":"HB0055",
+        "Bill Title":"County Office Amendments\u00a0",
+        "Bill Sponsor":"Dunnigan, J.",
+        "Date Passed":1739491200000,
+        "Effective Date":1746576000000,
+        "Governor's Action":null,
+        "Gov's Action Date":null,
+        "Laws of Utah Chapter":null,
+        "filename":"passedBills_02242025.csv",
+        "file_date":1740355200000
+      },
+      {
+        "Bill Number":"HB0064",
+        "Bill Title":"Public Official Bonding Amendments\u00a0",
+        "Bill Sponsor":"Dunnigan, J.",
+        "Date Passed":1739491200000,
+        "Effective Date":1746576000000,
+        "Governor's Action":null,
+        "Gov's Action Date":null,
+        "Laws of Utah Chapter":null,
+        "filename":"passedBills_02242025.csv",
+        "file_date":1740355200000
+      },
+      {
+        "Bill Number":"HR0003",
+        "Bill Title":"House Rules Resolution - Legislative Process Amendments\u00a0",
+        "Bill Sponsor":"Dunnigan, J.",
+        "Date Passed":1739491200000,
+        "Effective Date":-5364662400000,
+        "Governor's Action":null,
+        "Gov's Action Date":null,
+        "Laws of Utah Chapter":null,
+        "filename":"passedBills_02242025.csv",
+        "file_date":1740355200000
+      },
+      {
+        "Bill Number":"HR0005",
+        "Bill Title":"House Rules Resolution - House Procedures Amendments\u00a0",
+        "Bill Sponsor":"Dunnigan, J.",
+        "Date Passed":1739491200000,
+        "Effective Date":-5364662400000,
+        "Governor's Action":null,
+        "Gov's Action Date":null,
+        "Laws of Utah Chapter":null,
+        "filename":"passedBills_02242025.csv",
+        "file_date":1740355200000
+      }
+    ]
+  },
+  {
+    "Img_ID":"MATTHA",
+    "Office":"State House",
+    "Rep_Name":"Ashlee Matthews",
+    "District":"37",
+    "Party":"D",
+    "Email":"amatthews@le.utah.gov",
+    "County(ies)":"Salt Lake",
+    "Webpage":"https:\/\/house.utleg.gov\/rep\/MATTHA",
+    "Img_URL":"https:\/\/le.utah.gov\/images\/legislator\/house\/MATTHA.jpg",
+    "Legislation_By_Representative":"https:\/\/le.utah.gov\/asp\/billsintro\/SenResults.asp?Listbox2=MATTHA",
+    "Bill Sponsor":"Matthews, A.",
+    "New_Bills":[
+
+    ],
+    "Passed_Bills":[
+      {
+        "Bill Number":"HB0161",
+        "Bill Title":"School Bus Route Amendments\u00a0",
+        "Bill Sponsor":"Matthews, A.",
+        "Date Passed":1740096000000,
+        "Effective Date":null,
+        "Governor's Action":null,
+        "Gov's Action Date":null,
+        "Laws of Utah Chapter":null,
+        "filename":"passedBills_02242025.csv",
+        "file_date":1740355200000
+      }
+    ]
+  },
+  {
+    "Img_ID":"ACTONCK",
+    "Office":"State House",
+    "Rep_Name":"Cheryl K Acton",
+    "District":"38",
+    "Party":"R",
+    "Email":"cacton@le.utah.gov",
+    "County(ies)":"Salt Lake",
+    "Webpage":"https:\/\/house.utleg.gov\/rep\/ACTONCK",
+    "Img_URL":"https:\/\/le.utah.gov\/images\/legislator\/house\/ACTONCK.jpg",
+    "Legislation_By_Representative":"https:\/\/le.utah.gov\/asp\/billsintro\/SenResults.asp?Listbox2=ACTONCK",
+    "Bill Sponsor":"Acton, C.",
+    "New_Bills":[
+
+    ],
+    "Passed_Bills":[
+
+    ]
+  },
+  {
+    "Img_ID":"IVORYK",
+    "Office":"State House",
+    "Rep_Name":"Ken Ivory",
+    "District":"39",
+    "Party":"R",
+    "Email":"kivory@le.utah.gov",
+    "County(ies)":"Salt Lake",
+    "Webpage":"https:\/\/house.utleg.gov\/rep\/IVORYK",
+    "Img_URL":"https:\/\/le.utah.gov\/images\/legislator\/house\/IVORYK.jpg",
+    "Legislation_By_Representative":"https:\/\/le.utah.gov\/asp\/billsintro\/SenResults.asp?Listbox2=IVORYK",
+    "Bill Sponsor":"Ivory, K.",
+    "New_Bills":[
+      {
+        "Bill Number":"HB0488",
+        "Link to Bill":"https:\/\/le.utah.gov\/~2025\/bills\/static\/HB0488.html",
+        "Short Title":"Federalism Amendments",
+        "Sponsor":"Rep. Ivory, K.",
+        "Date Numbered":1739318400000,
+        "Office":"State House",
+        "First Initial":"K",
+        "Middle":null,
+        "Last Name":"Ivory",
+        "sheet_name":"new_bills_02142025",
+        "Bill Sponsor":"Ivory, K."
+      },
+      {
+        "Bill Number":"HB0484",
+        "Link to Bill":"https:\/\/le.utah.gov\/~2025\/bills\/static\/HB0484.html",
+        "Short Title":"State Purchasing Reserve Funding",
+        "Sponsor":"Rep. Ivory, K.",
+        "Date Numbered":1739232000000,
+        "Office":"State House",
+        "First Initial":"K",
+        "Middle":null,
+        "Last Name":"Ivory",
+        "sheet_name":"new_bills_02142025",
+        "Bill Sponsor":"Ivory, K."
+      }
+    ],
+    "Passed_Bills":[
+      {
+        "Bill Number":"HB0066S01",
+        "Bill Title":"Ritual Abuse Amendments\u00a0",
+        "Bill Sponsor":"Ivory, K.",
+        "Date Passed":1739491200000,
+        "Effective Date":1746576000000,
+        "Governor's Action":null,
+        "Gov's Action Date":null,
+        "Laws of Utah Chapter":null,
+        "filename":"passedBills_02242025.csv",
+        "file_date":1740355200000
+      }
+    ]
+  },
+  {
+    "Img_ID":"STODDA",
+    "Office":"State House",
+    "Rep_Name":"Andrew Stoddard",
+    "District":"40",
+    "Party":"D",
+    "Email":"astoddard@le.utah.gov",
+    "County(ies)":"Salt Lake",
+    "Webpage":"https:\/\/house.utleg.gov\/rep\/STODDA",
+    "Img_URL":"https:\/\/le.utah.gov\/images\/legislator\/house\/STODDA.jpg",
+    "Legislation_By_Representative":"https:\/\/le.utah.gov\/asp\/billsintro\/SenResults.asp?Listbox2=STODDA",
+    "Bill Sponsor":"Stoddard, A.",
+    "New_Bills":[
+
+    ],
+    "Passed_Bills":[
+      {
+        "Bill Number":"HB0315",
+        "Bill Title":"Elected Official Vacancy Modifications\u00a0",
+        "Bill Sponsor":"Stoddard, A.",
+        "Date Passed":1740009600000,
+        "Effective Date":null,
+        "Governor's Action":null,
+        "Gov's Action Date":null,
+        "Laws of Utah Chapter":null,
+        "filename":"passedBills_02242025.csv",
+        "file_date":1740355200000
+      }
+    ]
+  },
+  {
+    "Img_ID":"BENNIGL",
+    "Office":"State House",
+    "Rep_Name":"Gay Lynn Bennion",
+    "District":"41",
+    "Party":"D",
+    "Email":"glbennion@le.utah.gov",
+    "County(ies)":"Salt Lake",
+    "Webpage":"https:\/\/house.utleg.gov\/rep\/BENNIGL",
+    "Img_URL":"https:\/\/le.utah.gov\/images\/legislator\/house\/BENNIGL.jpg",
+    "Legislation_By_Representative":"https:\/\/le.utah.gov\/asp\/billsintro\/SenResults.asp?Listbox2=BENNIGL",
+    "Bill Sponsor":"Bennion, G.",
+    "New_Bills":[
+
+    ],
+    "Passed_Bills":[
+      {
+        "Bill Number":"HB0036",
+        "Bill Title":"Provo Canyon Resource Management Plan Amendments\u00a0",
+        "Bill Sponsor":"Bennion, G.",
+        "Date Passed":1738800000000,
+        "Effective Date":1746576000000,
+        "Governor's Action":null,
+        "Gov's Action Date":null,
+        "Laws of Utah Chapter":null,
+        "filename":"passedBills_02142025.csv",
+        "file_date":1739491200000
+      }
+    ]
+  },
+  {
+    "Img_ID":"OKERLC",
+    "Office":"State House",
+    "Rep_Name":"Clinton Okerlund",
+    "District":"42",
+    "Party":"R",
+    "Email":"cokerlund@le.utah.gov",
+    "County(ies)":"Salt Lake",
+    "Webpage":"https:\/\/house.utleg.gov\/rep\/OKERLC",
+    "Img_URL":"https:\/\/le.utah.gov\/images\/legislator\/house\/OKERLC.jpg",
+    "Legislation_By_Representative":"https:\/\/le.utah.gov\/asp\/billsintro\/SenResults.asp?Listbox2=OKERLC",
+    "Bill Sponsor":"Okerlund, C.",
+    "New_Bills":[
+      {
+        "Bill Number":"HB0490",
+        "Link to Bill":"https:\/\/le.utah.gov\/~2025\/bills\/static\/HB0490.html",
+        "Short Title":"State Parks Modifications",
+        "Sponsor":"Rep. Okerlund, C.",
+        "Date Numbered":1739318400000,
+        "Office":"State House",
+        "First Initial":"C",
+        "Middle":null,
+        "Last Name":"Okerlund",
+        "sheet_name":"new_bills_02142025",
+        "Bill Sponsor":"Okerlund, C."
+      }
+    ],
+    "Passed_Bills":[
+
+    ]
+  },
+  {
+    "Img_ID":"ELIASS",
+    "Office":"State House",
+    "Rep_Name":"Steve Eliason",
+    "District":"43",
+    "Party":"R",
+    "Email":"seliason@le.utah.gov",
+    "County(ies)":"Salt Lake",
+    "Webpage":"https:\/\/house.utleg.gov\/rep\/ELIASS",
+    "Img_URL":"https:\/\/le.utah.gov\/images\/legislator\/house\/ELIASS.jpg",
+    "Legislation_By_Representative":"https:\/\/le.utah.gov\/asp\/billsintro\/SenResults.asp?Listbox2=ELIASS",
+    "Bill Sponsor":"Eliason, S.",
+    "New_Bills":[
+      {
+        "Bill Number":"HB0505",
+        "Link to Bill":"https:\/\/le.utah.gov\/~2025\/bills\/static\/HB0505.html",
+        "Short Title":"Homeless Services Revisions",
+        "Sponsor":"Rep. Eliason, S.",
+        "Date Numbered":1739491200000,
+        "Office":"State House",
+        "First Initial":"S",
+        "Middle":null,
+        "Last Name":"Eliason",
+        "sheet_name":"new_bills_02142025",
+        "Bill Sponsor":"Eliason, S."
+      },
+      {
+        "Bill Number":"HB0491",
+        "Link to Bill":"https:\/\/le.utah.gov\/~2025\/bills\/static\/HB0491.html",
+        "Short Title":"Behavioral Health Modifications",
+        "Sponsor":"Rep. Eliason, S.",
+        "Date Numbered":1739318400000,
+        "Office":"State House",
+        "First Initial":"S",
+        "Middle":null,
+        "Last Name":"Eliason",
+        "sheet_name":"new_bills_02142025",
+        "Bill Sponsor":"Eliason, S."
+      }
+    ],
+    "Passed_Bills":[
+      {
+        "Bill Number":"HB0018S01",
+        "Bill Title":"Petroleum Storage Tank Amendments\u00a0",
+        "Bill Sponsor":"Eliason, S.",
+        "Date Passed":1739232000000,
+        "Effective Date":1746576000000,
+        "Governor's Action":null,
+        "Gov's Action Date":null,
+        "Laws of Utah Chapter":null,
+        "filename":"passedBills_02142025.csv",
+        "file_date":1739491200000
+      },
+      {
+        "Bill Number":"HB0034",
+        "Bill Title":"State Campgrounds Amendments\u00a0",
+        "Bill Sponsor":"Eliason, S.",
+        "Date Passed":1738800000000,
+        "Effective Date":1746576000000,
+        "Governor's Action":null,
+        "Gov's Action Date":null,
+        "Laws of Utah Chapter":null,
+        "filename":"passedBills_02142025.csv",
+        "file_date":1739491200000
+      },
+      {
+        "Bill Number":"HB0056S01",
+        "Bill Title":"Civil Commitment Modifications\u00a0",
+        "Bill Sponsor":"Eliason, S.",
+        "Date Passed":1739145600000,
+        "Effective Date":1746576000000,
+        "Governor's Action":null,
+        "Gov's Action Date":null,
+        "Laws of Utah Chapter":null,
+        "filename":"passedBills_02142025.csv",
+        "file_date":1739491200000
+      },
+      {
+        "Bill Number":"HB0062",
+        "Bill Title":"Property Tax Act Modifications\u00a0",
+        "Bill Sponsor":"Eliason, S.",
+        "Date Passed":1739491200000,
+        "Effective Date":1746576000000,
+        "Governor's Action":null,
+        "Gov's Action Date":null,
+        "Laws of Utah Chapter":null,
+        "filename":"passedBills_02242025.csv",
+        "file_date":1740355200000
+      },
+      {
+        "Bill Number":"HB0259",
+        "Bill Title":"Tax Commission Amendments\u00a0",
+        "Bill Sponsor":"Eliason, S.",
+        "Date Passed":1739491200000,
+        "Effective Date":1746576000000,
+        "Governor's Action":null,
+        "Gov's Action Date":null,
+        "Laws of Utah Chapter":null,
+        "filename":"passedBills_02242025.csv",
+        "file_date":1740355200000
+      }
+    ]
+  },
+  {
+    "Img_ID":"TEUSCJ",
+    "Office":"State House",
+    "Rep_Name":"Jordan D Teuscher",
+    "District":"44",
+    "Party":"R",
+    "Email":"jteuscher@le.utah.gov",
+    "County(ies)":"Salt Lake",
+    "Webpage":"https:\/\/house.utleg.gov\/rep\/TEUSCJ",
+    "Img_URL":"https:\/\/le.utah.gov\/images\/legislator\/house\/TEUSCJ.jpg",
+    "Legislation_By_Representative":"https:\/\/le.utah.gov\/asp\/billsintro\/SenResults.asp?Listbox2=TEUSCJ",
+    "Bill Sponsor":"Teuscher, J.",
+    "New_Bills":[
+      {
+        "Bill Number":"HB0502",
+        "Link to Bill":"https:\/\/le.utah.gov\/~2025\/bills\/static\/HB0502.html",
+        "Short Title":"Transportation and Infrastructure Funding Amendments",
+        "Sponsor":"Rep. Teuscher, J.",
+        "Date Numbered":1739404800000,
+        "Office":"State House",
+        "First Initial":"J",
+        "Middle":null,
+        "Last Name":"Teuscher",
+        "sheet_name":"new_bills_02142025",
+        "Bill Sponsor":"Teuscher, J."
+      },
+      {
+        "Bill Number":"HB0486",
+        "Link to Bill":"https:\/\/le.utah.gov\/~2025\/bills\/static\/HB0486.html",
+        "Short Title":"Number of School Days Amendments",
+        "Sponsor":"Rep. Teuscher, J.",
+        "Date Numbered":1739318400000,
+        "Office":"State House",
+        "First Initial":"J",
+        "Middle":null,
+        "Last Name":"Teuscher",
+        "sheet_name":"new_bills_02142025",
+        "Bill Sponsor":"Teuscher, J."
+      },
+      {
+        "Bill Number":"HB0466",
+        "Link to Bill":"https:\/\/le.utah.gov\/~2025\/bills\/static\/HB0466.html",
+        "Short Title":"Uniform Antitrust Pre-Merger Notification Act Amendments",
+        "Sponsor":"Rep. Teuscher, J.",
+        "Date Numbered":1739145600000,
+        "Office":"State House",
+        "First Initial":"J",
+        "Middle":null,
+        "Last Name":"Teuscher",
+        "sheet_name":"new_bills_02142025",
+        "Bill Sponsor":"Teuscher, J."
+      }
+    ],
+    "Passed_Bills":[
+      {
+        "Bill Number":"HB0267S01",
+        "Bill Title":"Public Sector Labor Union Amendments\u00a0",
+        "Bill Sponsor":"Teuscher, J.",
+        "Date Passed":1738800000000,
+        "Effective Date":1751328000000,
+        "Governor's Action":null,
+        "Gov's Action Date":null,
+        "Laws of Utah Chapter":null,
+        "filename":"passedBills_02142025.csv",
+        "file_date":1739491200000
+      },
+      {
+        "Bill Number":"HB0159",
+        "Bill Title":"Protection Order Amendments\u00a0",
+        "Bill Sponsor":"Teuscher, J.",
+        "Date Passed":1740009600000,
+        "Effective Date":1746576000000,
+        "Governor's Action":null,
+        "Gov's Action Date":null,
+        "Laws of Utah Chapter":null,
+        "filename":"passedBills_02242025.csv",
+        "file_date":1740355200000
+      },
+      {
+        "Bill Number":"HB0235S02",
+        "Bill Title":"County Auditor Modifications\u00a0",
+        "Bill Sponsor":"Teuscher, J.",
+        "Date Passed":1740009600000,
+        "Effective Date":1746576000000,
+        "Governor's Action":null,
+        "Gov's Action Date":null,
+        "Laws of Utah Chapter":null,
+        "filename":"passedBills_02242025.csv",
+        "file_date":1740355200000
+      },
+      {
+        "Bill Number":"HB0267S01",
+        "Bill Title":"Public Sector Labor Union Amendments\u00a0",
+        "Bill Sponsor":"Teuscher, J.",
+        "Date Passed":1738800000000,
+        "Effective Date":1751328000000,
+        "Governor's Action":"GSIGN",
+        "Gov's Action Date":"2\/14\/2025",
+        "Laws of Utah Chapter":10.0,
+        "filename":"passedBills_02242025.csv",
+        "file_date":1740355200000
+      }
+    ]
+  },
+  {
+    "Img_ID":"MILLET",
+    "Office":"State House",
+    "Rep_Name":"Tracy Miller",
+    "District":"45",
+    "Party":"R",
+    "Email":"tmiller@le.utah.gov",
+    "County(ies)":"Salt Lake",
+    "Webpage":"https:\/\/house.utleg.gov\/rep\/MILLET",
+    "Img_URL":"https:\/\/le.utah.gov\/images\/legislator\/house\/MILLET.jpg",
+    "Legislation_By_Representative":"https:\/\/le.utah.gov\/asp\/billsintro\/SenResults.asp?Listbox2=MILLET",
+    "Bill Sponsor":"Miller, T.",
+    "New_Bills":[
+
+    ],
+    "Passed_Bills":[
+      {
+        "Bill Number":"HB0184",
+        "Bill Title":"School Trust Land Amendments\u00a0",
+        "Bill Sponsor":"Miller, T.",
+        "Date Passed":1740355200000,
+        "Effective Date":null,
+        "Governor's Action":null,
+        "Gov's Action Date":null,
+        "Laws of Utah Chapter":null,
+        "filename":"passedBills_02242025.csv",
+        "file_date":1740355200000
+      }
+    ]
+  },
+  {
+    "Img_ID":"ROBERC",
+    "Office":"State House",
+    "Rep_Name":"Calvin Roberts",
+    "District":"46",
+    "Party":"R",
+    "Email":"croberts@le.utah.gov",
+    "County(ies)":"Salt Lake",
+    "Webpage":"https:\/\/house.utleg.gov\/rep\/ROBERC",
+    "Img_URL":"https:\/\/le.utah.gov\/images\/legislator\/house\/ROBERC.jpg",
+    "Legislation_By_Representative":"https:\/\/le.utah.gov\/asp\/billsintro\/SenResults.asp?Listbox2=ROBERC",
+    "Bill Sponsor":"Roberts, C.",
+    "New_Bills":[
+
+    ],
+    "Passed_Bills":[
+      {
+        "Bill Number":"HB0094",
+        "Bill Title":"Exemptions from Dangerous Weapons Provisions\u00a0",
+        "Bill Sponsor":"Roberts, C.",
+        "Date Passed":1740009600000,
+        "Effective Date":1746576000000,
+        "Governor's Action":null,
+        "Gov's Action Date":null,
+        "Laws of Utah Chapter":null,
+        "filename":"passedBills_02242025.csv",
+        "file_date":1740355200000
+      }
+    ]
+  },
+  {
+    "Img_ID":"STRONMA",
+    "Office":"State House",
+    "Rep_Name":"Mark A Strong",
+    "District":"47",
+    "Party":"R",
+    "Email":"mstrong@le.utah.gov",
+    "County(ies)":"Salt Lake",
+    "Webpage":"https:\/\/house.utleg.gov\/rep\/STRONMA",
+    "Img_URL":"https:\/\/le.utah.gov\/images\/legislator\/house\/STRONMA.jpg",
+    "Legislation_By_Representative":"https:\/\/le.utah.gov\/asp\/billsintro\/SenResults.asp?Listbox2=STRONMA",
+    "Bill Sponsor":"Strong, M.",
+    "New_Bills":[
+
+    ],
+    "Passed_Bills":[
+
+    ]
+  },
+  {
+    "Img_ID":"FIEFID",
+    "Office":"State House",
+    "Rep_Name":"Doug Fiefia",
+    "District":"48",
+    "Party":"R",
+    "Email":"dfiefa@le.utah.gov",
+    "County(ies)":"Salt Lake",
+    "Webpage":"https:\/\/house.utleg.gov\/rep\/FIEFID",
+    "Img_URL":"https:\/\/le.utah.gov\/images\/legislator\/house\/FIEFID.jpg",
+    "Legislation_By_Representative":"https:\/\/le.utah.gov\/asp\/billsintro\/SenResults.asp?Listbox2=FIEFID",
+    "Bill Sponsor":"Fiefia, D.",
+    "New_Bills":[
+
+    ],
+    "Passed_Bills":[
+
+    ]
+  },
+  {
+    "Img_ID":"PIERUC",
+    "Office":"State House",
+    "Rep_Name":"Candice B Pierucci",
+    "District":"49",
+    "Party":"R",
+    "Email":"cpierucci@le.utah.gov",
+    "County(ies)":"Salt Lake",
+    "Webpage":"https:\/\/house.utleg.gov\/rep\/PIERUC",
+    "Img_URL":"https:\/\/le.utah.gov\/images\/legislator\/house\/PIERUC.jpg",
+    "Legislation_By_Representative":"https:\/\/le.utah.gov\/asp\/billsintro\/SenResults.asp?Listbox2=PIERUC",
+    "Bill Sponsor":"Pierucci, C.",
+    "New_Bills":[
+      {
+        "Bill Number":"HB0460",
+        "Link to Bill":"https:\/\/le.utah.gov\/~2025\/bills\/static\/HB0460.html",
+        "Short Title":"Disclosures Amendments",
+        "Sponsor":"Rep. Pierucci, C.",
+        "Date Numbered":1739145600000,
+        "Office":"State House",
+        "First Initial":"C",
+        "Middle":null,
+        "Last Name":"Pierucci",
+        "sheet_name":"new_bills_02142025",
+        "Bill Sponsor":"Pierucci, C."
+      }
+    ],
+    "Passed_Bills":[
+
+    ]
+  },
+  {
+    "Img_ID":"GRICIS",
+    "Office":"State House",
+    "Rep_Name":"Stephanie Gricius",
+    "District":"50",
+    "Party":"R",
+    "Email":"sgricius@le.utah.gov",
+    "County(ies)":"Utah",
+    "Webpage":"https:\/\/house.utleg.gov\/rep\/GRICIS",
+    "Img_URL":"https:\/\/le.utah.gov\/images\/legislator\/house\/GRICIS.jpg",
+    "Legislation_By_Representative":"https:\/\/le.utah.gov\/asp\/billsintro\/SenResults.asp?Listbox2=GRICIS",
+    "Bill Sponsor":"Gricius, S.",
+    "New_Bills":[
+
+    ],
+    "Passed_Bills":[
+      {
+        "Bill Number":"HB0029",
+        "Bill Title":"Child Visitation Amendments\u00a0",
+        "Bill Sponsor":"Gricius, S.",
+        "Date Passed":1738886400000,
+        "Effective Date":1746576000000,
+        "Governor's Action":null,
+        "Gov's Action Date":null,
+        "Laws of Utah Chapter":null,
+        "filename":"passedBills_02142025.csv",
+        "file_date":1739491200000
+      },
+      {
+        "Bill Number":"HB0269S01",
+        "Bill Title":"Privacy Protections in Sex-designated Areas\u00a0",
+        "Bill Sponsor":"Gricius, S.",
+        "Date Passed":1739145600000,
+        "Effective Date":1748736000000,
+        "Governor's Action":null,
+        "Gov's Action Date":null,
+        "Laws of Utah Chapter":null,
+        "filename":"passedBills_02142025.csv",
+        "file_date":1739491200000
+      },
+      {
+        "Bill Number":"HB0069S04",
+        "Bill Title":"Government Records and Information Amendments\u00a0",
+        "Bill Sponsor":"Gricius, S.",
+        "Date Passed":1739923200000,
+        "Effective Date":1746576000000,
+        "Governor's Action":null,
+        "Gov's Action Date":null,
+        "Laws of Utah Chapter":null,
+        "filename":"passedBills_02242025.csv",
+        "file_date":1740355200000
+      },
+      {
+        "Bill Number":"HB0081S01",
+        "Bill Title":"Fluoride Amendments\u00a0",
+        "Bill Sponsor":"Gricius, S.",
+        "Date Passed":1740096000000,
+        "Effective Date":null,
+        "Governor's Action":null,
+        "Gov's Action Date":null,
+        "Laws of Utah Chapter":null,
+        "filename":"passedBills_02242025.csv",
+        "file_date":1740355200000
+      },
+      {
+        "Bill Number":"HB0269S01",
+        "Bill Title":"Privacy Protections in Sex-designated Areas\u00a0",
+        "Bill Sponsor":"Gricius, S.",
+        "Date Passed":1739145600000,
+        "Effective Date":1748736000000,
+        "Governor's Action":"GSIGN",
+        "Gov's Action Date":"2\/14\/2025",
+        "Laws of Utah Chapter":11.0,
+        "filename":"passedBills_02242025.csv",
+        "file_date":1740355200000
+      }
+    ]
+  },
+  {
+    "Img_ID":"MOSSJ",
+    "Office":"State House",
+    "Rep_Name":"Jefferson Moss",
+    "District":"51",
+    "Party":"R",
+    "Email":"jeffersonmoss@le.utah.gov",
+    "County(ies)":"Utah",
+    "Webpage":"https:\/\/house.utleg.gov\/rep\/MOSSJ",
+    "Img_URL":"https:\/\/le.utah.gov\/images\/legislator\/house\/MOSSJ.jpg",
+    "Legislation_By_Representative":"https:\/\/le.utah.gov\/asp\/billsintro\/SenResults.asp?Listbox2=MOSSJ",
+    "Bill Sponsor":"Moss, J.",
+    "New_Bills":[
+      {
+        "Bill Number":"HB0496",
+        "Link to Bill":"https:\/\/le.utah.gov\/~2025\/bills\/static\/HB0496.html",
+        "Short Title":"Revisor's Technical Corrections to Utah Code",
+        "Sponsor":"Rep. Moss, J.",
+        "Date Numbered":1739404800000,
+        "Office":"State House",
+        "First Initial":"J",
+        "Middle":null,
+        "Last Name":"Moss",
+        "sheet_name":"new_bills_02142025",
+        "Bill Sponsor":"Moss, J."
+      }
+    ],
+    "Passed_Bills":[
+
+    ]
+  },
+  {
+    "Img_ID":"MALOYC",
+    "Office":"State House",
+    "Rep_Name":"A. Cory Maloy",
+    "District":"52",
+    "Party":"R",
+    "Email":"corymaloy@le.utah.gov",
+    "County(ies)":"Utah",
+    "Webpage":"https:\/\/house.utleg.gov\/rep\/MALOYC",
+    "Img_URL":"https:\/\/le.utah.gov\/images\/legislator\/house\/MALOYC.jpg",
+    "Legislation_By_Representative":"https:\/\/le.utah.gov\/asp\/billsintro\/SenResults.asp?Listbox2=MALOYC",
+    "Bill Sponsor":"Maloy, A.",
+    "New_Bills":[
+
+    ],
+    "Passed_Bills":[
+
+    ]
+  },
+  {
+    "Img_ID":"CHRISKJ",
+    "Office":"State House",
+    "Rep_Name":"Kay J Christofferson",
+    "District":"53",
+    "Party":"R",
+    "Email":"kchristofferson@le.utah.gov",
+    "County(ies)":"Utah",
+    "Webpage":"https:\/\/house.utleg.gov\/rep\/CHRISKJ",
+    "Img_URL":"https:\/\/le.utah.gov\/images\/legislator\/house\/CHRISKJ.jpg",
+    "Legislation_By_Representative":"https:\/\/le.utah.gov\/asp\/billsintro\/SenResults.asp?Listbox2=CHRISKJ",
+    "Bill Sponsor":"Christofferson, K.",
+    "New_Bills":[
+
+    ],
+    "Passed_Bills":[
+      {
+        "Bill Number":"HB0229",
+        "Bill Title":"Transportation Funds Amendments\u00a0",
+        "Bill Sponsor":"Christofferson, K.",
+        "Date Passed":1740096000000,
+        "Effective Date":null,
+        "Governor's Action":null,
+        "Gov's Action Date":null,
+        "Laws of Utah Chapter":null,
+        "filename":"passedBills_02242025.csv",
+        "file_date":1740355200000
+      },
+      {
+        "Bill Number":"HB0264S01",
+        "Bill Title":"Tax Incentives Amendments\u00a0",
+        "Bill Sponsor":"Christofferson, K.",
+        "Date Passed":1740355200000,
+        "Effective Date":null,
+        "Governor's Action":null,
+        "Gov's Action Date":null,
+        "Laws of Utah Chapter":null,
+        "filename":"passedBills_02242025.csv",
+        "file_date":1740355200000
+      }
+    ]
+  },
+  {
+    "Img_ID":"CHEVRK",
+    "Office":"State House",
+    "Rep_Name":"Kristen Chevrier",
+    "District":"54",
+    "Party":"R",
+    "Email":"kchevrier@le.utah.gov",
+    "County(ies)":"Utah",
+    "Webpage":"https:\/\/house.utleg.gov\/rep\/CHEVRK",
+    "Img_URL":"https:\/\/le.utah.gov\/images\/legislator\/house\/CHEVRK.jpg",
+    "Legislation_By_Representative":"https:\/\/le.utah.gov\/asp\/billsintro\/SenResults.asp?Listbox2=CHEVRK",
+    "Bill Sponsor":"Chevrier, K.",
+    "New_Bills":[
+      {
+        "Bill Number":"HB0468",
+        "Link to Bill":"https:\/\/le.utah.gov\/~2025\/bills\/static\/HB0468.html",
+        "Short Title":"Automatic License Plate Reader Amendments",
+        "Sponsor":"Rep. Chevrier, K.",
+        "Date Numbered":1739145600000,
+        "Office":"State House",
+        "First Initial":"K",
+        "Middle":null,
+        "Last Name":"Chevrier",
+        "sheet_name":"new_bills_02142025",
+        "Bill Sponsor":"Chevrier, K."
+      }
+    ],
+    "Passed_Bills":[
+
+    ]
+  },
+  {
+    "Img_ID":"HAWKIJ",
+    "Office":"State House",
+    "Rep_Name":"Jon Hawkins",
+    "District":"55",
+    "Party":"R",
+    "Email":"jhawkins@le.utah.gov",
+    "County(ies)":"Utah",
+    "Webpage":"https:\/\/house.utleg.gov\/rep\/HAWKIJ",
+    "Img_URL":"https:\/\/le.utah.gov\/images\/legislator\/house\/HAWKIJ.jpg",
+    "Legislation_By_Representative":"https:\/\/le.utah.gov\/asp\/billsintro\/SenResults.asp?Listbox2=HAWKIJ",
+    "Bill Sponsor":"Hawkins, J.",
+    "New_Bills":[
+
+    ],
+    "Passed_Bills":[
+
+    ]
+  },
+  {
+    "Img_ID":"PETERVL",
+    "Office":"State House",
+    "Rep_Name":"Val L Peterson",
+    "District":"56",
+    "Party":"R",
+    "Email":"vpeterson@le.utah.gov",
+    "County(ies)":"Utah",
+    "Webpage":"https:\/\/house.utleg.gov\/rep\/PETERVL",
+    "Img_URL":"https:\/\/le.utah.gov\/images\/legislator\/house\/PETERVL.jpg",
+    "Legislation_By_Representative":"https:\/\/le.utah.gov\/asp\/billsintro\/SenResults.asp?Listbox2=PETERVL",
+    "Bill Sponsor":"Peterson, V.",
+    "New_Bills":[
+
+    ],
+    "Passed_Bills":[
+      {
+        "Bill Number":"HB0007",
+        "Bill Title":"National Guard, Veterans Affairs, and Legislature Base Budget\u00a0",
+        "Bill Sponsor":"Peterson, V.",
+        "Date Passed":1738195200000,
+        "Effective Date":1751328000000,
+        "Governor's Action":null,
+        "Gov's Action Date":null,
+        "Laws of Utah Chapter":null,
+        "filename":"passedBills_02142025.csv",
+        "file_date":1739491200000
+      },
+      {
+        "Bill Number":"HB0012S04",
+        "Bill Title":"Division of Purchasing and General Services Amendments\u00a0",
+        "Bill Sponsor":"Peterson, V.",
+        "Date Passed":1738886400000,
+        "Effective Date":1746576000000,
+        "Governor's Action":null,
+        "Gov's Action Date":null,
+        "Laws of Utah Chapter":null,
+        "filename":"passedBills_02142025.csv",
+        "file_date":1739491200000
+      },
+      {
+        "Bill Number":"HB0131",
+        "Bill Title":"Talent Ready Utah Program Amendments\u00a0",
+        "Bill Sponsor":"Peterson, V.",
+        "Date Passed":1739318400000,
+        "Effective Date":1746576000000,
+        "Governor's Action":null,
+        "Gov's Action Date":null,
+        "Laws of Utah Chapter":null,
+        "filename":"passedBills_02142025.csv",
+        "file_date":1739491200000
+      },
+      {
+        "Bill Number":"HB0007",
+        "Bill Title":"National Guard, Veterans Affairs, and Legislature Base Budget\u00a0",
+        "Bill Sponsor":"Peterson, V.",
+        "Date Passed":1738195200000,
+        "Effective Date":1751328000000,
+        "Governor's Action":"GSIGN",
+        "Gov's Action Date":"2\/14\/2025",
+        "Laws of Utah Chapter":5.0,
+        "filename":"passedBills_02242025.csv",
+        "file_date":1740355200000
+      }
+    ]
+  },
+  {
+    "Img_ID":"ABBOTN",
+    "Office":"State House",
+    "Rep_Name":"Nelson T Abbott",
+    "District":"57",
+    "Party":"R",
+    "Email":"nabbott@le.utah.gov",
+    "County(ies)":"Utah",
+    "Webpage":"https:\/\/house.utleg.gov\/rep\/ABBOTN",
+    "Img_URL":"https:\/\/le.utah.gov\/images\/legislator\/house\/ABBOTN.jpg",
+    "Legislation_By_Representative":"https:\/\/le.utah.gov\/asp\/billsintro\/SenResults.asp?Listbox2=ABBOTN",
+    "Bill Sponsor":"Abbott, N.",
+    "New_Bills":[
+
+    ],
+    "Passed_Bills":[
+      {
+        "Bill Number":"HB0024S02",
+        "Bill Title":"Limitations on Liability Amendments\u00a0",
+        "Bill Sponsor":"Abbott, N.",
+        "Date Passed":1740096000000,
+        "Effective Date":null,
+        "Governor's Action":null,
+        "Gov's Action Date":null,
+        "Laws of Utah Chapter":null,
+        "filename":"passedBills_02242025.csv",
+        "file_date":1740355200000
+      },
+      {
+        "Bill Number":"HB0109",
+        "Bill Title":"Municipal Election Amendments\u00a0",
+        "Bill Sponsor":"Abbott, N.",
+        "Date Passed":1739491200000,
+        "Effective Date":1746576000000,
+        "Governor's Action":null,
+        "Gov's Action Date":null,
+        "Laws of Utah Chapter":null,
+        "filename":"passedBills_02242025.csv",
+        "file_date":1740355200000
+      }
+    ]
+  },
+  {
+    "Img_ID":"SHALLD",
+    "Office":"State House",
+    "Rep_Name":"David Shallenberger",
+    "District":"58",
+    "Party":"R",
+    "Email":"dshallenberger@le.utah.gov",
+    "County(ies)":"Utah",
+    "Webpage":"https:\/\/house.utleg.gov\/rep\/SHALLD",
+    "Img_URL":"https:\/\/le.utah.gov\/images\/legislator\/house\/SHALLD.jpg",
+    "Legislation_By_Representative":"https:\/\/le.utah.gov\/asp\/billsintro\/SenResults.asp?Listbox2=SHALLD",
+    "Bill Sponsor":"Shallenberger, D.",
+    "New_Bills":[
+
+    ],
+    "Passed_Bills":[
+      {
+        "Bill Number":"HB0098",
+        "Bill Title":"Landowner Liability Amendments\u00a0",
+        "Bill Sponsor":"Shallenberger, D.",
+        "Date Passed":1740009600000,
+        "Effective Date":1746576000000,
+        "Governor's Action":null,
+        "Gov's Action Date":null,
+        "Laws of Utah Chapter":null,
+        "filename":"passedBills_02242025.csv",
+        "file_date":1740355200000
+      }
+    ]
+  },
+  {
+    "Img_ID":"KOHLEM",
+    "Office":"State House",
+    "Rep_Name":"Mike L Kohler",
+    "District":"59",
+    "Party":"R",
+    "Email":"mkohler@le.utah.gov",
+    "County(ies)":"Summit, Wasatch",
+    "Webpage":"https:\/\/house.utleg.gov\/rep\/KOHLEM",
+    "Img_URL":"https:\/\/le.utah.gov\/images\/legislator\/house\/KOHLEM.jpg",
+    "Legislation_By_Representative":"https:\/\/le.utah.gov\/asp\/billsintro\/SenResults.asp?Listbox2=KOHLEM",
+    "Bill Sponsor":"Kohler, M.",
+    "New_Bills":[
+
+    ],
+    "Passed_Bills":[
+      {
+        "Bill Number":"HB0342",
+        "Bill Title":"Animal Composting Amendments\u00a0",
+        "Bill Sponsor":"Kohler, M.",
+        "Date Passed":1740355200000,
+        "Effective Date":null,
+        "Governor's Action":null,
+        "Gov's Action Date":null,
+        "Laws of Utah Chapter":null,
+        "filename":"passedBills_02242025.csv",
+        "file_date":1740355200000
+      }
+    ]
+  },
+  {
+    "Img_ID":"CLANCT",
+    "Office":"State House",
+    "Rep_Name":"Tyler Clancy",
+    "District":"60",
+    "Party":"R",
+    "Email":"tclancy@le.utah.gov",
+    "County(ies)":"Utah",
+    "Webpage":"https:\/\/house.utleg.gov\/rep\/CLANCT",
+    "Img_URL":"https:\/\/le.utah.gov\/images\/legislator\/house\/CLANCT.jpg",
+    "Legislation_By_Representative":"https:\/\/le.utah.gov\/asp\/billsintro\/SenResults.asp?Listbox2=CLANCT",
+    "Bill Sponsor":"Clancy, T.",
+    "New_Bills":[
+
+    ],
+    "Passed_Bills":[
+      {
+        "Bill Number":"HB0167S03",
+        "Bill Title":"Offender Reintegration Amendments\u00a0",
+        "Bill Sponsor":"Clancy, T.",
+        "Date Passed":1740096000000,
+        "Effective Date":null,
+        "Governor's Action":null,
+        "Gov's Action Date":null,
+        "Laws of Utah Chapter":null,
+        "filename":"passedBills_02242025.csv",
+        "file_date":1740355200000
+      },
+      {
+        "Bill Number":"HCR006",
+        "Bill Title":"Concurrent Resolution Urging Changes to Federal Homelessness Regulations\u00a0",
+        "Bill Sponsor":"Clancy, T.",
+        "Date Passed":1740009600000,
+        "Effective Date":-5364662400000,
+        "Governor's Action":null,
+        "Gov's Action Date":null,
+        "Laws of Utah Chapter":null,
+        "filename":"passedBills_02242025.csv",
+        "file_date":1740355200000
+      }
+    ]
+  },
+  {
+    "Img_ID":"SHEPHL",
+    "Office":"State House",
+    "Rep_Name":"Lisa Shepherd",
+    "District":"61",
+    "Party":"R",
+    "Email":"lshepherd@le.utah.gov",
+    "County(ies)":"Utah",
+    "Webpage":"https:\/\/house.utleg.gov\/rep\/SHEPHL",
+    "Img_URL":"https:\/\/le.utah.gov\/images\/legislator\/house\/SHEPHL.jpg",
+    "Legislation_By_Representative":"https:\/\/le.utah.gov\/asp\/billsintro\/SenResults.asp?Listbox2=SHEPHL",
+    "Bill Sponsor":"Shepherd, L.",
+    "New_Bills":[
+
+    ],
+    "Passed_Bills":[
+
+    ]
+  },
+  {
+    "Img_ID":"THURSNK",
+    "Office":"State House",
+    "Rep_Name":"Norman K Thurston",
+    "District":"62",
+    "Party":"R",
+    "Email":"normthurston@le.utah.gov",
+    "County(ies)":"Utah",
+    "Webpage":"https:\/\/house.utleg.gov\/rep\/THURSNK",
+    "Img_URL":"https:\/\/le.utah.gov\/images\/legislator\/house\/THURSNK.jpg",
+    "Legislation_By_Representative":"https:\/\/le.utah.gov\/asp\/billsintro\/SenResults.asp?Listbox2=THURSNK",
+    "Bill Sponsor":"Thurston, N.",
+    "New_Bills":[
+      {
+        "Bill Number":"HB0494",
+        "Link to Bill":"https:\/\/le.utah.gov\/~2025\/bills\/static\/HB0494.html",
+        "Short Title":"Boards and Committee Amendments",
+        "Sponsor":"Rep. Thurston, N.",
+        "Date Numbered":1739318400000,
+        "Office":"State House",
+        "First Initial":"N",
+        "Middle":null,
+        "Last Name":"Thurston",
+        "sheet_name":"new_bills_02142025",
+        "Bill Sponsor":"Thurston, N."
+      }
+    ],
+    "Passed_Bills":[
+      {
+        "Bill Number":"HB0005",
+        "Bill Title":"General Government Base Budget\u00a0",
+        "Bill Sponsor":"Thurston, N.",
+        "Date Passed":1738195200000,
+        "Effective Date":1751328000000,
+        "Governor's Action":null,
+        "Gov's Action Date":null,
+        "Laws of Utah Chapter":null,
+        "filename":"passedBills_02142025.csv",
+        "file_date":1739491200000
+      },
+      {
+        "Bill Number":"HB0014S01",
+        "Bill Title":"Emergency Services Personnel Amendments\u00a0",
+        "Bill Sponsor":"Thurston, N.",
+        "Date Passed":1738713600000,
+        "Effective Date":1746576000000,
+        "Governor's Action":null,
+        "Gov's Action Date":null,
+        "Laws of Utah Chapter":null,
+        "filename":"passedBills_02142025.csv",
+        "file_date":1739491200000
+      },
+      {
+        "Bill Number":"HCR002",
+        "Bill Title":"Concurrent Resolution Directing PEHP Regarding Pharmaceutical Rebates\u00a0",
+        "Bill Sponsor":"Thurston, N.",
+        "Date Passed":1739318400000,
+        "Effective Date":null,
+        "Governor's Action":null,
+        "Gov's Action Date":null,
+        "Laws of Utah Chapter":null,
+        "filename":"passedBills_02142025.csv",
+        "file_date":1739491200000
+      },
+      {
+        "Bill Number":"HB0005",
+        "Bill Title":"General Government Base Budget\u00a0",
+        "Bill Sponsor":"Thurston, N.",
+        "Date Passed":1738195200000,
+        "Effective Date":1751328000000,
+        "Governor's Action":"GSIGN",
+        "Gov's Action Date":"2\/14\/2025",
+        "Laws of Utah Chapter":3.0,
+        "filename":"passedBills_02242025.csv",
+        "file_date":1740355200000
+      }
+    ]
+  },
+  {
+    "Img_ID":"WHYTESL",
+    "Office":"State House",
+    "Rep_Name":"Stephen L Whyte",
+    "District":"63",
+    "Party":"R",
+    "Email":"swhyte@le.utah.gov",
+    "County(ies)":"Utah",
+    "Webpage":"https:\/\/house.utleg.gov\/rep\/WHYTESL",
+    "Img_URL":"https:\/\/le.utah.gov\/images\/legislator\/house\/WHYTESL.jpg",
+    "Legislation_By_Representative":"https:\/\/le.utah.gov\/asp\/billsintro\/SenResults.asp?Listbox2=WHYTESL",
+    "Bill Sponsor":"Whyte, S.",
+    "New_Bills":[
+
+    ],
+    "Passed_Bills":[
+      {
+        "Bill Number":"HB0097",
+        "Bill Title":"Private Postsecondary Education Modifications\u00a0",
+        "Bill Sponsor":"Whyte, S.",
+        "Date Passed":1739491200000,
+        "Effective Date":1746576000000,
+        "Governor's Action":null,
+        "Gov's Action Date":null,
+        "Laws of Utah Chapter":null,
+        "filename":"passedBills_02242025.csv",
+        "file_date":1740355200000
+      }
+    ]
+  },
+  {
+    "Img_ID":"BURTOJS",
+    "Office":"State House",
+    "Rep_Name":"Jefferson S Burton",
+    "District":"64",
+    "Party":"R",
+    "Email":"jburton@le.utah.gov",
+    "County(ies)":"Utah",
+    "Webpage":"https:\/\/house.utleg.gov\/rep\/BURTOJS",
+    "Img_URL":"https:\/\/le.utah.gov\/images\/legislator\/house\/BURTOJS.jpg",
+    "Legislation_By_Representative":"https:\/\/le.utah.gov\/asp\/billsintro\/SenResults.asp?Listbox2=BURTOJS",
+    "Bill Sponsor":"Burton, J.",
+    "New_Bills":[
+
+    ],
+    "Passed_Bills":[
+      {
+        "Bill Number":"HB0163S01",
+        "Bill Title":"Adult Probation and Parole Amendments\u00a0",
+        "Bill Sponsor":"Burton, J.",
+        "Date Passed":1740009600000,
+        "Effective Date":1746576000000,
+        "Governor's Action":null,
+        "Gov's Action Date":null,
+        "Laws of Utah Chapter":null,
+        "filename":"passedBills_02242025.csv",
+        "file_date":1740355200000
+      }
+    ]
+  },
+  {
+    "Img_ID":"WELTOD",
+    "Office":"State House",
+    "Rep_Name":"Douglas R Welton",
+    "District":"65",
+    "Party":"R",
+    "Email":"dwelton@le.utah.gov",
+    "County(ies)":"Utah",
+    "Webpage":"https:\/\/house.utleg.gov\/rep\/WELTOD",
+    "Img_URL":"https:\/\/le.utah.gov\/images\/legislator\/house\/WELTOD.jpg",
+    "Legislation_By_Representative":"https:\/\/le.utah.gov\/asp\/billsintro\/SenResults.asp?Listbox2=WELTOD",
+    "Bill Sponsor":"Welton, D.",
+    "New_Bills":[
+
+    ],
+    "Passed_Bills":[
+      {
+        "Bill Number":"HB0006",
+        "Bill Title":"Transportation and Infrastructure Base Budget\u00a0",
+        "Bill Sponsor":"Welton, D.",
+        "Date Passed":1738195200000,
+        "Effective Date":1751328000000,
+        "Governor's Action":null,
+        "Gov's Action Date":null,
+        "Laws of Utah Chapter":null,
+        "filename":"passedBills_02142025.csv",
+        "file_date":1739491200000
+      },
+      {
+        "Bill Number":"HB0006",
+        "Bill Title":"Transportation and Infrastructure Base Budget\u00a0",
+        "Bill Sponsor":"Welton, D.",
+        "Date Passed":1738195200000,
+        "Effective Date":1751328000000,
+        "Governor's Action":"GSIGN",
+        "Gov's Action Date":"2\/14\/2025",
+        "Laws of Utah Chapter":4.0,
+        "filename":"passedBills_02242025.csv",
+        "file_date":1740355200000
+      },
+      {
+        "Bill Number":"HB0177S01",
+        "Bill Title":"Glass Recycling Amendments\u00a0",
+        "Bill Sponsor":"Welton, D.",
+        "Date Passed":1740096000000,
+        "Effective Date":null,
+        "Governor's Action":null,
+        "Gov's Action Date":null,
+        "Laws of Utah Chapter":null,
+        "filename":"passedBills_02242025.csv",
+        "file_date":1740355200000
+      }
+    ]
+  },
+  {
+    "Img_ID":"SHELLT",
+    "Office":"State House",
+    "Rep_Name":"Troy Shelley",
+    "District":"66",
+    "Party":"R",
+    "Email":"tshelley@le.utah.gov",
+    "County(ies)":"Juab, Sanpete",
+    "Webpage":"https:\/\/house.utleg.gov\/rep\/SHELLT",
+    "Img_URL":"https:\/\/le.utah.gov\/images\/legislator\/house\/SHELLT.jpg",
+    "Legislation_By_Representative":"https:\/\/le.utah.gov\/asp\/billsintro\/SenResults.asp?Listbox2=SHELLT",
+    "Bill Sponsor":"Shelley, T.",
+    "New_Bills":[
+
+    ],
+    "Passed_Bills":[
+
+    ]
+  },
+  {
+    "Img_ID":"WATKICF",
+    "Office":"State House",
+    "Rep_Name":"Christine F Watkins",
+    "District":"67",
+    "Party":"R",
+    "Email":"christinewatkins@le.utah.gov",
+    "County(ies)":"Carbon, Duchesne, Emery, Grand",
+    "Webpage":"https:\/\/house.utleg.gov\/rep\/WATKICF",
+    "Img_URL":"https:\/\/le.utah.gov\/images\/legislator\/house\/WATKICF.jpg",
+    "Legislation_By_Representative":"https:\/\/le.utah.gov\/asp\/billsintro\/SenResults.asp?Listbox2=WATKICF",
+    "Bill Sponsor":"Watkins, C.",
+    "New_Bills":[
+      {
+        "Bill Number":"HB0469",
+        "Link to Bill":"https:\/\/le.utah.gov\/~2025\/bills\/static\/HB0469.html",
+        "Short Title":"Tax Sale Amendments",
+        "Sponsor":"Rep. Watkins, C.",
+        "Date Numbered":1739145600000,
+        "Office":"State House",
+        "First Initial":"C",
+        "Middle":null,
+        "Last Name":"Watkins",
+        "sheet_name":"new_bills_02142025",
+        "Bill Sponsor":"Watkins, C."
+      }
+    ],
+    "Passed_Bills":[
+      {
+        "Bill Number":"HB0004",
+        "Bill Title":"Economic and Community Development Base Budget\u00a0",
+        "Bill Sponsor":"Watkins, C.",
+        "Date Passed":1738195200000,
+        "Effective Date":1751328000000,
+        "Governor's Action":null,
+        "Gov's Action Date":null,
+        "Laws of Utah Chapter":null,
+        "filename":"passedBills_02142025.csv",
+        "file_date":1739491200000
+      },
+      {
+        "Bill Number":"HB0091S01",
+        "Bill Title":"Technical College Amendments\u00a0",
+        "Bill Sponsor":"Watkins, C.",
+        "Date Passed":1739145600000,
+        "Effective Date":1746576000000,
+        "Governor's Action":null,
+        "Gov's Action Date":null,
+        "Laws of Utah Chapter":null,
+        "filename":"passedBills_02142025.csv",
+        "file_date":1739491200000
+      },
+      {
+        "Bill Number":"HB0004",
+        "Bill Title":"Economic and Community Development Base Budget\u00a0",
+        "Bill Sponsor":"Watkins, C.",
+        "Date Passed":1738195200000,
+        "Effective Date":1751328000000,
+        "Governor's Action":"GSIGN",
+        "Gov's Action Date":"2\/14\/2025",
+        "Laws of Utah Chapter":2.0,
+        "filename":"passedBills_02242025.csv",
+        "file_date":1740355200000
+      },
+      {
+        "Bill Number":"HB0033",
+        "Bill Title":"Child Welfare Reporting Amendments\u00a0",
+        "Bill Sponsor":"Watkins, C.",
+        "Date Passed":1740009600000,
+        "Effective Date":1746576000000,
+        "Governor's Action":null,
+        "Gov's Action Date":null,
+        "Laws of Utah Chapter":null,
+        "filename":"passedBills_02242025.csv",
+        "file_date":1740355200000
+      },
+      {
+        "Bill Number":"HB0212S01",
+        "Bill Title":"Advanced Transmission Technologies\u00a0",
+        "Bill Sponsor":"Watkins, C.",
+        "Date Passed":1740096000000,
+        "Effective Date":null,
+        "Governor's Action":null,
+        "Gov's Action Date":null,
+        "Laws of Utah Chapter":null,
+        "filename":"passedBills_02242025.csv",
+        "file_date":1740355200000
+      }
+    ]
+  },
+  {
+    "Img_ID":"CHEWSH",
+    "Office":"State House",
+    "Rep_Name":"Scott H Chew",
+    "District":"68",
+    "Party":"R",
+    "Email":"scottchew@le.utah.gov",
+    "County(ies)":"Duchesne, Uintah",
+    "Webpage":"https:\/\/house.utleg.gov\/rep\/CHEWSH",
+    "Img_URL":"https:\/\/le.utah.gov\/images\/legislator\/house\/CHEWSH.jpg",
+    "Legislation_By_Representative":"https:\/\/le.utah.gov\/asp\/billsintro\/SenResults.asp?Listbox2=CHEWSH",
+    "Bill Sponsor":"Chew, S.",
+    "New_Bills":[
+
+    ],
+    "Passed_Bills":[
+      {
+        "Bill Number":"HB0166S02",
+        "Bill Title":"Trailer Registration and Uniform Fee Amendments\u00a0",
+        "Bill Sponsor":"Chew, S.",
+        "Date Passed":1740096000000,
+        "Effective Date":null,
+        "Governor's Action":null,
+        "Gov's Action Date":null,
+        "Laws of Utah Chapter":null,
+        "filename":"passedBills_02242025.csv",
+        "file_date":1740355200000
+      }
+    ]
+  },
+  {
+    "Img_ID":"MONSOL",
+    "Office":"State House",
+    "Rep_Name":"Logan Monson",
+    "District":"69",
+    "Party":"R",
+    "Email":"lmonson@le.utah.gov",
+    "County(ies)":"Emery, Garfield, Grand, Kane, San Juan, Wayne",
+    "Webpage":"https:\/\/house.utleg.gov\/rep\/MONSOL",
+    "Img_URL":"https:\/\/le.utah.gov\/images\/legislator\/house\/MONSOL.jpg",
+    "Legislation_By_Representative":"https:\/\/le.utah.gov\/asp\/billsintro\/SenResults.asp?Listbox2=MONSOL",
+    "Bill Sponsor":"Monson, L.",
+    "New_Bills":[
+      {
+        "Bill Number":"HB0482",
+        "Link to Bill":"https:\/\/le.utah.gov\/~2025\/bills\/static\/HB0482.html",
+        "Short Title":"Health and Human Services Reporting Requirements",
+        "Sponsor":"Rep. Monson, L.",
+        "Date Numbered":1739232000000,
+        "Office":"State House",
+        "First Initial":"L",
+        "Middle":null,
+        "Last Name":"Monson",
+        "sheet_name":"new_bills_02142025",
+        "Bill Sponsor":"Monson, L."
+      }
+    ],
+    "Passed_Bills":[
+
+    ]
+  },
+  {
+    "Img_ID":"ALBRECR",
+    "Office":"State House",
+    "Rep_Name":"Carl R Albrecht",
+    "District":"70",
+    "Party":"R",
+    "Email":"carlalbrecht@le.utah.gov",
+    "County(ies)":"Sevier, Piute, Beaver, and Iron",
+    "Webpage":"https:\/\/house.utleg.gov\/rep\/ALBRECR",
+    "Img_URL":"https:\/\/le.utah.gov\/images\/legislator\/house\/ALBRECR.jpg",
+    "Legislation_By_Representative":"https:\/\/le.utah.gov\/asp\/billsintro\/SenResults.asp?Listbox2=ALBRECR",
+    "Bill Sponsor":"Albrecht, C.",
+    "New_Bills":[
+
+    ],
+    "Passed_Bills":[
+      {
+        "Bill Number":"HCR001",
+        "Bill Title":"Concurrent Resolution Regarding the Grand County Water Conservancy District\u00a0",
+        "Bill Sponsor":"Albrecht, C.",
+        "Date Passed":1738713600000,
+        "Effective Date":-5364662400000,
+        "Governor's Action":null,
+        "Gov's Action Date":null,
+        "Laws of Utah Chapter":null,
+        "filename":"passedBills_02142025.csv",
+        "file_date":1739491200000
+      },
+      {
+        "Bill Number":"HB0041S01",
+        "Bill Title":"State Water Policy Amendments\u00a0",
+        "Bill Sponsor":"Albrecht, C.",
+        "Date Passed":1739491200000,
+        "Effective Date":1746576000000,
+        "Governor's Action":null,
+        "Gov's Action Date":null,
+        "Laws of Utah Chapter":null,
+        "filename":"passedBills_02242025.csv",
+        "file_date":1740355200000
+      },
+      {
+        "Bill Number":"HB0047",
+        "Bill Title":"Public Lands Watering Rights Amendments\u00a0",
+        "Bill Sponsor":"Albrecht, C.",
+        "Date Passed":1740009600000,
+        "Effective Date":1746576000000,
+        "Governor's Action":null,
+        "Gov's Action Date":null,
+        "Laws of Utah Chapter":null,
+        "filename":"passedBills_02242025.csv",
+        "file_date":1740355200000
+      },
+      {
+        "Bill Number":"HB0253S01",
+        "Bill Title":"Agriculture and Food Amendments\u00a0",
+        "Bill Sponsor":"Albrecht, C.",
+        "Date Passed":1740009600000,
+        "Effective Date":1746576000000,
+        "Governor's Action":null,
+        "Gov's Action Date":null,
+        "Laws of Utah Chapter":null,
+        "filename":"passedBills_02242025.csv",
+        "file_date":1740355200000
+      },
+      {
+        "Bill Number":"HCR001",
+        "Bill Title":"Concurrent Resolution Regarding the Grand County Water Conservancy District\u00a0",
+        "Bill Sponsor":"Albrecht, C.",
+        "Date Passed":1738713600000,
+        "Effective Date":null,
+        "Governor's Action":"GSIGN",
+        "Gov's Action Date":"2\/14\/2025",
+        "Laws of Utah Chapter":null,
+        "filename":"passedBills_02242025.csv",
+        "file_date":1740355200000
+      }
+    ]
+  },
+  {
+    "Img_ID":"SHIPPRP",
+    "Office":"State House",
+    "Rep_Name":"Rex P Shipp",
+    "District":"71",
+    "Party":"R",
+    "Email":"rshipp@le.utah.gov",
+    "County(ies)":"Iron",
+    "Webpage":"https:\/\/house.utleg.gov\/rep\/SHIPPRP",
+    "Img_URL":"https:\/\/le.utah.gov\/images\/legislator\/house\/SHIPPRP.jpg",
+    "Legislation_By_Representative":"https:\/\/le.utah.gov\/asp\/billsintro\/SenResults.asp?Listbox2=SHIPPRP",
+    "Bill Sponsor":"Shipp, R.",
+    "New_Bills":[
+
+    ],
+    "Passed_Bills":[
+
+    ]
+  },
+  {
+    "Img_ID":"ELISOJ",
+    "Office":"State House",
+    "Rep_Name":"Joseph Elison",
+    "District":"72",
+    "Party":"R",
+    "Email":"jelison@le.utah.gov",
+    "County(ies)":"Washington",
+    "Webpage":"https:\/\/house.utleg.gov\/rep\/ELISOJ",
+    "Img_URL":"https:\/\/le.utah.gov\/images\/legislator\/house\/ELISOJ.jpg",
+    "Legislation_By_Representative":"https:\/\/le.utah.gov\/asp\/billsintro\/SenResults.asp?Listbox2=ELISOJ",
+    "Bill Sponsor":"Elison, J.",
+    "New_Bills":[
+      {
+        "Bill Number":"HB0464",
+        "Link to Bill":"https:\/\/le.utah.gov\/~2025\/bills\/static\/HB0464.html",
+        "Short Title":"State Sovereignty Fund",
+        "Sponsor":"Rep. Elison, J.",
+        "Date Numbered":1739145600000,
+        "Office":"State House",
+        "First Initial":"J",
+        "Middle":null,
+        "Last Name":"Elison",
+        "sheet_name":"new_bills_02142025",
+        "Bill Sponsor":"Elison, J."
+      }
+    ],
+    "Passed_Bills":[
+
+    ]
+  },
+  {
+    "Img_ID":"JACKC",
+    "Office":"State House",
+    "Rep_Name":"Colin W Jack",
+    "District":"73",
+    "Party":"R",
+    "Email":"cjack@le.utah.gov",
+    "County(ies)":"Washington",
+    "Webpage":"https:\/\/house.utleg.gov\/rep\/JACKC",
+    "Img_URL":"https:\/\/le.utah.gov\/images\/legislator\/house\/JACKC.jpg",
+    "Legislation_By_Representative":"https:\/\/le.utah.gov\/asp\/billsintro\/SenResults.asp?Listbox2=JACKC",
+    "Bill Sponsor":"Jack, C.",
+    "New_Bills":[
+      {
+        "Bill Number":"HB0492",
+        "Link to Bill":"https:\/\/le.utah.gov\/~2025\/bills\/static\/HB0492.html",
+        "Short Title":"Drinking Water Utilities Amendments",
+        "Sponsor":"Rep. Jack, C.",
+        "Date Numbered":1739318400000,
+        "Office":"State House",
+        "First Initial":"C",
+        "Middle":null,
+        "Last Name":"Jack",
+        "sheet_name":"new_bills_02142025",
+        "Bill Sponsor":"Jack, C."
+      }
+    ],
+    "Passed_Bills":[
+      {
+        "Bill Number":"HB0201S03",
+        "Bill Title":"Energy Resource Amendments\u00a0",
+        "Bill Sponsor":"Jack, C.",
+        "Date Passed":1740096000000,
+        "Effective Date":null,
+        "Governor's Action":null,
+        "Gov's Action Date":null,
+        "Laws of Utah Chapter":null,
+        "filename":"passedBills_02242025.csv",
+        "file_date":1740355200000
+      }
+    ]
+  },
+  {
+    "Img_ID":"WALTER",
+    "Office":"State House",
+    "Rep_Name":"R. Neil Walter",
+    "District":"74",
+    "Party":"R",
+    "Email":"nwalter@le.utah.gov",
+    "County(ies)":"Washington",
+    "Webpage":"https:\/\/house.utleg.gov\/rep\/WALTER",
+    "Img_URL":"https:\/\/le.utah.gov\/images\/legislator\/house\/WALTER.jpg",
+    "Legislation_By_Representative":"https:\/\/le.utah.gov\/asp\/billsintro\/SenResults.asp?Listbox2=WALTER",
+    "Bill Sponsor":"Walter, R.",
+    "New_Bills":[
+
+    ],
+    "Passed_Bills":[
+
+    ]
+  },
+  {
+    "Img_ID":"BROOKW",
+    "Office":"State House",
+    "Rep_Name":"Walt Brooks",
+    "District":"75",
+    "Party":"R",
+    "Email":"wbrooks@le.utah.gov",
+    "County(ies)":"Washington",
+    "Webpage":"https:\/\/house.utleg.gov\/rep\/BROOKW",
+    "Img_URL":"https:\/\/le.utah.gov\/images\/legislator\/house\/BROOKW.jpg",
+    "Legislation_By_Representative":"https:\/\/le.utah.gov\/asp\/billsintro\/SenResults.asp?Listbox2=BROOKW",
+    "Bill Sponsor":"Brooks, W.",
+    "New_Bills":[
+
+    ],
+    "Passed_Bills":[
+
+    ]
+  },
+  {
+    "Img_ID":"SANDASD",
+    "Office":"State Senate",
+    "Rep_Name":"Scott D Sandall",
+    "District":"1",
+    "Party":"R",
+    "Email":"ssandall@le.utah.gov",
+    "County(ies)":"Box Elder, Cache, Tooele",
+    "Webpage":"https:\/\/senate.utah.gov\/sen\/SANDASD",
+    "Img_URL":"https:\/\/le.utah.gov\/images\/legislator\/senate\/SANDASD.jpg",
+    "Legislation_By_Representative":"https:\/\/le.utah.gov\/asp\/billsintro\/SenResults.asp?Listbox2=SANDASD",
+    "Bill Sponsor":"Sandall, S.",
+    "New_Bills":[
+
+    ],
+    "Passed_Bills":[
+      {
+        "Bill Number":"SB0028",
+        "Bill Title":"Livestock Brand Board Amendments\u00a0",
+        "Bill Sponsor":"Sandall, S.",
+        "Date Passed":1739404800000,
+        "Effective Date":null,
+        "Governor's Action":null,
+        "Gov's Action Date":null,
+        "Laws of Utah Chapter":null,
+        "filename":"passedBills_02142025.csv",
+        "file_date":1739491200000
+      },
+      {
+        "Bill Number":"SB0028",
+        "Bill Title":"Livestock Brand Board Amendments\u00a0",
+        "Bill Sponsor":"Sandall, S.",
+        "Date Passed":1739404800000,
+        "Effective Date":1746576000000,
+        "Governor's Action":null,
+        "Gov's Action Date":null,
+        "Laws of Utah Chapter":null,
+        "filename":"passedBills_02242025.csv",
+        "file_date":1740355200000
+      },
+      {
+        "Bill Number":"SB0145",
+        "Bill Title":"Technical Senate District Boundary Adjustment\u00a0",
+        "Bill Sponsor":"Sandall, S.",
+        "Date Passed":1740009600000,
+        "Effective Date":-5364662400000,
+        "Governor's Action":null,
+        "Gov's Action Date":null,
+        "Laws of Utah Chapter":null,
+        "filename":"passedBills_02242025.csv",
+        "file_date":1740355200000
+      }
+    ]
+  },
+  {
+    "Img_ID":"WILSOCH",
+    "Office":"State Senate",
+    "Rep_Name":"Chris H Wilson",
+    "District":"2",
+    "Party":"R",
+    "Email":"cwilson@le.utah.gov",
+    "County(ies)":"Cache, Rich",
+    "Webpage":"https:\/\/senate.utah.gov\/sen\/WILSOCH",
+    "Img_URL":"https:\/\/le.utah.gov\/images\/legislator\/senate\/WILSOCH.jpg",
+    "Legislation_By_Representative":"https:\/\/le.utah.gov\/asp\/billsintro\/SenResults.asp?Listbox2=WILSOCH",
+    "Bill Sponsor":"Wilson, C.",
+    "New_Bills":[
+      {
+        "Bill Number":"SB0282",
+        "Link to Bill":"https:\/\/le.utah.gov\/~2025\/bills\/static\/SB0282.html",
+        "Short Title":"Higher Education Hiring Amendments",
+        "Sponsor":"Sen. Wilson, C.",
+        "Date Numbered":1739491200000,
+        "Office":"State Senate",
+        "First Initial":"C",
+        "Middle":null,
+        "Last Name":"Wilson",
+        "sheet_name":"new_bills_02142025",
+        "Bill Sponsor":"Wilson, C."
+      }
+    ],
+    "Passed_Bills":[
+
+    ]
+  },
+  {
+    "Img_ID":"JOHNSJD",
+    "Office":"State Senate",
+    "Rep_Name":"John D Johnson",
+    "District":"3",
+    "Party":"R",
+    "Email":"jjohnson@le.utah.gov",
+    "County(ies)":"Morgan, Summit, Weber",
+    "Webpage":"https:\/\/senate.utah.gov\/sen\/JOHNSJD",
+    "Img_URL":"https:\/\/le.utah.gov\/images\/legislator\/senate\/JOHNSJD.jpg",
+    "Legislation_By_Representative":"https:\/\/le.utah.gov\/asp\/billsintro\/SenResults.asp?Listbox2=JOHNSJD",
+    "Bill Sponsor":"Johnson, J.",
+    "New_Bills":[
+      {
+        "Bill Number":"SB0274",
+        "Link to Bill":"https:\/\/le.utah.gov\/~2025\/bills\/static\/SB0274.html",
+        "Short Title":"Health Insurance Preauthorization Revisions",
+        "Sponsor":"Sen. Johnson, J.",
+        "Date Numbered":1739404800000,
+        "Office":"State Senate",
+        "First Initial":"J",
+        "Middle":null,
+        "Last Name":"Johnson",
+        "sheet_name":"new_bills_02142025",
+        "Bill Sponsor":"Johnson, J."
+      },
+      {
+        "Bill Number":"SB0267",
+        "Link to Bill":"https:\/\/le.utah.gov\/~2025\/bills\/static\/SB0267.html",
+        "Short Title":"Charter School Authorizer Amendments",
+        "Sponsor":"Sen. Johnson, J.",
+        "Date Numbered":1739318400000,
+        "Office":"State Senate",
+        "First Initial":"J",
+        "Middle":null,
+        "Last Name":"Johnson",
+        "sheet_name":"new_bills_02142025",
+        "Bill Sponsor":"Johnson, J."
+      }
+    ],
+    "Passed_Bills":[
+
+    ]
+  },
+  {
+    "Img_ID":"MUSSECR",
+    "Office":"State Senate",
+    "Rep_Name":"Calvin R Musselman",
+    "District":"4",
+    "Party":"R",
+    "Email":"cmusselman@le.utah.gov",
+    "County(ies)":"Davis, Weber",
+    "Webpage":"https:\/\/senate.utah.gov\/sen\/MUSSECR",
+    "Img_URL":"https:\/\/le.utah.gov\/images\/legislator\/senate\/MUSSECR.jpg",
+    "Legislation_By_Representative":"https:\/\/le.utah.gov\/asp\/billsintro\/SenResults.asp?Listbox2=MUSSECR",
+    "Bill Sponsor":"Musselman, C.",
+    "New_Bills":[
+
+    ],
+    "Passed_Bills":[
+
+    ]
+  },
+  {
+    "Img_ID":"MILLNA",
+    "Office":"State Senate",
+    "Rep_Name":"Ann Millner",
+    "District":"5",
+    "Party":"R",
+    "Email":"amillner@le.utah.gov",
+    "County(ies)":"Davis, Morgan, Weber",
+    "Webpage":"https:\/\/senate.utah.gov\/sen\/MILLNA",
+    "Img_URL":"https:\/\/le.utah.gov\/images\/legislator\/senate\/MILLNA.jpg",
+    "Legislation_By_Representative":"https:\/\/le.utah.gov\/asp\/billsintro\/SenResults.asp?Listbox2=MILLNA",
+    "Bill Sponsor":"Millner, A.",
+    "New_Bills":[
+
+    ],
+    "Passed_Bills":[
+      {
+        "Bill Number":"SB0017S01",
+        "Bill Title":"Services for Department of Defense Civilian Employees\u00a0",
+        "Bill Sponsor":"Millner, A.",
+        "Date Passed":1738281600000,
+        "Effective Date":1746576000000,
+        "Governor's Action":null,
+        "Gov's Action Date":null,
+        "Laws of Utah Chapter":null,
+        "filename":"passedBills_02142025.csv",
+        "file_date":1739491200000
+      },
+      {
+        "Bill Number":"SB0017S01",
+        "Bill Title":"Services for Department of Defense Civilian Employees\u00a0",
+        "Bill Sponsor":"Millner, A.",
+        "Date Passed":1738281600000,
+        "Effective Date":null,
+        "Governor's Action":null,
+        "Gov's Action Date":null,
+        "Laws of Utah Chapter":null,
+        "filename":"passedBills_02042025.csv",
+        "file_date":1738627200000
+      }
+    ]
+  },
+  {
+    "Img_ID":"STEVEJW",
+    "Office":"State Senate",
+    "Rep_Name":"Jerry W Stevenson",
+    "District":"6",
+    "Party":"R",
+    "Email":"jwstevenson@le.utah.gov",
+    "County(ies)":"Davis",
+    "Webpage":"https:\/\/senate.utah.gov\/sen\/STEVEJW",
+    "Img_URL":"https:\/\/le.utah.gov\/images\/legislator\/senate\/STEVEJW.jpg",
+    "Legislation_By_Representative":"https:\/\/le.utah.gov\/asp\/billsintro\/SenResults.asp?Listbox2=STEVEJW",
+    "Bill Sponsor":"Stevenson, J.",
+    "New_Bills":[
+
+    ],
+    "Passed_Bills":[
+
+    ]
+  },
+  {
+    "Img_ID":"ADAMSJS",
+    "Office":"State Senate",
+    "Rep_Name":"J. Stuart Adams",
+    "District":"7",
+    "Party":"R",
+    "Email":"jsadams@le.utah.gov",
+    "County(ies)":"Davis",
+    "Webpage":"https:\/\/senate.utah.gov\/sen\/ADAMSJS",
+    "Img_URL":"https:\/\/le.utah.gov\/images\/legislator\/senate\/ADAMSJS.jpg",
+    "Legislation_By_Representative":"https:\/\/le.utah.gov\/asp\/billsintro\/SenResults.asp?Listbox2=ADAMSJS",
+    "Bill Sponsor":"Adams, J.",
+    "New_Bills":[
+
+    ],
+    "Passed_Bills":[
+
+    ]
+  },
+  {
+    "Img_ID":"WEILET",
+    "Office":"State Senate",
+    "Rep_Name":"Todd Weiler",
+    "District":"8",
+    "Party":"R",
+    "Email":"tweiler@le.utah.gov",
+    "County(ies)":"Davis, Salt Lake",
+    "Webpage":"https:\/\/senate.utah.gov\/sen\/WEILET",
+    "Img_URL":"https:\/\/le.utah.gov\/images\/legislator\/senate\/WEILET.jpg",
+    "Legislation_By_Representative":"https:\/\/le.utah.gov\/asp\/billsintro\/SenResults.asp?Listbox2=WEILET",
+    "Bill Sponsor":"Weiler, T.",
+    "New_Bills":[
+      {
+        "Bill Number":"SB0278",
+        "Link to Bill":"https:\/\/le.utah.gov\/~2025\/bills\/static\/SB0278.html",
+        "Short Title":"State Debt Collection Amendments",
+        "Sponsor":"Sen. Weiler, T.",
+        "Date Numbered":1739404800000,
+        "Office":"State Senate",
+        "First Initial":"T",
+        "Middle":null,
+        "Last Name":"Weiler",
+        "sheet_name":"new_bills_02142025",
+        "Bill Sponsor":"Weiler, T."
+      },
+      {
+        "Bill Number":"SB0273",
+        "Link to Bill":"https:\/\/le.utah.gov\/~2025\/bills\/static\/SB0273.html",
+        "Short Title":"State Facilities Amendments",
+        "Sponsor":"Sen. Weiler, T.",
+        "Date Numbered":1739404800000,
+        "Office":"State Senate",
+        "First Initial":"T",
+        "Middle":null,
+        "Last Name":"Weiler",
+        "sheet_name":"new_bills_02142025",
+        "Bill Sponsor":"Weiler, T."
+      },
+      {
+        "Bill Number":"SB0252",
+        "Link to Bill":"https:\/\/le.utah.gov\/~2025\/bills\/static\/SB0252.html",
+        "Short Title":"Digital Information Seizure Amendments",
+        "Sponsor":"Sen. Weiler, T.",
+        "Date Numbered":1739145600000,
+        "Office":"State Senate",
+        "First Initial":"T",
+        "Middle":null,
+        "Last Name":"Weiler",
+        "sheet_name":"new_bills_02142025",
+        "Bill Sponsor":"Weiler, T."
+      }
+    ],
+    "Passed_Bills":[
+      {
+        "Bill Number":"SB0036S01",
+        "Bill Title":"Water Quality Board Amendments\u00a0",
+        "Bill Sponsor":"Weiler, T.",
+        "Date Passed":1739923200000,
+        "Effective Date":1746576000000,
+        "Governor's Action":null,
+        "Gov's Action Date":null,
+        "Laws of Utah Chapter":null,
+        "filename":"passedBills_02242025.csv",
+        "file_date":1740355200000
+      },
+      {
+        "Bill Number":"SB0045",
+        "Bill Title":"Juvenile Court Procedures Amendments\u00a0",
+        "Bill Sponsor":"Weiler, T.",
+        "Date Passed":1740009600000,
+        "Effective Date":1746576000000,
+        "Governor's Action":null,
+        "Gov's Action Date":null,
+        "Laws of Utah Chapter":null,
+        "filename":"passedBills_02242025.csv",
+        "file_date":1740355200000
+      },
+      {
+        "Bill Number":"SB0100S01",
+        "Bill Title":"Estate Planning Recodification\u00a0",
+        "Bill Sponsor":"Weiler, T.",
+        "Date Passed":1740096000000,
+        "Effective Date":null,
+        "Governor's Action":null,
+        "Gov's Action Date":null,
+        "Laws of Utah Chapter":null,
+        "filename":"passedBills_02242025.csv",
+        "file_date":1740355200000
+      },
+      {
+        "Bill Number":"SCR001",
+        "Bill Title":"Concurrent Resolution Authorizing Adult Sentencing and Supervision Length Guidelines and Juvenile Disposition Guidelines\u00a0",
+        "Bill Sponsor":"Weiler, T.",
+        "Date Passed":1740009600000,
+        "Effective Date":null,
+        "Governor's Action":null,
+        "Gov's Action Date":null,
+        "Laws of Utah Chapter":null,
+        "filename":"passedBills_02242025.csv",
+        "file_date":1740355200000
+      }
+    ]
+  },
+  {
+    "Img_ID":"PLUMBJ",
+    "Office":"State Senate",
+    "Rep_Name":"Jen Plumb",
+    "District":"9",
+    "Party":"D",
+    "Email":"jplumb@le.utah.gov",
+    "County(ies)":"Salt Lake",
+    "Webpage":"https:\/\/senate.utah.gov\/sen\/PLUMBJ",
+    "Img_URL":"https:\/\/le.utah.gov\/images\/legislator\/senate\/PLUMBJ.jpg",
+    "Legislation_By_Representative":"https:\/\/le.utah.gov\/asp\/billsintro\/SenResults.asp?Listbox2=PLUMBJ",
+    "Bill Sponsor":"Plumb, J.",
+    "New_Bills":[
+      {
+        "Bill Number":"SB0256",
+        "Link to Bill":"https:\/\/le.utah.gov\/~2025\/bills\/static\/SB0256.html",
+        "Short Title":"General Government and Appropriations Amendments",
+        "Sponsor":"Sen. Plumb, J.",
+        "Date Numbered":1739145600000,
+        "Office":"State Senate",
+        "First Initial":"J",
+        "Middle":null,
+        "Last Name":"Plumb",
+        "sheet_name":"new_bills_02142025",
+        "Bill Sponsor":"Plumb, J."
+      }
+    ],
+    "Passed_Bills":[
+      {
+        "Bill Number":"SB0012",
+        "Bill Title":"Board of Tourism Development Amendments\u00a0",
+        "Bill Sponsor":"Plumb, J.",
+        "Date Passed":1738713600000,
+        "Effective Date":1746576000000,
+        "Governor's Action":null,
+        "Gov's Action Date":null,
+        "Laws of Utah Chapter":null,
+        "filename":"passedBills_02142025.csv",
+        "file_date":1739491200000
+      },
+      {
+        "Bill Number":"SB0076",
+        "Bill Title":"Marriage Amendments\u00a0",
+        "Bill Sponsor":"Plumb, J.",
+        "Date Passed":1740009600000,
+        "Effective Date":null,
+        "Governor's Action":null,
+        "Gov's Action Date":null,
+        "Laws of Utah Chapter":null,
+        "filename":"passedBills_02242025.csv",
+        "file_date":1740355200000
+      },
+      {
+        "Bill Number":"SB0077S01",
+        "Bill Title":"Public Safety Animal Amendments\u00a0",
+        "Bill Sponsor":"Plumb, J.",
+        "Date Passed":1740009600000,
+        "Effective Date":null,
+        "Governor's Action":null,
+        "Gov's Action Date":null,
+        "Laws of Utah Chapter":null,
+        "filename":"passedBills_02242025.csv",
+        "file_date":1740355200000
+      },
+      {
+        "Bill Number":"SB0120S01",
+        "Bill Title":"Controlled Substances Modifications\u00a0",
+        "Bill Sponsor":"Plumb, J.",
+        "Date Passed":1740009600000,
+        "Effective Date":1746576000000,
+        "Governor's Action":null,
+        "Gov's Action Date":null,
+        "Laws of Utah Chapter":null,
+        "filename":"passedBills_02242025.csv",
+        "file_date":1740355200000
+      }
+    ]
+  },
+  {
+    "Img_ID":"ESCAML",
+    "Office":"State Senate",
+    "Rep_Name":"Luz Escamilla",
+    "District":"10",
+    "Party":"D",
+    "Email":"lescamilla@le.utah.gov",
+    "County(ies)":"Salt Lake",
+    "Webpage":"https:\/\/senate.utah.gov\/sen\/ESCAML",
+    "Img_URL":"https:\/\/le.utah.gov\/images\/legislator\/senate\/ESCAML.jpg",
+    "Legislation_By_Representative":"https:\/\/le.utah.gov\/asp\/billsintro\/SenResults.asp?Listbox2=ESCAML",
+    "Bill Sponsor":"Escamilla, L.",
+    "New_Bills":[
+      {
+        "Bill Number":"SB0264",
+        "Link to Bill":"https:\/\/le.utah.gov\/~2025\/bills\/static\/SB0264.html",
+        "Short Title":"Higher Education Certification Amendments",
+        "Sponsor":"Sen. Escamilla, L.",
+        "Date Numbered":1739318400000,
+        "Office":"State Senate",
+        "First Initial":"L",
+        "Middle":null,
+        "Last Name":"Escamilla",
+        "sheet_name":"new_bills_02142025",
+        "Bill Sponsor":"Escamilla, L."
+      },
+      {
+        "Bill Number":"SB0254",
+        "Link to Bill":"https:\/\/le.utah.gov\/~2025\/bills\/static\/SB0254.html",
+        "Short Title":"State Grant Revisions",
+        "Sponsor":"Sen. Escamilla, L.",
+        "Date Numbered":1739145600000,
+        "Office":"State Senate",
+        "First Initial":"L",
+        "Middle":null,
+        "Last Name":"Escamilla",
+        "sheet_name":"new_bills_02142025",
+        "Bill Sponsor":"Escamilla, L."
+      }
+    ],
+    "Passed_Bills":[
+
+    ]
+  },
+  {
+    "Img_ID":"THATCDW",
+    "Office":"State Senate",
+    "Rep_Name":"Daniel W Thatcher",
+    "District":"11",
+    "Party":"R",
+    "Email":"dthatcher@le.utah.gov",
+    "County(ies)":"Salt Lake, Tooele, Utah",
+    "Webpage":"https:\/\/senate.utah.gov\/sen\/THATCDW",
+    "Img_URL":"https:\/\/le.utah.gov\/images\/legislator\/senate\/THATCDW.jpg",
+    "Legislation_By_Representative":"https:\/\/le.utah.gov\/asp\/billsintro\/SenResults.asp?Listbox2=THATCDW",
+    "Bill Sponsor":"Thatcher, D.",
+    "New_Bills":[
+
+    ],
+    "Passed_Bills":[
+
+    ]
+  },
+  {
+    "Img_ID":"KWANK",
+    "Office":"State Senate",
+    "Rep_Name":"Karen Kwan",
+    "District":"12",
+    "Party":"D",
+    "Email":"kkwan@le.utah.gov",
+    "County(ies)":"Salt Lake",
+    "Webpage":"https:\/\/senate.utah.gov\/sen\/KWANK",
+    "Img_URL":"https:\/\/le.utah.gov\/images\/legislator\/senate\/KWANK.jpg",
+    "Legislation_By_Representative":"https:\/\/le.utah.gov\/asp\/billsintro\/SenResults.asp?Listbox2=KWANK",
+    "Bill Sponsor":"Kwan, K.",
+    "New_Bills":[
+
+    ],
+    "Passed_Bills":[
+      {
+        "Bill Number":"SB0079S01",
+        "Bill Title":"Technical Code Amendments\u00a0",
+        "Bill Sponsor":"Kwan, K.",
+        "Date Passed":1739836800000,
+        "Effective Date":1746576000000,
+        "Governor's Action":null,
+        "Gov's Action Date":null,
+        "Laws of Utah Chapter":null,
+        "filename":"passedBills_02242025.csv",
+        "file_date":1740355200000
+      },
+      {
+        "Bill Number":"SB0101",
+        "Bill Title":"Dog Related Liability Amendments\u00a0",
+        "Bill Sponsor":"Kwan, K.",
+        "Date Passed":1739923200000,
+        "Effective Date":1746576000000,
+        "Governor's Action":null,
+        "Gov's Action Date":null,
+        "Laws of Utah Chapter":null,
+        "filename":"passedBills_02242025.csv",
+        "file_date":1740355200000
+      }
+    ]
+  },
+  {
+    "Img_ID":"BLOUIN",
+    "Office":"State Senate",
+    "Rep_Name":"Nate Blouin",
+    "District":"13",
+    "Party":"D",
+    "Email":"nblouin@le.utah.gov",
+    "County(ies)":"Salt Lake",
+    "Webpage":"https:\/\/senate.utah.gov\/sen\/BLOUIN",
+    "Img_URL":"https:\/\/le.utah.gov\/images\/legislator\/senate\/BLOUIN.jpg",
+    "Legislation_By_Representative":"https:\/\/le.utah.gov\/asp\/billsintro\/SenResults.asp?Listbox2=BLOUIN",
+    "Bill Sponsor":"Blouin, N.",
+    "New_Bills":[
+
+    ],
+    "Passed_Bills":[
+
+    ]
+  },
+  {
+    "Img_ID":"PITCHS",
+    "Office":"State Senate",
+    "Rep_Name":"Stephanie Pitcher",
+    "District":"14",
+    "Party":"D",
+    "Email":"spitcher@le.utah.gov",
+    "County(ies)":"Salt Lake",
+    "Webpage":"https:\/\/senate.utah.gov\/sen\/PITCHS",
+    "Img_URL":"https:\/\/le.utah.gov\/images\/legislator\/senate\/PITCHS.jpg",
+    "Legislation_By_Representative":"https:\/\/le.utah.gov\/asp\/billsintro\/SenResults.asp?Listbox2=PITCHS",
+    "Bill Sponsor":"Pitcher, S.",
+    "New_Bills":[
+
+    ],
+    "Passed_Bills":[
+      {
+        "Bill Number":"SB0087",
+        "Bill Title":"DUI Sentencing Modifications\u00a0",
+        "Bill Sponsor":"Pitcher, S.",
+        "Date Passed":1739404800000,
+        "Effective Date":null,
+        "Governor's Action":null,
+        "Gov's Action Date":null,
+        "Laws of Utah Chapter":null,
+        "filename":"passedBills_02142025.csv",
+        "file_date":1739491200000
+      },
+      {
+        "Bill Number":"SB0054S01",
+        "Bill Title":"Appearance of Candidate Name on Ballot\u00a0",
+        "Bill Sponsor":"Pitcher, S.",
+        "Date Passed":1739923200000,
+        "Effective Date":1746576000000,
+        "Governor's Action":null,
+        "Gov's Action Date":null,
+        "Laws of Utah Chapter":null,
+        "filename":"passedBills_02242025.csv",
+        "file_date":1740355200000
+      },
+      {
+        "Bill Number":"SB0087",
+        "Bill Title":"DUI Sentencing Modifications\u00a0",
+        "Bill Sponsor":"Pitcher, S.",
+        "Date Passed":1739404800000,
+        "Effective Date":1746576000000,
+        "Governor's Action":null,
+        "Gov's Action Date":null,
+        "Laws of Utah Chapter":null,
+        "filename":"passedBills_02242025.csv",
+        "file_date":1740355200000
+      }
+    ]
+  },
+  {
+    "Img_ID":"RIEBEK",
+    "Office":"State Senate",
+    "Rep_Name":"Kathleen A Riebe",
+    "District":"15",
+    "Party":"D",
+    "Email":"kriebe@le.utah.gov",
+    "County(ies)":"Salt Lake",
+    "Webpage":"https:\/\/senate.utah.gov\/sen\/RIEBEK",
+    "Img_URL":"https:\/\/le.utah.gov\/images\/legislator\/senate\/RIEBEK.jpg",
+    "Legislation_By_Representative":"https:\/\/le.utah.gov\/asp\/billsintro\/SenResults.asp?Listbox2=RIEBEK",
+    "Bill Sponsor":"Riebe, K.",
+    "New_Bills":[
+
+    ],
+    "Passed_Bills":[
+
+    ]
+  },
+  {
+    "Img_ID":"HARPEWA",
+    "Office":"State Senate",
+    "Rep_Name":"Wayne A Harper",
+    "District":"16",
+    "Party":"R",
+    "Email":"wharper@le.utah.gov",
+    "County(ies)":"Salt Lake",
+    "Webpage":"https:\/\/senate.utah.gov\/sen\/HARPEWA",
+    "Img_URL":"https:\/\/le.utah.gov\/images\/legislator\/senate\/HARPEWA.jpg",
+    "Legislation_By_Representative":"https:\/\/le.utah.gov\/asp\/billsintro\/SenResults.asp?Listbox2=HARPEWA",
+    "Bill Sponsor":"Harper, W.",
+    "New_Bills":[
+      {
+        "Bill Number":"SB0269",
+        "Link to Bill":"https:\/\/le.utah.gov\/~2025\/bills\/static\/SB0269.html",
+        "Short Title":"Telecommunications Amendments",
+        "Sponsor":"Sen. Harper, W.",
+        "Date Numbered":1739318400000,
+        "Office":"State Senate",
+        "First Initial":"W",
+        "Middle":null,
+        "Last Name":"Harper",
+        "sheet_name":"new_bills_02142025",
+        "Bill Sponsor":"Harper, W."
+      },
+      {
+        "Bill Number":"SB0253",
+        "Link to Bill":"https:\/\/le.utah.gov\/~2025\/bills\/static\/SB0253.html",
+        "Short Title":"Railroad and Transportation Amendments",
+        "Sponsor":"Sen. Harper, W.",
+        "Date Numbered":1739145600000,
+        "Office":"State Senate",
+        "First Initial":"W",
+        "Middle":null,
+        "Last Name":"Harper",
+        "sheet_name":"new_bills_02142025",
+        "Bill Sponsor":"Harper, W."
+      }
+    ],
+    "Passed_Bills":[
+      {
+        "Bill Number":"SB0021",
+        "Bill Title":"Long-Term Disability Amendments\u00a0",
+        "Bill Sponsor":"Harper, W.",
+        "Date Passed":1739404800000,
+        "Effective Date":null,
+        "Governor's Action":null,
+        "Gov's Action Date":null,
+        "Laws of Utah Chapter":null,
+        "filename":"passedBills_02142025.csv",
+        "file_date":1739491200000
+      },
+      {
+        "Bill Number":"SB0023S01",
+        "Bill Title":"First Home Investment Zone Amendments\u00a0",
+        "Bill Sponsor":"Harper, W.",
+        "Date Passed":1739145600000,
+        "Effective Date":1746576000000,
+        "Governor's Action":null,
+        "Gov's Action Date":null,
+        "Laws of Utah Chapter":null,
+        "filename":"passedBills_02142025.csv",
+        "file_date":1739491200000
+      },
+      {
+        "Bill Number":"SB0025",
+        "Bill Title":"Postretirement Reemployment for Emergency Services Workers\u00a0",
+        "Bill Sponsor":"Harper, W.",
+        "Date Passed":1739318400000,
+        "Effective Date":1751328000000,
+        "Governor's Action":null,
+        "Gov's Action Date":null,
+        "Laws of Utah Chapter":null,
+        "filename":"passedBills_02142025.csv",
+        "file_date":1739491200000
+      },
+      {
+        "Bill Number":"SB0021",
+        "Bill Title":"Long-Term Disability Amendments\u00a0",
+        "Bill Sponsor":"Harper, W.",
+        "Date Passed":1739404800000,
+        "Effective Date":1751328000000,
+        "Governor's Action":null,
+        "Gov's Action Date":null,
+        "Laws of Utah Chapter":null,
+        "filename":"passedBills_02242025.csv",
+        "file_date":1740355200000
+      },
+      {
+        "Bill Number":"SB0096",
+        "Bill Title":"Advanced Air Mobility Amendments\u00a0",
+        "Bill Sponsor":"Harper, W.",
+        "Date Passed":1739923200000,
+        "Effective Date":1746576000000,
+        "Governor's Action":null,
+        "Gov's Action Date":null,
+        "Laws of Utah Chapter":null,
+        "filename":"passedBills_02242025.csv",
+        "file_date":1740355200000
+      }
+    ]
+  },
+  {
+    "Img_ID":"FILLML",
+    "Office":"State Senate",
+    "Rep_Name":"Lincoln Fillmore",
+    "District":"17",
+    "Party":"R",
+    "Email":"lfillmore@le.utah.gov",
+    "County(ies)":"Salt Lake",
+    "Webpage":"https:\/\/senate.utah.gov\/sen\/FILLML",
+    "Img_URL":"https:\/\/le.utah.gov\/images\/legislator\/senate\/FILLML.jpg",
+    "Legislation_By_Representative":"https:\/\/le.utah.gov\/asp\/billsintro\/SenResults.asp?Listbox2=FILLML",
+    "Bill Sponsor":"Fillmore, L.",
+    "New_Bills":[
+      {
+        "Bill Number":"SB0272",
+        "Link to Bill":"https:\/\/le.utah.gov\/~2025\/bills\/static\/SB0272.html",
+        "Short Title":"Micro-education Entity Amendments",
+        "Sponsor":"Sen. Fillmore, L.",
+        "Date Numbered":1739404800000,
+        "Office":"State Senate",
+        "First Initial":"L",
+        "Middle":null,
+        "Last Name":"Fillmore",
+        "sheet_name":"new_bills_02142025",
+        "Bill Sponsor":"Fillmore, L."
+      },
+      {
+        "Bill Number":"SB0262",
+        "Link to Bill":"https:\/\/le.utah.gov\/~2025\/bills\/static\/SB0262.html",
+        "Short Title":"Housing Affordability Modifications",
+        "Sponsor":"Sen. Fillmore, L.",
+        "Date Numbered":1739232000000,
+        "Office":"State Senate",
+        "First Initial":"L",
+        "Middle":null,
+        "Last Name":"Fillmore",
+        "sheet_name":"new_bills_02142025",
+        "Bill Sponsor":"Fillmore, L."
+      }
+    ],
+    "Passed_Bills":[
+      {
+        "Bill Number":"SB0013",
+        "Bill Title":"Property Tax Reimbursement Amendments\u00a0",
+        "Bill Sponsor":"Fillmore, L.",
+        "Date Passed":1738627200000,
+        "Effective Date":1767225600000,
+        "Governor's Action":null,
+        "Gov's Action Date":null,
+        "Laws of Utah Chapter":null,
+        "filename":"passedBills_02142025.csv",
+        "file_date":1739491200000
+      },
+      {
+        "Bill Number":"SR0001",
+        "Bill Title":"Senate Rules Resolution - Amendments to Senate Rules\u00a0",
+        "Bill Sponsor":"Fillmore, L.",
+        "Date Passed":1737504000000,
+        "Effective Date":-5364662400000,
+        "Governor's Action":null,
+        "Gov's Action Date":null,
+        "Laws of Utah Chapter":null,
+        "filename":"passedBills_02142025.csv",
+        "file_date":1739491200000
+      },
+      {
+        "Bill Number":"SB0013",
+        "Bill Title":"Property Tax Reimbursement Amendments\u00a0",
+        "Bill Sponsor":"Fillmore, L.",
+        "Date Passed":1738281600000,
+        "Effective Date":null,
+        "Governor's Action":null,
+        "Gov's Action Date":null,
+        "Laws of Utah Chapter":null,
+        "filename":"passedBills_02042025.csv",
+        "file_date":1738627200000
+      },
+      {
+        "Bill Number":"SB0029S02",
+        "Bill Title":"Charter School Amendments\u00a0",
+        "Bill Sponsor":"Fillmore, L.",
+        "Date Passed":1740009600000,
+        "Effective Date":1751328000000,
+        "Governor's Action":null,
+        "Gov's Action Date":null,
+        "Laws of Utah Chapter":null,
+        "filename":"passedBills_02242025.csv",
+        "file_date":1740355200000
+      },
+      {
+        "Bill Number":"SB0037",
+        "Bill Title":"Minimum Basic Tax Rate Amendments\u00a0",
+        "Bill Sponsor":"Fillmore, L.",
+        "Date Passed":1740009600000,
+        "Effective Date":1746576000000,
+        "Governor's Action":null,
+        "Gov's Action Date":null,
+        "Laws of Utah Chapter":null,
+        "filename":"passedBills_02242025.csv",
+        "file_date":1740355200000
+      },
+      {
+        "Bill Number":"SB0066",
+        "Bill Title":"School Personnel Amendments\u00a0",
+        "Bill Sponsor":"Fillmore, L.",
+        "Date Passed":1739923200000,
+        "Effective Date":1746576000000,
+        "Governor's Action":null,
+        "Gov's Action Date":null,
+        "Laws of Utah Chapter":null,
+        "filename":"passedBills_02242025.csv",
+        "file_date":1740355200000
+      },
+      {
+        "Bill Number":"SCR002",
+        "Bill Title":"Concurrent Resolution Encouraging Practices that Promote Child Independence\u00a0",
+        "Bill Sponsor":"Fillmore, L.",
+        "Date Passed":1740009600000,
+        "Effective Date":-5364662400000,
+        "Governor's Action":null,
+        "Gov's Action Date":null,
+        "Laws of Utah Chapter":null,
+        "filename":"passedBills_02242025.csv",
+        "file_date":1740355200000
+      },
+      {
+        "Bill Number":"SR0002S02",
+        "Bill Title":"Senate Rules Resolution - Legislative Process Amendments\u00a0",
+        "Bill Sponsor":"Fillmore, L.",
+        "Date Passed":1740355200000,
+        "Effective Date":null,
+        "Governor's Action":null,
+        "Gov's Action Date":null,
+        "Laws of Utah Chapter":null,
+        "filename":"passedBills_02242025.csv",
+        "file_date":1740355200000
+      }
+    ]
+  },
+  {
+    "Img_ID":"MCCAYD",
+    "Office":"State Senate",
+    "Rep_Name":"Daniel McCay",
+    "District":"18",
+    "Party":"R",
+    "Email":"dmccay@le.utah.gov",
+    "County(ies)":"Salt Lake, Utah",
+    "Webpage":"https:\/\/senate.utah.gov\/sen\/MCCAYD",
+    "Img_URL":"https:\/\/le.utah.gov\/images\/legislator\/senate\/MCCAYD.jpg",
+    "Legislation_By_Representative":"https:\/\/le.utah.gov\/asp\/billsintro\/SenResults.asp?Listbox2=MCCAYD",
+    "Bill Sponsor":"McCay, D.",
+    "New_Bills":[
+      {
+        "Bill Number":"SB0268",
+        "Link to Bill":"https:\/\/le.utah.gov\/~2025\/bills\/static\/SB0268.html",
+        "Short Title":"Rules Review and General Oversight Committee Amendments",
+        "Sponsor":"Sen. McCay, D.",
+        "Date Numbered":1739318400000,
+        "Office":"State Senate",
+        "First Initial":"D",
+        "Middle":null,
+        "Last Name":"McCay",
+        "sheet_name":"new_bills_02142025",
+        "Bill Sponsor":"McCay, D."
+      }
+    ],
+    "Passed_Bills":[
+      {
+        "Bill Number":"SB0018S01",
+        "Bill Title":"Election Fundraising Amendments\u00a0",
+        "Bill Sponsor":"McCay, D.",
+        "Date Passed":1738627200000,
+        "Effective Date":1746576000000,
+        "Governor's Action":null,
+        "Gov's Action Date":null,
+        "Laws of Utah Chapter":null,
+        "filename":"passedBills_02142025.csv",
+        "file_date":1739491200000
+      },
+      {
+        "Bill Number":"SB0018S01",
+        "Bill Title":"Election Fundraising Amendments\u00a0",
+        "Bill Sponsor":"McCay, D.",
+        "Date Passed":1738281600000,
+        "Effective Date":null,
+        "Governor's Action":null,
+        "Gov's Action Date":null,
+        "Laws of Utah Chapter":null,
+        "filename":"passedBills_02042025.csv",
+        "file_date":1738627200000
+      },
+      {
+        "Bill Number":"SB0043S01",
+        "Bill Title":"Income Tax Credit Review Amendments\u00a0",
+        "Bill Sponsor":"McCay, D.",
+        "Date Passed":1740009600000,
+        "Effective Date":1746576000000,
+        "Governor's Action":null,
+        "Gov's Action Date":null,
+        "Laws of Utah Chapter":null,
+        "filename":"passedBills_02242025.csv",
+        "file_date":1740355200000
+      }
+    ]
+  },
+  {
+    "Img_ID":"CULLIKA",
+    "Office":"State Senate",
+    "Rep_Name":"Kirk A Cullimore",
+    "District":"19",
+    "Party":"R",
+    "Email":"kcullimore@le.utah.gov",
+    "County(ies)":"Salt Lake, Utah",
+    "Webpage":"https:\/\/senate.utah.gov\/sen\/CULLIKA",
+    "Img_URL":"https:\/\/le.utah.gov\/images\/legislator\/senate\/CULLIKA.jpg",
+    "Legislation_By_Representative":"https:\/\/le.utah.gov\/asp\/billsintro\/SenResults.asp?Listbox2=CULLIKA",
+    "Bill Sponsor":"Cullimore, K.",
+    "New_Bills":[
+
+    ],
+    "Passed_Bills":[
+
+    ]
+  },
+  {
+    "Img_ID":"WINTER",
+    "Office":"State Senate",
+    "Rep_Name":"Ronald M Winterton",
+    "District":"20",
+    "Party":"R",
+    "Email":"rwinterton@le.utah.gov",
+    "County(ies)":"Daggett, Duchesne, Summit, Uintah, Wasatch",
+    "Webpage":"https:\/\/senate.utah.gov\/sen\/WINTER",
+    "Img_URL":"https:\/\/le.utah.gov\/images\/legislator\/senate\/WINTER.jpg",
+    "Legislation_By_Representative":"https:\/\/le.utah.gov\/asp\/billsintro\/SenResults.asp?Listbox2=WINTER",
+    "Bill Sponsor":"Winterton, R.",
+    "New_Bills":[
+
+    ],
+    "Passed_Bills":[
+
+    ]
+  },
+  {
+    "Img_ID":"BRAMMB",
+    "Office":"State Senate",
+    "Rep_Name":"Brady Brammer",
+    "District":"21",
+    "Party":"R",
+    "Email":"bbrammer@le.utah.gov",
+    "County(ies)":"Utah",
+    "Webpage":"https:\/\/senate.utah.gov\/sen\/BRAMMB",
+    "Img_URL":"https:\/\/le.utah.gov\/images\/legislator\/senate\/BRAMMB.jpg",
+    "Legislation_By_Representative":"https:\/\/le.utah.gov\/asp\/billsintro\/SenResults.asp?Listbox2=BRAMMB",
+    "Bill Sponsor":"Brammer, B.",
+    "New_Bills":[
+      {
+        "Bill Number":"SJR009",
+        "Link to Bill":"https:\/\/le.utah.gov\/~2025\/bills\/static\/SJR009.html",
+        "Short Title":"Joint Resolution Amending Rules of Civil Procedure on Injunctions",
+        "Sponsor":"Sen. Brammer, B.",
+        "Date Numbered":1739491200000,
+        "Office":"State Senate",
+        "First Initial":"B",
+        "Middle":null,
+        "Last Name":"Brammer",
+        "sheet_name":"new_bills_02142025",
+        "Bill Sponsor":"Brammer, B."
+      },
+      {
+        "Bill Number":"SB0261",
+        "Link to Bill":"https:\/\/le.utah.gov\/~2025\/bills\/static\/SB0261.html",
+        "Short Title":"Tourism Related Tax Reporting Amendments",
+        "Sponsor":"Rep. Brammer, B.",
+        "Date Numbered":1739232000000,
+        "Office":"State House",
+        "First Initial":"B",
+        "Middle":null,
+        "Last Name":"Brammer",
+        "sheet_name":"new_bills_02142025",
+        "Bill Sponsor":"Brammer, B."
+      },
+      {
+        "Bill Number":"SB0257",
+        "Link to Bill":"https:\/\/le.utah.gov\/~2025\/bills\/static\/SB0257.html",
+        "Short Title":"Medicaid Accounts Amendments",
+        "Sponsor":"Rep. Brammer, B.",
+        "Date Numbered":1739232000000,
+        "Office":"State House",
+        "First Initial":"B",
+        "Middle":null,
+        "Last Name":"Brammer",
+        "sheet_name":"new_bills_02142025",
+        "Bill Sponsor":"Brammer, B."
+      }
+    ],
+    "Passed_Bills":[
+      {
+        "Bill Number":"SB0006",
+        "Bill Title":"Criminal Justice Base Budget\u00a0",
+        "Bill Sponsor":"Brammer, B.",
+        "Date Passed":1738195200000,
+        "Effective Date":1751328000000,
+        "Governor's Action":null,
+        "Gov's Action Date":null,
+        "Laws of Utah Chapter":null,
+        "filename":"passedBills_02142025.csv",
+        "file_date":1739491200000
+      },
+      {
+        "Bill Number":"SB0006",
+        "Bill Title":"Criminal Justice Base Budget\u00a0",
+        "Bill Sponsor":"Brammer, B.",
+        "Date Passed":1738195200000,
+        "Effective Date":1751328000000,
+        "Governor's Action":"GSIGN",
+        "Gov's Action Date":"2\/14\/2025",
+        "Laws of Utah Chapter":7.0,
+        "filename":"passedBills_02242025.csv",
+        "file_date":1740355200000
+      },
+      {
+        "Bill Number":"SB0118",
+        "Bill Title":"Political Party Procedures Amendments\u00a0",
+        "Bill Sponsor":"Brammer, B.",
+        "Date Passed":1740009600000,
+        "Effective Date":1746576000000,
+        "Governor's Action":null,
+        "Gov's Action Date":null,
+        "Laws of Utah Chapter":null,
+        "filename":"passedBills_02242025.csv",
+        "file_date":1740355200000
+      }
+    ]
+  },
+  {
+    "Img_ID":"BALDEH",
+    "Office":"State Senate",
+    "Rep_Name":"Heidi Balderree",
+    "District":"22",
+    "Party":"R",
+    "Email":"hbalderree@le.utah.gov",
+    "County(ies)":"Salt Lake, Utah",
+    "Webpage":"https:\/\/senate.utah.gov\/sen\/BALDEH",
+    "Img_URL":"https:\/\/le.utah.gov\/images\/legislator\/senate\/BALDEH.jpg",
+    "Legislation_By_Representative":"https:\/\/le.utah.gov\/asp\/billsintro\/SenResults.asp?Listbox2=BALDEH",
+    "Bill Sponsor":"Balderree, H.",
+    "New_Bills":[
+      {
+        "Bill Number":"SB0270",
+        "Link to Bill":"https:\/\/le.utah.gov\/~2025\/bills\/static\/SB0270.html",
+        "Short Title":"Income Tax Amendments",
+        "Sponsor":"Sen. Balderree, H.",
+        "Date Numbered":1739318400000,
+        "Office":"State Senate",
+        "First Initial":"H",
+        "Middle":null,
+        "Last Name":"Balderree",
+        "sheet_name":"new_bills_02142025",
+        "Bill Sponsor":"Balderree, H."
+      }
+    ],
+    "Passed_Bills":[
+      {
+        "Bill Number":"SB0001",
+        "Bill Title":"Public Education Base Budget Amendments\u00a0",
+        "Bill Sponsor":"Balderree, H.",
+        "Date Passed":1738195200000,
+        "Effective Date":1751328000000,
+        "Governor's Action":null,
+        "Gov's Action Date":null,
+        "Laws of Utah Chapter":null,
+        "filename":"passedBills_02142025.csv",
+        "file_date":1739491200000
+      },
+      {
+        "Bill Number":"SB0019",
+        "Bill Title":"Utah Retirement Systems Amendments for Military Personnel\u00a0",
+        "Bill Sponsor":"Balderree, H.",
+        "Date Passed":1738713600000,
+        "Effective Date":1751328000000,
+        "Governor's Action":null,
+        "Gov's Action Date":null,
+        "Laws of Utah Chapter":null,
+        "filename":"passedBills_02142025.csv",
+        "file_date":1739491200000
+      },
+      {
+        "Bill Number":"SB0001",
+        "Bill Title":"Public Education Base Budget Amendments\u00a0",
+        "Bill Sponsor":"Balderree, H.",
+        "Date Passed":1738195200000,
+        "Effective Date":1751328000000,
+        "Governor's Action":"GSIGN",
+        "Gov's Action Date":"2\/14\/2025",
+        "Laws of Utah Chapter":6.0,
+        "filename":"passedBills_02242025.csv",
+        "file_date":1740355200000
+      },
+      {
+        "Bill Number":"SB0055S02",
+        "Bill Title":"Unauthorized Use of Real Property Amendments\u00a0",
+        "Bill Sponsor":"Balderree, H.",
+        "Date Passed":1739923200000,
+        "Effective Date":1746576000000,
+        "Governor's Action":null,
+        "Gov's Action Date":null,
+        "Laws of Utah Chapter":null,
+        "filename":"passedBills_02242025.csv",
+        "file_date":1740355200000
+      },
+      {
+        "Bill Number":"SB0095",
+        "Bill Title":"Truth in Taxation Amendments\u00a0",
+        "Bill Sponsor":"Balderree, H.",
+        "Date Passed":1739923200000,
+        "Effective Date":1746576000000,
+        "Governor's Action":null,
+        "Gov's Action Date":null,
+        "Laws of Utah Chapter":null,
+        "filename":"passedBills_02242025.csv",
+        "file_date":1740355200000
+      }
+    ]
+  },
+  {
+    "Img_ID":"GROVEK",
+    "Office":"State Senate",
+    "Rep_Name":"Keith Grover",
+    "District":"23",
+    "Party":"R",
+    "Email":"keithgrover@le.utah.gov",
+    "County(ies)":"Utah",
+    "Webpage":"https:\/\/senate.utah.gov\/sen\/GROVEK",
+    "Img_URL":"https:\/\/le.utah.gov\/images\/legislator\/senate\/GROVEK.jpg",
+    "Legislation_By_Representative":"https:\/\/le.utah.gov\/asp\/billsintro\/SenResults.asp?Listbox2=GROVEK",
+    "Bill Sponsor":"Grover, K.",
+    "New_Bills":[
+      {
+        "Bill Number":"SB0281",
+        "Link to Bill":"https:\/\/le.utah.gov\/~2025\/bills\/static\/SB0281.html",
+        "Short Title":"Corporal Punishment in Schools Amendments",
+        "Sponsor":"Sen. Grover, K.",
+        "Date Numbered":1739491200000,
+        "Office":"State Senate",
+        "First Initial":"K",
+        "Middle":null,
+        "Last Name":"Grover",
+        "sheet_name":"new_bills_02142025",
+        "Bill Sponsor":"Grover, K."
+      }
+    ],
+    "Passed_Bills":[
+      {
+        "Bill Number":"SB0014",
+        "Bill Title":"Private Sale of a Firearm Sunset Review Amendments\u00a0",
+        "Bill Sponsor":"Grover, K.",
+        "Date Passed":1738800000000,
+        "Effective Date":1746576000000,
+        "Governor's Action":null,
+        "Gov's Action Date":null,
+        "Laws of Utah Chapter":null,
+        "filename":"passedBills_02142025.csv",
+        "file_date":1739491200000
+      },
+      {
+        "Bill Number":"SB0041S03",
+        "Bill Title":"Sex, Kidnap, and Child Abuse Offender Registry Amendments\u00a0",
+        "Bill Sponsor":"Grover, K.",
+        "Date Passed":1739145600000,
+        "Effective Date":1746576000000,
+        "Governor's Action":null,
+        "Gov's Action Date":null,
+        "Laws of Utah Chapter":null,
+        "filename":"passedBills_02142025.csv",
+        "file_date":1739491200000
+      },
+      {
+        "Bill Number":"SB0147",
+        "Bill Title":"Youth Service Organizations Amendments\u00a0",
+        "Bill Sponsor":"Grover, K.",
+        "Date Passed":1740355200000,
+        "Effective Date":null,
+        "Governor's Action":null,
+        "Gov's Action Date":null,
+        "Laws of Utah Chapter":null,
+        "filename":"passedBills_02242025.csv",
+        "file_date":1740355200000
+      }
+    ]
+  },
+  {
+    "Img_ID":"STRATKJ",
+    "Office":"State Senate",
+    "Rep_Name":"Keven J Stratton",
+    "District":"24",
+    "Party":"R",
+    "Email":"kstratton@le.utah.gov",
+    "County(ies)":"Utah, Wasatch",
+    "Webpage":"https:\/\/senate.utah.gov\/sen\/STRATKJ",
+    "Img_URL":"https:\/\/le.utah.gov\/images\/legislator\/senate\/STRATKJ.jpg",
+    "Legislation_By_Representative":"https:\/\/le.utah.gov\/asp\/billsintro\/SenResults.asp?Listbox2=STRATKJ",
+    "Bill Sponsor":"Stratton, K.",
+    "New_Bills":[
+
+    ],
+    "Passed_Bills":[
+      {
+        "Bill Number":"SB0007",
+        "Bill Title":"Social Services Base Budget\u00a0",
+        "Bill Sponsor":"Stratton, K.",
+        "Date Passed":1738195200000,
+        "Effective Date":1751328000000,
+        "Governor's Action":null,
+        "Gov's Action Date":null,
+        "Laws of Utah Chapter":null,
+        "filename":"passedBills_02142025.csv",
+        "file_date":1739491200000
+      },
+      {
+        "Bill Number":"SB0051",
+        "Bill Title":"State Resource Management Plan Amendments\u00a0",
+        "Bill Sponsor":"Stratton, K.",
+        "Date Passed":1739404800000,
+        "Effective Date":null,
+        "Governor's Action":null,
+        "Gov's Action Date":null,
+        "Laws of Utah Chapter":null,
+        "filename":"passedBills_02142025.csv",
+        "file_date":1739491200000
+      },
+      {
+        "Bill Number":"SB0007",
+        "Bill Title":"Social Services Base Budget\u00a0",
+        "Bill Sponsor":"Stratton, K.",
+        "Date Passed":1738195200000,
+        "Effective Date":1751328000000,
+        "Governor's Action":"GSIGN",
+        "Gov's Action Date":"2\/14\/2025",
+        "Laws of Utah Chapter":9.0,
+        "filename":"passedBills_02242025.csv",
+        "file_date":1740355200000
+      },
+      {
+        "Bill Number":"SB0051",
+        "Bill Title":"State Resource Management Plan Amendments\u00a0",
+        "Bill Sponsor":"Stratton, K.",
+        "Date Passed":1739404800000,
+        "Effective Date":1746576000000,
+        "Governor's Action":null,
+        "Gov's Action Date":null,
+        "Laws of Utah Chapter":null,
+        "filename":"passedBills_02242025.csv",
+        "file_date":1740355200000
+      }
+    ]
+  },
+  {
+    "Img_ID":"MCKELMK",
+    "Office":"State Senate",
+    "Rep_Name":"Michael K McKell",
+    "District":"25",
+    "Party":"R",
+    "Email":"mmckell@le.utah.gov",
+    "County(ies)":"Utah",
+    "Webpage":"https:\/\/senate.utah.gov\/sen\/MCKELMK",
+    "Img_URL":"https:\/\/le.utah.gov\/images\/legislator\/senate\/MCKELMK.jpg",
+    "Legislation_By_Representative":"https:\/\/le.utah.gov\/asp\/billsintro\/SenResults.asp?Listbox2=MCKELMK",
+    "Bill Sponsor":"McKell, M.",
+    "New_Bills":[
+      {
+        "Bill Number":"SB0279",
+        "Link to Bill":"https:\/\/le.utah.gov\/~2025\/bills\/static\/SB0279.html",
+        "Short Title":"High School Rodeo Amendments",
+        "Sponsor":"Sen. McKell, M.",
+        "Date Numbered":1739404800000,
+        "Office":"State Senate",
+        "First Initial":"M",
+        "Middle":null,
+        "Last Name":"McKell",
+        "sheet_name":"new_bills_02142025",
+        "Bill Sponsor":"McKell, M."
+      },
+      {
+        "Bill Number":"SB0277",
+        "Link to Bill":"https:\/\/le.utah.gov\/~2025\/bills\/static\/SB0277.html",
+        "Short Title":"Government Records Management Amendments",
+        "Sponsor":"Sen. McKell, M.",
+        "Date Numbered":1739404800000,
+        "Office":"State Senate",
+        "First Initial":"M",
+        "Middle":null,
+        "Last Name":"McKell",
+        "sheet_name":"new_bills_02142025",
+        "Bill Sponsor":"McKell, M."
+      },
+      {
+        "Bill Number":"SB0276",
+        "Link to Bill":"https:\/\/le.utah.gov\/~2025\/bills\/static\/SB0276.html",
+        "Short Title":"Utah Horse Racing Commission Amendments",
+        "Sponsor":"Sen. McKell, M.",
+        "Date Numbered":1739404800000,
+        "Office":"State Senate",
+        "First Initial":"M",
+        "Middle":null,
+        "Last Name":"McKell",
+        "sheet_name":"new_bills_02142025",
+        "Bill Sponsor":"McKell, M."
+      },
+      {
+        "Bill Number":"SB0271",
+        "Link to Bill":"https:\/\/le.utah.gov\/~2025\/bills\/static\/SB0271.html",
+        "Short Title":"Unauthorized Artificial Intelligence Impersonation Amendments",
+        "Sponsor":"Sen. McKell, M.",
+        "Date Numbered":1739404800000,
+        "Office":"State Senate",
+        "First Initial":"M",
+        "Middle":null,
+        "Last Name":"McKell",
+        "sheet_name":"new_bills_02142025",
+        "Bill Sponsor":"McKell, M."
+      },
+      {
+        "Bill Number":"SB0258",
+        "Link to Bill":"https:\/\/le.utah.gov\/~2025\/bills\/static\/SB0258.html",
+        "Short Title":"Inmate Education Funding Amendments",
+        "Sponsor":"Sen. McKell, M.",
+        "Date Numbered":1739232000000,
+        "Office":"State Senate",
+        "First Initial":"M",
+        "Middle":null,
+        "Last Name":"McKell",
+        "sheet_name":"new_bills_02142025",
+        "Bill Sponsor":"McKell, M."
+      }
+    ],
+    "Passed_Bills":[
+      {
+        "Bill Number":"SB0048",
+        "Bill Title":"Behavioral Health Amendments\u00a0",
+        "Bill Sponsor":"McKell, M.",
+        "Date Passed":1740009600000,
+        "Effective Date":1746576000000,
+        "Governor's Action":null,
+        "Gov's Action Date":null,
+        "Laws of Utah Chapter":null,
+        "filename":"passedBills_02242025.csv",
+        "file_date":1740355200000
+      },
+      {
+        "Bill Number":"SB0117",
+        "Bill Title":"Uniform Family Law Arbitration Act\u00a0",
+        "Bill Sponsor":"McKell, M.",
+        "Date Passed":1740096000000,
+        "Effective Date":null,
+        "Governor's Action":null,
+        "Gov's Action Date":null,
+        "Laws of Utah Chapter":null,
+        "filename":"passedBills_02242025.csv",
+        "file_date":1740355200000
+      }
+    ]
+  },
+  {
+    "Img_ID":"HINKIDP",
+    "Office":"State Senate",
+    "Rep_Name":"David P Hinkins",
+    "District":"26",
+    "Party":"R",
+    "Email":"dhinkins@le.utah.gov",
+    "County(ies)":"Carbon, Emery, Garfield, Grand, Kane, San Juan, Utah, Wasatch, Wayne",
+    "Webpage":"https:\/\/senate.utah.gov\/sen\/HINKIDP",
+    "Img_URL":"https:\/\/le.utah.gov\/images\/legislator\/senate\/HINKIDP.jpg",
+    "Legislation_By_Representative":"https:\/\/le.utah.gov\/asp\/billsintro\/SenResults.asp?Listbox2=HINKIDP",
+    "Bill Sponsor":"Hinkins, D.",
+    "New_Bills":[
+
+    ],
+    "Passed_Bills":[
+      {
+        "Bill Number":"SB0005",
+        "Bill Title":"Natural Resources, Agriculture, and Environmental Quality Base Budget\u00a0",
+        "Bill Sponsor":"Hinkins, D.",
+        "Date Passed":1738195200000,
+        "Effective Date":1751328000000,
+        "Governor's Action":null,
+        "Gov's Action Date":null,
+        "Laws of Utah Chapter":null,
+        "filename":"passedBills_02142025.csv",
+        "file_date":1739491200000
+      },
+      {
+        "Bill Number":"SB0005",
+        "Bill Title":"Natural Resources, Agriculture, and Environmental Quality Base Budget\u00a0",
+        "Bill Sponsor":"Hinkins, D.",
+        "Date Passed":1738195200000,
+        "Effective Date":1751328000000,
+        "Governor's Action":"GSIGN",
+        "Gov's Action Date":"2\/14\/2025",
+        "Laws of Utah Chapter":8.0,
+        "filename":"passedBills_02242025.csv",
+        "file_date":1740355200000
+      }
+    ]
+  },
+  {
+    "Img_ID":"OWENSD",
+    "Office":"State Senate",
+    "Rep_Name":"Derrin R Owens",
+    "District":"27",
+    "Party":"R",
+    "Email":"derrinowens@le.utah.gov",
+    "County(ies)":"Garfield, Juab, Kane, Millard, Piute, Sanpete, Sevier, Utah, Washington, Wayne",
+    "Webpage":"https:\/\/senate.utah.gov\/sen\/OWENSD",
+    "Img_URL":"https:\/\/le.utah.gov\/images\/legislator\/senate\/OWENSD.jpg",
+    "Legislation_By_Representative":"https:\/\/le.utah.gov\/asp\/billsintro\/SenResults.asp?Listbox2=OWENSD",
+    "Bill Sponsor":"Owens, D.",
+    "New_Bills":[
+
+    ],
+    "Passed_Bills":[
+      {
+        "Bill Number":"HB0071",
+        "Bill Title":"Committee of Consumer Services Sunset Amendments\u00a0",
+        "Bill Sponsor":"Owens, D.",
+        "Date Passed":1738800000000,
+        "Effective Date":1746576000000,
+        "Governor's Action":null,
+        "Gov's Action Date":null,
+        "Laws of Utah Chapter":null,
+        "filename":"passedBills_02142025.csv",
+        "file_date":1739491200000
+      },
+      {
+        "Bill Number":"HB0046",
+        "Bill Title":"Water Rights Applications Amendments\u00a0",
+        "Bill Sponsor":"Owens, D.",
+        "Date Passed":1739491200000,
+        "Effective Date":1746576000000,
+        "Governor's Action":null,
+        "Gov's Action Date":null,
+        "Laws of Utah Chapter":null,
+        "filename":"passedBills_02242025.csv",
+        "file_date":1740355200000
+      }
+    ]
+  },
+  {
+    "Img_ID":"VICKEEJ",
+    "Office":"State Senate",
+    "Rep_Name":"Evan J Vickers",
+    "District":"28",
+    "Party":"R",
+    "Email":"evickers@le.utah.gov",
+    "County(ies)":"Beaver, Iron, Juab, Millard, Washington",
+    "Webpage":"https:\/\/senate.utah.gov\/sen\/VICKEEJ",
+    "Img_URL":"https:\/\/le.utah.gov\/images\/legislator\/senate\/VICKEEJ.jpg",
+    "Legislation_By_Representative":"https:\/\/le.utah.gov\/asp\/billsintro\/SenResults.asp?Listbox2=VICKEEJ",
+    "Bill Sponsor":"Vickers, E.",
+    "New_Bills":[
+      {
+        "Bill Number":"SB0280",
+        "Link to Bill":"https:\/\/le.utah.gov\/~2025\/bills\/static\/SB0280.html",
+        "Short Title":"Retail Facility Amendments",
+        "Sponsor":"Sen. Vickers, E.",
+        "Date Numbered":1739404800000,
+        "Office":"State Senate",
+        "First Initial":"E",
+        "Middle":null,
+        "Last Name":"Vickers",
+        "sheet_name":"new_bills_02142025",
+        "Bill Sponsor":"Vickers, E."
+      },
+      {
+        "Bill Number":"SB0275",
+        "Link to Bill":"https:\/\/le.utah.gov\/~2025\/bills\/static\/SB0275.html",
+        "Short Title":"Placental Tissue Amendments",
+        "Sponsor":"Sen. Vickers, E.",
+        "Date Numbered":1739404800000,
+        "Office":"State Senate",
+        "First Initial":"E",
+        "Middle":null,
+        "Last Name":"Vickers",
+        "sheet_name":"new_bills_02142025",
+        "Bill Sponsor":"Vickers, E."
+      }
+    ],
+    "Passed_Bills":[
+      {
+        "Bill Number":"SB0033",
+        "Bill Title":"Water Rights Recording Amendments\u00a0",
+        "Bill Sponsor":"Vickers, E.",
+        "Date Passed":1738713600000,
+        "Effective Date":1746576000000,
+        "Governor's Action":null,
+        "Gov's Action Date":null,
+        "Laws of Utah Chapter":null,
+        "filename":"passedBills_02142025.csv",
+        "file_date":1739491200000
+      },
+      {
+        "Bill Number":"SB0042",
+        "Bill Title":"Consumer Protection Amendments\u00a0",
+        "Bill Sponsor":"Vickers, E.",
+        "Date Passed":1738713600000,
+        "Effective Date":1746576000000,
+        "Governor's Action":null,
+        "Gov's Action Date":null,
+        "Laws of Utah Chapter":null,
+        "filename":"passedBills_02142025.csv",
+        "file_date":1739491200000
+      },
+      {
+        "Bill Number":"SB0046S01",
+        "Bill Title":"Youth Electronic Cigarette, Marijuana, and Other Drug Prevention Program Sunset Extension\u00a0",
+        "Bill Sponsor":"Vickers, E.",
+        "Date Passed":1738886400000,
+        "Effective Date":1746576000000,
+        "Governor's Action":null,
+        "Gov's Action Date":null,
+        "Laws of Utah Chapter":null,
+        "filename":"passedBills_02142025.csv",
+        "file_date":1739491200000
+      },
+      {
+        "Bill Number":"SB0044S01",
+        "Bill Title":"Professional Licensure Amendments\u00a0",
+        "Bill Sponsor":"Vickers, E.",
+        "Date Passed":1740009600000,
+        "Effective Date":1746576000000,
+        "Governor's Action":null,
+        "Gov's Action Date":null,
+        "Laws of Utah Chapter":null,
+        "filename":"passedBills_02242025.csv",
+        "file_date":1740355200000
+      },
+      {
+        "Bill Number":"SB0068",
+        "Bill Title":"Child Welfare Worker Protections\u00a0",
+        "Bill Sponsor":"Vickers, E.",
+        "Date Passed":1739491200000,
+        "Effective Date":1746576000000,
+        "Governor's Action":null,
+        "Gov's Action Date":null,
+        "Laws of Utah Chapter":null,
+        "filename":"passedBills_02242025.csv",
+        "file_date":1740355200000
+      }
+    ]
+  },
+  {
+    "Img_ID":"IPSONDL",
+    "Office":"State Senate",
+    "Rep_Name":"Don L Ipson",
+    "District":"29",
+    "Party":"R",
+    "Email":"undefined",
+    "County(ies)":"Washington",
+    "Webpage":"https:\/\/senate.utah.gov\/sen\/IPSONDL",
+    "Img_URL":"https:\/\/le.utah.gov\/images\/legislator\/senate\/IPSONDL.jpg",
+    "Legislation_By_Representative":"https:\/\/le.utah.gov\/asp\/billsintro\/SenResults.asp?Listbox2=IPSONDL",
+    "Bill Sponsor":"Ipson, D.",
+    "New_Bills":[
+      {
+        "Bill Number":"SB0251",
+        "Link to Bill":"https:\/\/le.utah.gov\/~2025\/bills\/static\/SB0251.html",
+        "Short Title":"Commercial Vehicle Registration Amendments",
+        "Sponsor":"Sen. Ipson, D.",
+        "Date Numbered":1739145600000,
+        "Office":"State Senate",
+        "First Initial":"D",
+        "Middle":null,
+        "Last Name":"Ipson",
+        "sheet_name":"new_bills_02142025",
+        "Bill Sponsor":"Ipson, D."
+      }
+    ],
+    "Passed_Bills":[
+      {
+        "Bill Number":"SB0049",
+        "Bill Title":"Insurance Investment Amendments\u00a0",
+        "Bill Sponsor":"Ipson, D.",
+        "Date Passed":1739318400000,
+        "Effective Date":1746576000000,
+        "Governor's Action":null,
+        "Gov's Action Date":null,
+        "Laws of Utah Chapter":null,
+        "filename":"passedBills_02142025.csv",
+        "file_date":1739491200000
+      },
+      {
+        "Bill Number":"SB0059",
+        "Bill Title":"Commercial Driver License Revisions\u00a0",
+        "Bill Sponsor":"Ipson, D.",
+        "Date Passed":1738800000000,
+        "Effective Date":1746576000000,
+        "Governor's Action":null,
+        "Gov's Action Date":null,
+        "Laws of Utah Chapter":null,
+        "filename":"passedBills_02142025.csv",
+        "file_date":1739491200000
+      },
+      {
+        "Bill Number":"SB0151S01",
+        "Bill Title":"Income Tax Contributions Amendments\u00a0",
+        "Bill Sponsor":"Ipson, D.",
+        "Date Passed":1739923200000,
+        "Effective Date":1746576000000,
+        "Governor's Action":null,
+        "Gov's Action Date":null,
+        "Laws of Utah Chapter":null,
+        "filename":"passedBills_02242025.csv",
+        "file_date":1740355200000
+      }
+    ]
+  }
+]
