@@ -1,0 +1,423 @@
+Record_ID,Bill Number,Notecard,Process Tag,Date,Day of Legislature,sheet_name
+0,HB 267,"No Bargaining, Just Begging",Rules 1,,0,bad_bills_daily_update
+1,HB 267,"No Bargaining, Just Begging",Committee 1,,0,bad_bills_daily_update
+2,HB 267,"No Bargaining, Just Begging",Floor Vote 1.1,2025-01-23,3,bad_bills_daily_update
+3,HB 267,"No Bargaining, Just Begging",Floor Vote 1.2,,0,bad_bills_daily_update
+4,HB 267,"No Bargaining, Just Begging",Floor Vote 1.3,,0,bad_bills_daily_update
+5,HB 267,"No Bargaining, Just Begging",Rules 2,,0,bad_bills_daily_update
+6,HB 267,"No Bargaining, Just Begging",Committee 2,2025-01-27,7,bad_bills_daily_update
+7,HB 267,"No Bargaining, Just Begging",Floor Vote 2.1,2025-01-30,10,bad_bills_daily_update
+8,HB 267,"No Bargaining, Just Begging",Floor Vote 2.2,,0,bad_bills_daily_update
+9,HB 267,"No Bargaining, Just Begging",Floor Vote 2.3,2025-02-04,15,bad_bills_daily_update
+10,HB 267,"No Bargaining, Just Begging",Governor,2025-02-06,17,bad_bills_daily_update
+11,HB 267,"No Bargaining, Just Begging",Bill Passed,2025-02-14,25,bad_bills_daily_update
+12,HB 269,Separate but Unequal Dorms,Rules 1,,0,bad_bills_daily_update
+13,HB 269,Separate but Unequal Dorms,Committee 1,,0,bad_bills_daily_update
+14,HB 269,Separate but Unequal Dorms,Floor Vote 1.1,2025-01-23,3,bad_bills_daily_update
+15,HB 269,Separate but Unequal Dorms,Floor Vote 1.2,,0,bad_bills_daily_update
+16,HB 269,Separate but Unequal Dorms,Floor Vote 1.3,,0,bad_bills_daily_update
+17,HB 269,Separate but Unequal Dorms,Rules 2,,0,bad_bills_daily_update
+18,HB 269,Separate but Unequal Dorms,Committee 2,2025-01-28,8,bad_bills_daily_update
+19,HB 269,Separate but Unequal Dorms,Floor Vote 2.1,2025-01-30,10,bad_bills_daily_update
+20,HB 269,Separate but Unequal Dorms,Floor Vote 2.2,2025-02-05,16,bad_bills_daily_update
+21,HB 269,Separate but Unequal Dorms,Floor Vote 2.3,,0,bad_bills_daily_update
+22,HB 269,Separate but Unequal Dorms,Concurrance,2025-02-06,17,bad_bills_daily_update
+23,HB 269,Separate but Unequal Dorms,Governor,2025-02-10,21,bad_bills_daily_update
+24,HB 269,Separate but Unequal Dorms,Bill Passed,2025-02-14,25,bad_bills_daily_update
+25,SJR 2,Good Luck Getting That Passed,Rules 1,2025-01-14,0,bad_bills_daily_update
+26,SJR 2,Good Luck Getting That Passed,Committee 1,2025-01-29,9,bad_bills_daily_update
+27,SJR 2,Good Luck Getting That Passed,Floor Vote 1.1,2025-01-30,10,bad_bills_daily_update
+28,SJR 2,Good Luck Getting That Passed,Floor Vote 1.2,,0,bad_bills_daily_update
+29,SJR 2,Good Luck Getting That Passed,Floor Vote 1.3,,0,bad_bills_daily_update
+30,SJR 2,Good Luck Getting That Passed,Rules 2,2025-02-05,16,bad_bills_daily_update
+31,SJR 2,Good Luck Getting That Passed,Committee 2,2025-02-14,25,bad_bills_daily_update
+32,SB 127,One and Done Voting,Rules 1,,0,bad_bills_daily_update
+33,SB 127,One and Done Voting,Committee 1,2025-01-30,10,bad_bills_daily_update
+34,SB 127,One and Done Voting,Floor Vote 1.1,2025-02-12,23,bad_bills_daily_update
+35,SB 127,One and Done Voting,Floor Vote 1.2,2025-02-21,32,bad_bills_daily_update
+36,HB 81,Cavities for Freedom,Rules 1,,0,bad_bills_daily_update
+37,HB 81,Cavities for Freedom,Committee 1,,0,bad_bills_daily_update
+38,HB 81,Cavities for Freedom,Floor Vote 1.1,2025-01-30,10,bad_bills_daily_update
+39,HB 81,Cavities for Freedom,Floor Vote 1.2,,0,bad_bills_daily_update
+40,HB 81,Cavities for Freedom,Floor Vote 1.3,,0,bad_bills_daily_update
+41,HB 81,Cavities for Freedom,Rules 2,2025-02-07,18,bad_bills_daily_update
+42,HB 81,Cavities for Freedom,Committee 2,2025-02-11,22,bad_bills_daily_update
+43,HB 81,Cavities for Freedom,Floor Vote 2.1,2025-02-13,24,bad_bills_daily_update
+44,HB 81,Cavities for Freedom,Floor Vote 2.2,2025-02-20,31,bad_bills_daily_update
+45,HB 81,Cavities for Freedom,Floor Vote 2.3,,0,bad_bills_daily_update
+46,HB 81,Cavities for Freedom,Governor,2025-02-21,32,bad_bills_daily_update
+47,HB 133,18 and Openly Armed,Rules 1,,0,bad_bills_daily_update
+48,HB 133,18 and Openly Armed,Committee 1,2025-01-27,7,bad_bills_daily_update
+49,HB 133,18 and Openly Armed,Floor Vote 1.1,2025-01-30,10,bad_bills_daily_update
+50,HB 133,18 and Openly Armed,Floor Vote 1.2,,0,bad_bills_daily_update
+51,HB 133,18 and Openly Armed,Floor Vote 1.3,,0,bad_bills_daily_update
+52,HB 133,18 and Openly Armed,Rules 2,2025-02-05,16,bad_bills_daily_update
+53,HB 133,18 and Openly Armed,Committee 2,2025-02-21,32,bad_bills_daily_update
+54,HB 252,Misgender & Endanger,Rules 1,,0,bad_bills_daily_update
+55,HB 252,Misgender & Endanger,Committee 1,,0,bad_bills_daily_update
+56,HB 252,Misgender & Endanger,Floor Vote 1.1,2025-01-30,10,bad_bills_daily_update
+57,HB 252,Misgender & Endanger,Floor Vote 1.2,,0,bad_bills_daily_update
+58,HB 252,Misgender & Endanger,Floor Vote 1.3,,0,bad_bills_daily_update
+59,HB 252,Misgender & Endanger,Rules 2,2025-02-03,14,bad_bills_daily_update
+60,HB 252,Misgender & Endanger,Committee 2,2025-02-06,17,bad_bills_daily_update
+61,HB 252,Misgender & Endanger,Floor Vote 2.1,2025-02-11,22,bad_bills_daily_update
+62,HB 252,Misgender & Endanger,Floor Vote 2.2,,0,bad_bills_daily_update
+63,HB 252,Misgender & Endanger,Floor Vote 2.3,,0,bad_bills_daily_update
+64,HB 252,Misgender & Endanger,Governor,2025-02-20,31,bad_bills_daily_update
+65,SB 73,Good Luck Getting That On The Ballot,Rules 1,,0,bad_bills_daily_update
+66,SB 73,Good Luck Getting That On The Ballot,Committee 1,,0,bad_bills_daily_update
+67,SB 73,Good Luck Getting That On The Ballot,Floor Vote 1.1,,0,bad_bills_daily_update
+68,SB 73,Good Luck Getting That On The Ballot,Floor Vote 1.2,,0,bad_bills_daily_update
+69,SB 73,Good Luck Getting That On The Ballot,Floor Vote 1.3,,0,bad_bills_daily_update
+70,SB 73,Good Luck Getting That On The Ballot,Rules 2,,0,bad_bills_daily_update
+71,SB 73,Good Luck Getting That On The Ballot,Committee 2,2025-01-30,10,bad_bills_daily_update
+72,HB 300,DMV Lines for Democracy,Rules 1,2025-01-22,2,bad_bills_daily_update
+73,HB 300,DMV Lines for Democracy,Committee 1,2025-01-30,10,bad_bills_daily_update
+74,HB 300,DMV Lines for Democracy,Floor Vote 1.1,2025-02-05,16,bad_bills_daily_update
+75,HB 300,DMV Lines for Democracy,Floor Vote 1.2,,0,bad_bills_daily_update
+76,HB 300,DMV Lines for Democracy,Floor Vote 1.3,2025-02-11,22,bad_bills_daily_update
+77,HB 77,No Rainbows Allowed,Rules 1,2025-01-30,10,bad_bills_daily_update
+78,HB 77,No Rainbows Allowed,Committee 1,2025-02-03,14,bad_bills_daily_update
+79,HB 77,No Rainbows Allowed,Floor Vote 1.1,2025-02-13,24,bad_bills_daily_update
+80,HB 77,No Rainbows Allowed,Floor Vote 1.2,,0,bad_bills_daily_update
+81,HB 77,No Rainbows Allowed,Floor Vote 1.3,,0,bad_bills_daily_update
+82,HB 77,No Rainbows Allowed,Rules 2,2025-02-21,32,bad_bills_daily_update
+83,HB 213,Make Voting Harder,Rules 1,2025-01-23,3,bad_bills_daily_update
+84,SB 173,Free School Lunches,Rules 1,2025-02-03,14,bad_bills_daily_update
+85,SB 173,Free School Lunches,Committee 1,2025-02-06,17,bad_bills_daily_update
+86,SB 173,Free School Lunches,Graveyard,2025-02-13,24,bad_bills_daily_update
+87,SB 122,Grocery Tax Removal,Rules 1,2025-01-21,1,bad_bills_daily_update
+88,HB 248,Veterans Benefits Fraud Prevention,Rules 1,,0,bad_bills_daily_update
+89,HB 248,Veterans Benefits Fraud Prevention,Committee 1,2025-02-03,14,bad_bills_daily_update
+90,HB 248,Veterans Benefits Fraud Prevention,Floor Vote 1.1,2025-02-06,0,bad_bills_daily_update
+91,HB 248,Veterans Benefits Fraud Prevention,Floor Vote 1.2,,0,bad_bills_daily_update
+92,HB 248,Veterans Benefits Fraud Prevention,Floor Vote 1.3,,0,bad_bills_daily_update
+93,HB 248,Veterans Benefits Fraud Prevention,Rules 2,2025-02-13,24,bad_bills_daily_update
+94,HB 248,Veterans Benefits Fraud Prevention,Committee 2,2025-02-18,29,bad_bills_daily_update
+95,HB 248,Veterans Benefits Fraud Prevention,Floor Vote 2.1,2025-02-21,32,bad_bills_daily_update
+96,HB 266,Support for Homeless Veterans,Rules 1,,0,bad_bills_daily_update
+97,HB 266,Support for Homeless Veterans,Committee 1,,0,bad_bills_daily_update
+98,HB 266,Support for Homeless Veterans,Floor Vote 1.1,2025-02-03,14,bad_bills_daily_update
+99,HB 266,Support for Homeless Veterans,Floor Vote 1.2,,0,bad_bills_daily_update
+100,HB 266,Support for Homeless Veterans,Floor Vote 1.3,,0,bad_bills_daily_update
+101,HB 266,Support for Homeless Veterans,Rules 2,2025-02-11,22,bad_bills_daily_update
+102,HB 266,Support for Homeless Veterans,Committee 2,,0,bad_bills_daily_update
+103,HB 266,Support for Homeless Veterans,Floor Vote 2.1,2025-02-18,29,bad_bills_daily_update
+104,HB 266,Support for Homeless Veterans,Floor Vote 2.2,,0,bad_bills_daily_update
+105,HB 266,Support for Homeless Veterans,Floor Vote 2.3,,0,bad_bills_daily_update
+106,HB 266,Support for Homeless Veterans,Governor,2025-02-21,32,bad_bills_daily_update
+107,HB 65,Firefighter Cancer Prevention and Coverage,Rules 1,2025-02-03,14,bad_bills_daily_update
+108,HB 65,Firefighter Cancer Prevention and Coverage,Committee 1,,0,bad_bills_daily_update
+109,HB 65,Firefighter Cancer Prevention and Coverage,Floor Vote 1.1,2025-02-06,17,bad_bills_daily_update
+110,HB 65,Firefighter Cancer Prevention and Coverage,Floor Vote 1.2,,0,bad_bills_daily_update
+111,HB 65,Firefighter Cancer Prevention and Coverage,Floor Vote 1.3,,0,bad_bills_daily_update
+112,HB 65,Firefighter Cancer Prevention and Coverage,Rules 2,2025-02-18,29,bad_bills_daily_update
+113,HB 65,Firefighter Cancer Prevention and Coverage,Committee 2,2025-02-21,32,bad_bills_daily_update
+114,HB 101,Ballot Initiative Transparency & Accuracy,Rules 1,2025-01-21,1,bad_bills_daily_update
+115,HB 132,Safe Firearm Storage Near Minors,Rules 1,2025-02-03,14,bad_bills_daily_update
+116,HB 132,Safe Firearm Storage Near Minors,Graveyard,2025-02-14,25,bad_bills_daily_update
+117,HB 143,Tax Credit for Firearm Safety,Rules 1,2025-02-03,14,bad_bills_daily_update
+118,HB 143,Tax Credit for Firearm Safety,Committee 1,,0,bad_bills_daily_update
+119,HB 143,Tax Credit for Firearm Safety,Floor Vote 1.1,,0,bad_bills_daily_update
+120,HB 143,Tax Credit for Firearm Safety,Floor Vote 1.2,,0,bad_bills_daily_update
+121,HB 143,Tax Credit for Firearm Safety,Floor Vote 1.3,2025-02-18,29,bad_bills_daily_update
+122,HB 362,Homeless Bill of Rights,Rules 1,2025-02-03,14,bad_bills_daily_update
+123,HB 362,Homeless Bill of Rights,Committee 1,2025-02-04,15,bad_bills_daily_update
+124,HB 377,Silence is NOT Consent,Rules 1,2025-02-03,14,bad_bills_daily_update
+125,HB 377,Silence is NOT Consent,Committee 1,2025-02-06,17,bad_bills_daily_update
+126,HB 182,Rent Increase Notice and Transparency,Rules 1,,0,bad_bills_daily_update
+127,HB 182,Rent Increase Notice and Transparency,Committee 1,2025-01-31,11,bad_bills_daily_update
+128,HB 182,Rent Increase Notice and Transparency,Graveyard,2025-02-03,14,bad_bills_daily_update
+129,HB 314,No Cost Breast Cancer Screening,Rules 1,2025-01-23,3,bad_bills_daily_update
+130,HB 314,No Cost Breast Cancer Screening,Committee 1,2025-01-31,11,bad_bills_daily_update
+131,HB 314,No Cost Breast Cancer Screening,Graveyard,2025-02-03,14,bad_bills_daily_update
+132,HB 158,W.H.O. Do You Think You Are?,Rules 1,,0,bad_bills_daily_update
+133,HB 158,W.H.O. Do You Think You Are?,Committee 1,,0,bad_bills_daily_update
+134,HB 158,W.H.O. Do You Think You Are?,Floor Vote 1.1,2025-02-03,14,bad_bills_daily_update
+135,HB 158,W.H.O. Do You Think You Are?,Floor Vote 1.2,,0,bad_bills_daily_update
+136,HB 158,W.H.O. Do You Think You Are?,Floor Vote 1.3,,0,bad_bills_daily_update
+137,HB 158,W.H.O. Do You Think You Are?,Rules 2,2025-02-10,21,bad_bills_daily_update
+138,HB 369,"Diedre, You're Fired",Rules 1,2025-02-03,14,bad_bills_daily_update
+139,HB 369,"Diedre, You're Fired",Committee 1,2025-02-07,18,bad_bills_daily_update
+140,HB 178,CHIPping Away at Coverage,Rules 1,2025-01-21,1,bad_bills_daily_update
+141,HB 233,"The Birds, The Bees and The Ban",Committee 1,,0,bad_bills_daily_update
+142,HB 233,"The Birds, The Bees and The Ban",Rules 1,2025-02-03,14,bad_bills_daily_update
+143,HB 233,"The Birds, The Bees and The Ban",Floor Vote 1.1,2025-02-13,24,bad_bills_daily_update
+144,HB 233,"The Birds, The Bees and The Ban",Floor Vote 1.2,,0,bad_bills_daily_update
+145,HB 233,"The Birds, The Bees and The Ban",Floor Vote 1.3,,0,bad_bills_daily_update
+146,HB 233,"The Birds, The Bees and The Ban",Rules 2,2025-02-21,32,bad_bills_daily_update
+147,SB 102,This is Why Schools Can't Have Nice Things,Rules 1,,0,bad_bills_daily_update
+148,SB 102,This is Why Schools Can't Have Nice Things,Committee 1,,0,bad_bills_daily_update
+149,SB 102,This is Why Schools Can't Have Nice Things,Floor Vote 1.1,2025-02-03,14,bad_bills_daily_update
+150,SB 102,This is Why Schools Can't Have Nice Things,Floor Vote 1.2,2025-02-18,29,bad_bills_daily_update
+151,SB 102,This is Why Schools Can't Have Nice Things,Floor Vote 1.2,,0,bad_bills_daily_update
+152,SB 102,This is Why Schools Can't Have Nice Things,Floor Vote 1.3,,0,bad_bills_daily_update
+153,SB 102,This is Why Schools Can't Have Nice Things,Rules 2,2025-02-19,30,bad_bills_daily_update
+154,SB 102,This is Why Schools Can't Have Nice Things,Committee 2,2025-02-21,32,bad_bills_daily_update
+155,HB 355,Pit Happens,Rules 1,2025-02-03,14,bad_bills_daily_update
+156,HB 355,Pit Happens,Committee 1,2025-02-10,21,bad_bills_daily_update
+157,HB 355,Pit Happens,Floor Vote 1.1,2025-02-14,25,bad_bills_daily_update
+158,HB 355,Pit Happens,Floor Vote 1.2,,0,bad_bills_daily_update
+159,HB 355,Pit Happens,Floor Vote 1.3,2025-02-21,32,bad_bills_daily_update
+160,HB 209,"Trust Us, We're Parents",Rules 1,,0,bad_bills_daily_update
+161,HB 209,"Trust Us, We're Parents",Committee 1,,0,bad_bills_daily_update
+162,HB 209,"Trust Us, We're Parents",Floor Vote 1.1,2025-02-03,14,bad_bills_daily_update
+163,HB 209,"Trust Us, We're Parents",Floor Vote 1.2,,0,bad_bills_daily_update
+164,HB 209,"Trust Us, We're Parents",Floor Vote 1.3,,0,bad_bills_daily_update
+165,HB 209,"Trust Us, We're Parents",Rules 2,2025-02-06,17,bad_bills_daily_update
+166,HB 209,"Trust Us, We're Parents",Committee 2,2025-02-18,29,bad_bills_daily_update
+167,HB 209,"Trust Us, We're Parents",Floor Vote 2.1,2025-02-19,30,bad_bills_daily_update
+168,HB 209,"Trust Us, We're Parents",Floor Vote 2.2,2025-02-20,31,bad_bills_daily_update
+169,HB 84,No Vax in MY Salad,Rules 1,,0,bad_bills_daily_update
+170,HB 84,No Vax in MY Salad,Committee 1,,0,bad_bills_daily_update
+171,HB 84,No Vax in MY Salad,Floor Vote 1.1,2025-02-03,14,bad_bills_daily_update
+172,HB 84,No Vax in MY Salad,Floor Vote 1.2,,0,bad_bills_daily_update
+173,HB 84,No Vax in MY Salad,Floor Vote 1.3,,0,bad_bills_daily_update
+174,HB 84,No Vax in MY Salad,Rules 2,2025-02-10,21,bad_bills_daily_update
+175,HB 84,No Vax in MY Salad,Committee 2,,0,bad_bills_daily_update
+176,HB 84,No Vax in MY Salad,Floor Vote 2.1,2025-02-19,30,bad_bills_daily_update
+177,HB 265,"No History, No Humanities, No Problem",Rules 1,,0,bad_bills_daily_update
+178,HB 265,"No History, No Humanities, No Problem",Committee 1,,0,bad_bills_daily_update
+179,HB 265,"No History, No Humanities, No Problem",Floor Vote 1.1,,0,bad_bills_daily_update
+180,HB 265,"No History, No Humanities, No Problem",Floor Vote 1.2,,0,bad_bills_daily_update
+181,HB 265,"No History, No Humanities, No Problem",Floor Vote 1.3,2025-02-03,14,bad_bills_daily_update
+182,HB 265,"No History, No Humanities, No Problem",Rules 2,2025-02-05,16,bad_bills_daily_update
+183,HB 265,"No History, No Humanities, No Problem",Committee 2,2025-02-11,22,bad_bills_daily_update
+184,HB 265,"No History, No Humanities, No Problem",Floor Vote 2.1,2025-02-19,30,bad_bills_daily_update
+185,HB 226,ICE Age,Rules 1,,0,bad_bills_daily_update
+186,HB 226,ICE Age,Committee 1,,0,bad_bills_daily_update
+187,HB 226,ICE Age,Floor Vote 1.1,2025-02-05,16,bad_bills_daily_update
+188,HB 226,ICE Age,Floor Vote 1.2,,0,bad_bills_daily_update
+189,HB 226,ICE Age,Floor Vote 1.3,,0,bad_bills_daily_update
+190,HB 226,ICE Age,Rules 2,2025-02-12,23,bad_bills_daily_update
+191,HB 226,ICE Age,Committee 2,2025-02-21,32,bad_bills_daily_update
+192,HB 401,Morality Police,Rules 1,2025-02-05,16,bad_bills_daily_update
+193,HB 401,Morality Police,Committee 1,2025-02-14,25,bad_bills_daily_update
+194,HB 281,"Wait, Call My Mom",Rules 1,,0,bad_bills_daily_update
+195,HB 281,"Wait, Call My Mom",Committee 1,,0,bad_bills_daily_update
+196,HB 281,"Wait, Call My Mom",Floor Vote 1.1,2025-02-05,16,bad_bills_daily_update
+197,HB 281,"Wait, Call My Mom",Floor Vote 1.2,,0,bad_bills_daily_update
+198,HB 281,"Wait, Call My Mom",Floor Vote 1.3,,0,bad_bills_daily_update
+199,HB 281,"Wait, Call My Mom",Rules 2,2025-02-11,22,bad_bills_daily_update
+200,HB 281,"Wait, Call My Mom",Committee 2,2025-02-21,32,bad_bills_daily_update
+201,HB 290,"No Stopping, No Parking in Bike Lanes",Rules 1,,0,bad_bills_daily_update
+202,HB 290,"No Stopping, No Parking in Bike Lanes",Committee 1,,0,bad_bills_daily_update
+203,HB 290,"No Stopping, No Parking in Bike Lanes",Floor Vote 1.1,2025-02-06,17,bad_bills_daily_update
+204,HB 290,"No Stopping, No Parking in Bike Lanes",Floor Vote 1.2,,0,bad_bills_daily_update
+205,HB 290,"No Stopping, No Parking in Bike Lanes",Floor Vote 1.3,2025-02-11,22,bad_bills_daily_update
+206,HB 290,"No Stopping, No Parking in Bike Lanes",Rules 2,2025-02-13,24,bad_bills_daily_update
+207,HB 290,"No Stopping, No Parking in Bike Lanes",Committee 2,2025-02-18,29,bad_bills_daily_update
+208,HB 290,"No Stopping, No Parking in Bike Lanes",Floor Vote 2.1,,0,bad_bills_daily_update
+209,HB 290,"No Stopping, No Parking in Bike Lanes",Floor Vote 2.2,2025-02-20,31,bad_bills_daily_update
+210,SB 114,Free State Park Access for Veterans,Rules 1,,0,bad_bills_daily_update
+211,SB 114,Free State Park Access for Veterans,Committee 1,,0,bad_bills_daily_update
+212,SB 114,Free State Park Access for Veterans,Floor Vote 1.1,,0,bad_bills_daily_update
+213,SB 114,Free State Park Access for Veterans,Graveyard,2025-02-05,16,bad_bills_daily_update
+214,SB 114,Free State Park Access for Veterans,Floor Vote 1.2,,0,bad_bills_daily_update
+215,SB 114,Free State Park Access for Veterans,Floor Vote 1.3,,0,bad_bills_daily_update
+216,SB 114,Free State Park Access for Veterans,Rules 2,2025-02-06,17,bad_bills_daily_update
+217,SB 114,Free State Park Access for Veterans,Committee 2,2025-02-11,22,bad_bills_daily_update
+218,SB 114,Free State Park Access for Veterans,Floor Vote 2.1,2025-02-13,24,bad_bills_daily_update
+219,HB 206,Student Attendance Incentives,Rules 1,,0,bad_bills_daily_update
+220,HB 206,Student Attendance Incentives,Committee 1,,0,bad_bills_daily_update
+221,HB 206,Student Attendance Incentives,Graveyard,2025-02-06,17,bad_bills_daily_update
+222,HJR 8,"Right to Work, Wrong to Organize",Rules 1,2025-02-06,17,bad_bills_daily_update
+223,HJR 8,"Right to Work, Wrong to Organize",Committee 1,2025-02-10,21,bad_bills_daily_update
+224,HB 250,"Your Pronouns, My Choice",Rules 1,,0,bad_bills_daily_update
+225,HB 250,"Your Pronouns, My Choice",Committee 1,2025-02-06,17,bad_bills_daily_update
+226,HB 250,"Your Pronouns, My Choice",Floor Vote 1.1,2025-02-13,24,bad_bills_daily_update
+227,HB 250,"Your Pronouns, My Choice",Floor Vote 1.2,,0,bad_bills_daily_update
+228,HB 250,"Your Pronouns, My Choice",Floor Vote 1.3,,0,bad_bills_daily_update
+229,HB 250,"Your Pronouns, My Choice",Rules 2,2025-02-21,32,bad_bills_daily_update
+230,HB 412,Governor's Friends and Family Boards,Rules 1,2025-02-06,17,bad_bills_daily_update
+231,HB 412,Governor's Friends and Family Boards,Committee 1,2025-02-10,21,bad_bills_daily_update
+232,HB 412,Governor's Friends and Family Boards,Floor Vote 1.1,2025-02-20,31,bad_bills_daily_update
+233,HB 412,Governor's Friends and Family Boards,Floor Vote 1.2,,0,bad_bills_daily_update
+234,HB 412,Governor's Friends and Family Boards,Floor Vote 1.3,2025-02-21,32,bad_bills_daily_update
+235,HB 400,BYOB - Bring Your Own Blood,Rules 1,2025-02-07,18,bad_bills_daily_update
+236,HB 400,BYOB - Bring Your Own Blood,Committee 1,,0,bad_bills_daily_update
+237,HB 400,BYOB - Bring Your Own Blood,Floor Vote 1.1,2025-02-10,21,bad_bills_daily_update
+238,HB 400,BYOB - Bring Your Own Blood,Floor Vote 1.2,,0,bad_bills_daily_update
+239,HB 400,BYOB - Bring Your Own Blood,Floor Vote 1.3,,0,bad_bills_daily_update
+240,HB 400,BYOB - Bring Your Own Blood,Rules 2,2025-02-19,30,bad_bills_daily_update
+241,HB 445,"Oh Look, More Voter Suppression!",Rules 1,2025-02-07,18,bad_bills_daily_update
+242,HB 445,"Oh Look, More Voter Suppression!",Committee 1,2025-02-18,29,bad_bills_daily_update
+243,HB 445,"Oh Look, More Voter Suppression!",Floor Vote 1.1,2025-02-20,31,bad_bills_daily_update
+244,HB 451,"The Raise the Bar, Lower the Bench",Rules 1,2025-02-07,18,bad_bills_daily_update
+245,SB 204,Courts Can't Stop Us,Rules 1,,0,bad_bills_daily_update
+246,SB 204,Courts Can't Stop Us,Committee 1,,0,bad_bills_daily_update
+247,SB 204,Courts Can't Stop Us,Floor Vote 1.1,2025-02-07,18,bad_bills_daily_update
+248,SB 204,Courts Can't Stop Us,Floor Vote 1.2,2025-02-18,29,bad_bills_daily_update
+249,SB 204,Courts Can't Stop Us,Floor Vote 1.3,,0,bad_bills_daily_update
+250,SB 204,Courts Can't Stop Us,Rules 2,2025-02-20,31,bad_bills_daily_update
+251,SB 37,"Just Trust Us, We'll Fund the Schools",Rules 1,,0,bad_bills_daily_update
+252,SB 37,"Just Trust Us, We'll Fund the Schools",Committee 1,,0,bad_bills_daily_update
+253,SB 37,"Just Trust Us, We'll Fund the Schools",Floor Vote 1.1,,0,bad_bills_daily_update
+254,SB 37,"Just Trust Us, We'll Fund the Schools",Floor Vote 1.2,,0,bad_bills_daily_update
+255,SB 37,"Just Trust Us, We'll Fund the Schools",Floor Vote 1.3,,0,bad_bills_daily_update
+256,SB 37,"Just Trust Us, We'll Fund the Schools",Rules 2,2025-02-07,18,bad_bills_daily_update
+257,SB 37,"Just Trust Us, We'll Fund the Schools",Committee 2,2025-02-10,21,bad_bills_daily_update
+258,SB 37,"Just Trust Us, We'll Fund the Schools",Floor Vote 2.1,2025-02-13,24,bad_bills_daily_update
+259,SB 37,"Just Trust Us, We'll Fund the Schools",Floor Vote 2.2,,0,bad_bills_daily_update
+260,SB 37,"Just Trust Us, We'll Fund the Schools",Floor Vote 2.3,,0,bad_bills_daily_update
+261,SB 37,"Just Trust Us, We'll Fund the Schools",Concurrance,2025-02-19,30,bad_bills_daily_update
+262,SB 37,"Just Trust Us, We'll Fund the Schools",Governor,2025-02-20,31,bad_bills_daily_update
+263,SB 203,Sue Who?,Rules 1,,0,bad_bills_daily_update
+264,SB 203,Sue Who?,Committee 1,,0,bad_bills_daily_update
+265,SB 203,Sue Who?,Graveyard,2025-02-07,18,bad_bills_daily_update
+266,SB 203,Sue Who?,Floor Vote 1.1,2025-02-10,21,bad_bills_daily_update
+267,SB 203,Sue Who?,Floor Vote 1.2,2025-02-18,29,bad_bills_daily_update
+268,SB 203,Sue Who?,Floor Vote 1.3,,0,bad_bills_daily_update
+269,SB 203,Sue Who?,Rules 2,2025-02-20,31,bad_bills_daily_update
+270,HB 386,"Get Off My Lawn, But Make It a River",Rules 1,2025-02-10,21,bad_bills_daily_update
+271,HB 205,Your Vote Got Lost in Transit,Rules 1,2025-02-10,21,bad_bills_daily_update
+272,HB 351,Election Day is a Holiday!,Rules 1,,0,bad_bills_daily_update
+273,HB 351,Election Day is a Holiday!,Graveyard,2025-02-11,22,bad_bills_daily_update
+274,HB 351,Election Day is a Holiday!,Committee 1,,0,bad_bills_daily_update
+275,HB 351,Election Day is a Holiday!,Floor Vote 1.1,2025-02-18,29,bad_bills_daily_update
+276,HB 192,No Frivolous Scholarship Spending,Rules 1,2025-02-11,22,bad_bills_daily_update
+277,HB 348,Cricket Formerly Known as Mormon,Rules 1,2025-02-07,18,bad_bills_daily_update
+278,HB 348,Cricket Formerly Known as Mormon,Committee 1,2025-02-11,22,bad_bills_daily_update
+279,HB 461,Puppy Protection and Placement,Rules 1,2025-02-11,22,bad_bills_daily_update
+280,HB 461,Puppy Protection and Placement,Committee 1,2025-02-18,29,bad_bills_daily_update
+281,HB 461,Puppy Protection and Placement,Graveyard,2025-02-20,31,bad_bills_daily_update
+282,SB 244,Millionaire Tax Adjustment,Rules 1,2025-02-11,22,bad_bills_daily_update
+283,SB 244,Millionaire Tax Adjustment,Graveyard,2025-02-12,23,bad_bills_daily_update
+284,HB 424,School Sports Gender Police,Rules 1,2025-02-11,22,bad_bills_daily_update
+285,HB 424,School Sports Gender Police,Committee 1,2025-02-12,23,bad_bills_daily_update
+286,HB 424,School Sports Gender Police,Floor Vote 1.1,2025-02-14,25,bad_bills_daily_update
+287,HB 424,School Sports Gender Police,Floor Vote 1.2,,0,bad_bills_daily_update
+288,HB 424,School Sports Gender Police,Floor Vote 1.3,2025-02-21,32,bad_bills_daily_update
+289,SB 197,Grand Theft Grandma,Rules 1,,0,bad_bills_daily_update
+290,SB 197,Grand Theft Grandma,Committee 1,,0,bad_bills_daily_update
+291,SB 197,Grand Theft Grandma,Floor Vote 1.1,2025-02-11,22,bad_bills_daily_update
+292,SB 197,Grand Theft Grandma,Floor Vote 1.2,2025-02-20,31,bad_bills_daily_update
+293,SB 257,"Sorry, Being Poor is a Pre-existing Condition",Rules 1,2025-02-11,22,bad_bills_daily_update
+294,SB 257,"Sorry, Being Poor is a Pre-existing Condition",Committee 1,2025-02-13,24,bad_bills_daily_update
+295,HB 465,SLC - Do What We Say or Else,Rules 1,,0,bad_bills_daily_update
+296,HB 465,SLC - Do What We Say or Else,Committee 1,2025-02-12,23,bad_bills_daily_update
+297,HB 465,SLC - Do What We Say or Else,Floor Vote 1.1,2025-02-14,25,bad_bills_daily_update
+298,HB 465,SLC - Do What We Say or Else,Floor Vote 1.2,,0,bad_bills_daily_update
+299,HB 465,SLC - Do What We Say or Else,Floor Vote 1.3,,0,bad_bills_daily_update
+300,HB 465,SLC - Do What We Say or Else,Rules 2,2025-02-21,32,bad_bills_daily_update
+301,HJR 11,One is the Loneliest Number,Rules 1,2025-02-12,23,bad_bills_daily_update
+302,HB 488,Federalism Fan Club,Rules 1,2025-02-12,23,bad_bills_daily_update
+303,HB 488,Federalism Fan Club,Committee 1,2025-02-14,25,bad_bills_daily_update
+304,HB 488,Federalism Fan Club,Floor Vote 1.1,2025-02-19,30,bad_bills_daily_update
+305,HB 488,Federalism Fan Club,Floor Vote 1.2,,0,bad_bills_daily_update
+306,HB 488,Federalism Fan Club,Floor Vote 1.3,,0,bad_bills_daily_update
+307,HB 488,Federalism Fan Club,Rules 2,2025-02-21,32,bad_bills_daily_update
+308,SB 239,Wetlands to Warehouses,Rules 1,,0,bad_bills_daily_update
+309,SB 239,Wetlands to Warehouses,Committee 1,,0,bad_bills_daily_update
+310,SB 239,Wetlands to Warehouses,Floor Vote 1.1,2025-02-12,23,bad_bills_daily_update
+311,SB 239,Wetlands to Warehouses,Floor Vote 1.2,2025-02-18,29,bad_bills_daily_update
+312,SB 239,Wetlands to Warehouses,Floor Vote 1.3,,0,bad_bills_daily_update
+313,SB 239,Wetlands to Warehouses,Rules 2,2025-02-19,30,bad_bills_daily_update
+314,SB 239,Wetlands to Warehouses,Committee 2,2025-02-20,31,bad_bills_daily_update
+315,HB 457,Signature Surveillance,Rules 1,2025-02-12,23,bad_bills_daily_update
+316,HJR 5,Declaration of Electoral Independence,Rules 1,2025-02-13,24,bad_bills_daily_update
+317,HB 473,Digital Book Burning,Rules 1,2025-02-13,24,bad_bills_daily_update
+318,HB 458,Signatures? We Prefer Hurdles,Rules 1,2025-02-13,24,bad_bills_daily_update
+319,HB 458,Signatures? We Prefer Hurdles,Committee 1,2025-02-19,30,bad_bills_daily_update
+320,SB 277,404: GRAMA File Not Found,Rules 1,2025-02-14,25,bad_bills_daily_update
+321,SB 277,404: GRAMA File Not Found,Floor Vote 1.1,2025-02-18,29,bad_bills_daily_update
+322,SB 156,Colt Hard Cash,Rules 1,,0,bad_bills_daily_update
+323,SB 156,Colt Hard Cash,Committee 1,,0,bad_bills_daily_update
+324,SB 156,Colt Hard Cash,Floor Vote 1.1,2025-02-14,25,bad_bills_daily_update
+325,SB 156,Colt Hard Cash,Floor Vote 1.2,2025-02-21,32,bad_bills_daily_update
+326,HB 332,The Big Lie Voter Purge,Rules 1,,0,bad_bills_daily_update
+327,HB 332,The Big Lie Voter Purge,Committee 1,,0,bad_bills_daily_update
+328,HB 332,The Big Lie Voter Purge,Floor Vote 1.1,,0,bad_bills_daily_update
+329,HB 332,The Big Lie Voter Purge,Floor Vote 1.2,,0,bad_bills_daily_update
+330,HB 332,The Big Lie Voter Purge,Floor Vote 1.3,,0,bad_bills_daily_update
+331,HB 332,The Big Lie Voter Purge,Rules 2,2025-02-14,25,bad_bills_daily_update
+332,HB 332,The Big Lie Voter Purge,Committee 2,,0,bad_bills_daily_update
+333,HB 332,The Big Lie Voter Purge,Floor Vote 2.1,2025-02-18,29,bad_bills_daily_update
+334,HB 214,E-verybody Must be Verified,Rules 1,,0,bad_bills_daily_update
+335,HB 214,E-verybody Must be Verified,Committee 1,2025-02-14,25,bad_bills_daily_update
+336,HB 214,E-verybody Must be Verified,Graveyard,2025-02-19,30,bad_bills_daily_update
+337,SJR 9,"You Snooze, You Lose (Your Rights)",Rules 1,2025-02-14,25,bad_bills_daily_update
+338,SJR 9,"You Snooze, You Lose (Your Rights)",Committee 1,2025-02-18,29,bad_bills_daily_update
+339,SJR 9,"You Snooze, You Lose (Your Rights)",Floor Vote 1.1,2025-02-19,30,bad_bills_daily_update
+340,SJR 9,"You Snooze, You Lose (Your Rights)",Floor Vote 1.2,2025-02-20,31,bad_bills_daily_update
+341,SB 154,Attorney-Client Privledge? Never Heard of it (2/2),Rules 1,,0,bad_bills_daily_update
+342,SB 154,Attorney-Client Privledge? Never Heard of it (2/2),Committee 1,2025-02-14,25,bad_bills_daily_update
+343,SB 154,Attorney-Client Privledge? Never Heard of it (2/2),Floor Vote 1.1,2025-02-18,29,bad_bills_daily_update
+344,SB 154,Attorney-Client Privledge? Never Heard of it (2/2),Floor Vote 1.2,,0,bad_bills_daily_update
+345,SB 154,Attorney-Client Privledge? Never Heard of it (2/2),Floor Vote 1.3,2025-02-21,32,bad_bills_daily_update
+346,SJR 4,Attorney-Client Privledge? Never Heard of it (1/2),Rules 1,2025-02-14,25,bad_bills_daily_update
+347,SJR 4,Attorney-Client Privledge? Never Heard of it (1/2),Committee 1,2025-02-20,31,bad_bills_daily_update
+348,HB 512,Gavel Grab,Rules 1,2025-02-18,29,bad_bills_daily_update
+349,HB 512,Gavel Grab,Committee 1,2025-02-21,32,bad_bills_daily_update
+350,HB 521,We'll pay for viagra but not your care,Rules 1,2025-02-18,29,bad_bills_daily_update
+351,HB 518,Big Brother Browser,Rules 1,2025-02-18,29,bad_bills_daily_update
+352,HB 120,Clock Confusion,Rules 1,,0,bad_bills_daily_update
+353,HB 120,Clock Confusion,Committee 1,,0,bad_bills_daily_update
+354,HB 120,Clock Confusion,Graveyard,2025-02-19,30,bad_bills_daily_update
+355,HB 528,Government Gold,Rules 1,2025-02-19,30,bad_bills_daily_update
+356,SB 296,We'll Be the Judge of That,Rules 1,2025-02-19,30,bad_bills_daily_update
+357,SB 296,We'll Be the Judge of That,Committee 1,2025-02-20,31,bad_bills_daily_update
+358,HB 533,"New County, Who Dis?",Rules 1,2025-02-20,31,bad_bills_daily_update
+359,SB 195,Stay in Your Lane,Rules 1,,0,bad_bills_daily_update
+360,SB 195,Stay in Your Lane,Committee 1,,0,bad_bills_daily_update
+361,SB 195,Stay in Your Lane,Floor Vote 1.1,,0,bad_bills_daily_update
+362,SB 195,Stay in Your Lane,Floor Vote 1.2,,0,bad_bills_daily_update
+363,SB 195,Stay in Your Lane,Floor Vote 1.3,,0,bad_bills_daily_update
+364,SB 195,Stay in Your Lane,Rules 2,2025-02-20,31,bad_bills_daily_update
+365,HB 532,Nimby City,Rules 1,2025-02-20,31,bad_bills_daily_update
+366,HJR 10,We Broke it So We Changed it (1),Rules 1,,0,bad_bills_daily_update
+367,HJR 10,We Broke it So We Changed it (1),Committee 1,,0,bad_bills_daily_update
+368,HJR 10,We Broke it So We Changed it (1),Floor Vote 1.1,2025-02-20,31,bad_bills_daily_update
+369,HJR 10,We Broke it So We Changed it (1),Floor Vote 1.2,,0,bad_bills_daily_update
+370,HJR 10,We Broke it So We Changed it (1),Floor Vote 1.3,2025-02-21,32,bad_bills_daily_update
+371,HB 481,We Broke it So We Changed it (2),Rules 1,,0,bad_bills_daily_update
+372,HB 481,We Broke it So We Changed it (2),Committee 1,,0,bad_bills_daily_update
+373,HB 481,We Broke it So We Changed it (2),Floor Vote 1.1,2025-02-20,31,bad_bills_daily_update
+374,HB 481,We Broke it So We Changed it (2),Floor Vote 1.2,,0,bad_bills_daily_update
+375,HB 481,We Broke it So We Changed it (2),Floor Vote 1.3,2025-02-21,32,bad_bills_daily_update
+376,HB 403,SNAP Shaming,Rules 1,,0,bad_bills_daily_update
+377,HB 403,SNAP Shaming,Committee 1,,0,bad_bills_daily_update
+378,HB 403,SNAP Shaming,Floor Vote 1.1,2025-02-21,32,bad_bills_daily_update
+379,SB 320,Hippocratic Hypocrisy,Rules 1,2025-02-21,32,bad_bills_daily_update
+380,HB 499,Good Luck Nature!,Rules 1,,0,bad_bills_daily_update
+381,HB 499,Good Luck Nature!,Committee 1,2025-02-21,32,bad_bills_daily_update
+382,HCR 15,Separation of Church and State... or nah?,Rules 1,2025-02-21,32,bad_bills_daily_update
+383,SB 321,Reverse Robin Hood School Fund Shuffle,Rules 1,2025-02-21,32,bad_bills_daily_update
+384,SB 230,"You say ""Tomato"", we say ""Utahn""",Rules 1,,0,bad_bills_daily_update
+385,SB 230,"You say ""Tomato"", we say ""Utahn""",Committee 1,,0,bad_bills_daily_update
+386,SB 230,"You say ""Tomato"", we say ""Utahn""",Floor Vote 1.1,,0,bad_bills_daily_update
+387,SB 230,"You say ""Tomato"", we say ""Utahn""",Floor Vote 1.2,,0,bad_bills_daily_update
+388,SB 230,"You say ""Tomato"", we say ""Utahn""",Floor Vote 1.3,,0,bad_bills_daily_update
+389,SB 230,"You say ""Tomato"", we say ""Utahn""",Rules 2,2025-02-21,32,bad_bills_daily_update
+390,HB 169,School Board Ethics and Accountibility,Rules 1,,0,bad_bills_daily_update
+391,HB 169,School Board Ethics and Accountibility,Committee 1,,0,bad_bills_daily_update
+392,HB 169,School Board Ethics and Accountibility,Floor Vote 1.1,,0,bad_bills_daily_update
+393,HB 169,School Board Ethics and Accountibility,Floor Vote 1.2,2025-02-20,31,bad_bills_daily_update
+394,HB 169,School Board Ethics and Accountibility,Floor Vote 1.3,2025-02-20,31,bad_bills_daily_update
+395,HB 523,Rio Grande Plan,Rules 1,,0,bad_bills_daily_update
+396,HB 523,Rio Grande Plan,Committee 1,2025-02-21,32,bad_bills_daily_update
+397,HB 498,More Time To Collect Signatures,Rules 1,2025-02-18,29,bad_bills_daily_update
+398,HB 515,School Lunch Debt Relief,Rules 1,2025-02-19,30,bad_bills_daily_update
+399,HB 519,Lowering RX costs for Utahns,Rules 1,2025-02-19,30,bad_bills_daily_update
+400,HB 519,Lowering RX costs for Utahns,Committee 1,2025-02-21,32,bad_bills_daily_update
+401,HB 152,"Safe Staffing, Safe Care",Rules 1,,0,bad_bills_daily_update
+402,HB 152,"Safe Staffing, Safe Care",Committee 1,,0,bad_bills_daily_update
+403,HB 152,"Safe Staffing, Safe Care",Floor Vote 1.1,,0,bad_bills_daily_update
+404,HB 152,"Safe Staffing, Safe Care",Floor Vote 1.2,,0,bad_bills_daily_update
+405,HB 152,"Safe Staffing, Safe Care",Floor Vote 1.3,,0,bad_bills_daily_update
+406,HB 152,"Safe Staffing, Safe Care",Rules 2,,0,bad_bills_daily_update
+407,HB 152,"Safe Staffing, Safe Care",Committee 2,,0,bad_bills_daily_update
+408,HB 152,"Safe Staffing, Safe Care",Floor Vote 2.1,2025-02-21,32,bad_bills_daily_update
+409,HB 491,More Mental Health Care,Rules 1,,0,bad_bills_daily_update
+410,HB 491,More Mental Health Care,Committee 1,,0,bad_bills_daily_update
+411,HB 491,More Mental Health Care,Floor Vote 1.1,,0,bad_bills_daily_update
+412,HB 491,More Mental Health Care,Floor Vote 1.2,,0,bad_bills_daily_update
+413,HB 491,More Mental Health Care,Floor Vote 1.3,2025-02-21,32,bad_bills_daily_update
+414,SB 305,Water-wise,Rules 1,2025-02-17,28,bad_bills_daily_update
+415,SB 305,Water-wise,Committee 1,2025-02-21,32,bad_bills_daily_update
+416,SB 214,Expanding Autism Care,Rules 1,2025-02-12,23,bad_bills_daily_update
+417,SB 214,Expanding Autism Care,Committee 1,,0,bad_bills_daily_update
+418,SB 214,Expanding Autism Care,Floor Vote 1.1,2025-02-21,32,bad_bills_daily_update
+419,SB 221,Safer Child Care Facilities,Rules 1,2025-02-11,22,bad_bills_daily_update
+420,SB 221,Safer Child Care Facilities,Committee 1,,0,bad_bills_daily_update
+421,SB 221,Safer Child Care Facilities,Floor Vote 1.1,2025-02-21,32,bad_bills_daily_update
