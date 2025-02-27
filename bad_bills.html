@@ -13,6 +13,14 @@
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 
     <title>Utah Bad Bills Dashboard</title>
+    <style>
+        .text-resize {
+        font-size: 1.6vw; /* Adjust text size based on viewport width */
+        min-width: 80%; /* Prevent wrapping */
+        white-space: nowrap;
+}
+
+    </style>
 </head>
 <body data-office="State House">
 
@@ -57,44 +65,97 @@
 <main>
     <div class="container">
         <div class="row ">
-            <h1 class="display-3 text-info">Utah Bad Bills Dashboard</h1>
+            <h1 class="display-3 text-info">Utah Bad Bills</h1>
             <h3 class="text-secondary px-4">Utah State Legislature</h3>
             <h3 class="text-secondary px-4">2025 Legislative Session</h3>
         </div>
-        <div class="row px-3" id="cards-container">
-            <div class="container">
-                <div class="row m-0 p-0">
-                    <ul class="nav nav-pills">
-                        <li class="nav-item px-1">
-                            <div class="card bg-primary text-white text-center" style="width:9rem; height:5rem;">
-                                <div class="card-body">
-                                    <h6 class="card-title">Attacking the Vulnerable</h6>
-<!--                                    <p class="card-text">Description of the category</p>-->
-                                    <!-- I think it would be better to do a hover over description -->
-                                </div>
-                            </div>
-                            <a class="nav-link" aria-current="page" href="#"></a>
-                            <!-- not using this link yet, but keeping it to use to filter the data -->
-                        </li>
-                        <!--Gun's, God & Gov't Overreach -->
-                        <li class="nav-item px-1">
-                            <div class="card bg-success text-white text-center" style="width:9rem; height:5rem;">
-                                <div class="card-body">
-                                    <h6 class="card-title">Gun's, God & Gov't Overreach</h6>
-                                </div>
-                            </div>
-                            <a class="nav-link" aria-current="page" href="#"></a>
-                            <!-- not using this link yet, but keeping it to use to filter the data -->
-                        </li>
-                        <!--Destroy Education & Free Thought -->
-                        <!-- Rigging the System-->
-                        <!--Conspiracy Theory & MAGA Nonsense -->
-                        <!--Corporate Overreach & Economic Exploit -->
-                    </ul>
+        <div class="container text-center">
+            <!--Attacking the Vulnerable-->
+            <!--Gun's, God & Gov't Overreach-->
+            <!--Destroy Education & Free Thought-->
+            <!--Rigging the System-->
+            <!--Conspiracy Theory & MAGA Nonsense-->
+            <!--Corporate Overreach & Economic Exploit-->
+            <div class="row row-cols-6 py-2 g-2">
+                <div class="col">
+                    <div class="card bg-success text-white h-100 d-flex align-items-center justify-content-center">
+                        <div class="card-body">
+                            <p class="text-wrap text-center fw-bold text-resize">Attacking the Vulnerable</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="card bg-primary text-white h-100 d-flex align-items-center justify-content-center">
+                        <div class="card-body">
+                            <p class="text-wrap text-center fw-bold text-resize">Gun's, God & Gov't Overreach</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="card bg-danger text-white h-100 d-flex align-items-center justify-content-center">
+                        <div class="card-body">
+                            <p class="text-wrap text-center fw-bold text-resize">Destroy Education & Free Thought</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="card bg-warning text-white h-100 d-flex align-items-center justify-content-center">
+                        <div class="card-body">
+                            <p class="text-wrap text-center fw-bold text-resize">Rigging the System</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="card bg-info text-white h-100 d-flex align-items-center justify-content-center">
+                        <div class="card-body">
+                            <p class="text-wrap text-center fw-bold text-resize">Conspiracy Theory & MAGA Nonsense</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="card bg-secondary text-white h-100 d-flex align-items-center justify-content-center">
+                        <div class="card-body">
+                            <p class="text-wrap text-center fw-bold text-resize">Corporate Overreach & Economic Exploit</p>
+                        </div>
+                    </div>
                 </div>
             </div>
-
-
+        </div>
+        <!-- List of bill sponsors in dataset sorted by rep with the most bills on top.
+        That's what i'll do with the full dataset but for this let's just use the examples from the video -->
+        <!--
+        Brady Brammer
+        Nicholeen Peck
+        Jordan Teuscher
+        Dan McCay
+        Casey Snider
+        Lincoln Fillmore
+        Karianne Lisonbee
+        Stephanie Gricius
+        Kurt Fillmore
+        Jason Kyle
+        Lisa Shepherd
+        Kristen Chevrier
+        Jefferson Burton
+        -->
+        <div class="row" id="cards-container">
+            <div class="card bg-primary">
+                <ul class="list-group">
+                    <li class="list-group-item">Brady Brammer</li>
+                    <li class="list-group-item">Nicholeen Peck</li>
+                    <li class="list-group-item">Jordan Teuscher</li>
+                    <li class="list-group-item">Dan McCay</li>
+                    <li class="list-group-item">Casey Snider</li>
+                    <li class="list-group-item">Lincoln Fillmore</li>
+                    <li class="list-group-item">Karianne Lisonbee</li>
+                    <li class="list-group-item">Stephanie Gricius</li>
+                    <li class="list-group-item">Kurt Fillmore</li>
+                    <li class="list-group-item">Jason Kyle</li>
+                    <li class="list-group-item">Lisa Shepherd</li>
+                    <li class="list-group-item">Kristen Chevrier</li>
+                    <li class="list-group-item">Jefferson Burton</li>
+                </ul>
+            </div>
         </div>
     </div>
 
