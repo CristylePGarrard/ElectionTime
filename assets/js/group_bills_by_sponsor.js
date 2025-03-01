@@ -8,6 +8,11 @@ fetch('assets/bad_bills_combined.json')
 
 function processBills(data) {
     const billsBySponsor = {};
+    const processTags = [
+        "Rules 1", "Committee 1", "Floor Vote 1.1", "Floor Vote 1.2", "Floor Vote 1.3",
+        "Rules 2", "Committee 2", "Floor Vote 2.1", "Floor Vote 2.2", "Floor Vote 2.3",
+        "Governor", "Bill Passed", "Concurrence", "Graveyard", "Vetoed"
+    ];
 
     // Group bills by sponsor and keep only the most recent record per bill
     data.forEach(bill => {
@@ -16,8 +21,6 @@ function processBills(data) {
         }
 
         const currentBill = billsBySponsor[bill["Bill_Sponsor"]][bill["Bill_Number"]];
-
-        // Check if current bill doesn't exist or if the new bill's date is more recent
         if (!currentBill || new Date(currentBill.Date) < new Date(bill.Date)) {
             billsBySponsor[bill["Bill_Sponsor"]][bill["Bill_Number"]] = bill;
         }
@@ -77,11 +80,15 @@ function processBills(data) {
                 <p>${bill.Description}</p>
                 <p><strong>Status:</strong> ${bill["Process_Tag"]}</p>
                 <p><strong>Day of Legislature:</strong> ${bill["Day_of_Legislature"]}</p>
+
+                <!-- Add progress bar -->
+                <div class="progress-bar">
+                    ${generateProgressBar(bill, processTags)}
+                </div>
             `;
 
             rightCol.appendChild(billCard);
         });
-
 
         rowDiv.appendChild(leftCol); // Add left column to the row
         rowDiv.appendChild(rightCol); // Add right column to the row
@@ -89,6 +96,21 @@ function processBills(data) {
 
         billsContainer.appendChild(sponsorDiv);
     });
+}
+
+// Function to generate progress bar based on process tags and bill progress
+function generateProgressBar(bill, processTags) {
+    let progressBarHTML = '<div class="progress-bar">';
+
+    processTags.forEach(tag => {
+        const tagData = bill["Process_Tag"] === tag ? bill : null;
+        const width = tagData ? 'calc(100% / ' + processTags.length + ')' : '0'; // Adjust this logic based on time calculations
+
+        progressBarHTML += `<div class="progress-step" style="width: ${width};"></div>`;
+    });
+
+    progressBarHTML += '</div>';
+    return progressBarHTML;
 }
 
 // Function to determine color based on "Read" value
