@@ -73,18 +73,20 @@ function processBills(data) {
             billCard.style.margin = "5px 0";
             billCard.style.borderRadius = "5px";
 
+            // Call generateProgressBar to get the progress bar HTML
+            const progressBarHTML = generateProgressBar(bill, processTags);
+
             billCard.innerHTML = `
                 <h4 style="background-color: ${getColorForReadValue(bill.Read)}; color: white; padding: 5px; border-radius: 5px 5px 0 0; margin: -10px -10px 10px -10px; text-align: center;">
                     ${bill["Bill_Number"]}: ${bill["Bill_Title"]}
                 </h4>
                 <p>${bill.Description}</p>
                 <p><strong>Status:</strong> ${bill["Process_Tag"]}</p>
-                <p><strong>Day of Legislature:</strong> ${bill["Day_of_Legislature"]}</p>
 
-                <!-- Add progress bar -->
-                <div class="progress-bar">
-                    ${generateProgressBar(bill, processTags)}
-                </div>
+                <!-- Progress Bar -->
+                ${progressBarHTML}
+
+                <p><strong>Day of Legislature:</strong> ${bill["Day_of_Legislature"]}</p>
             `;
 
             rightCol.appendChild(billCard);
@@ -98,20 +100,29 @@ function processBills(data) {
     });
 }
 
+
 // Function to generate progress bar based on process tags and bill progress
 function generateProgressBar(bill, processTags) {
-    let progressBarHTML = '<div class="progress-bar">';
+    const currentStepIndex = processTags.indexOf(bill.Process_Tag);  // Get index of current step
+    const totalSteps = processTags.length;  // Total number of steps
+    const progressPercentage = (currentStepIndex / (totalSteps - 1)) * 100;  // Calculate percentage
 
-    processTags.forEach(tag => {
-        const tagData = bill["Process_Tag"] === tag ? bill : null;
-        const width = tagData ? 'calc(100% / ' + processTags.length + ')' : '0'; // Adjust this logic based on time calculations
-
-        progressBarHTML += `<div class="progress-step" style="width: ${width};"></div>`;
-    });
-
-    progressBarHTML += '</div>';
-    return progressBarHTML;
+    // HTML for progress bar
+    return `
+        <div style="background-color: #e0e0e0; border-radius: 25px; height: 30px; width: 100%; margin: 10px 0;">
+            <div style="height: 100%; width: ${progressPercentage}%; background-color: ${getProgressColor(progressPercentage)}; border-radius: 25px;"></div>
+        </div>
+        <p style="text-align: center; font-weight: bold;">Progress: ${Math.round(progressPercentage)}%</p>
+    `;
 }
+
+// Function to get the color based on the percentage of progress
+function getProgressColor(progress) {
+    if (progress <= 30) return '#FF5733';  // Red
+    if (progress <= 60) return '#FFC300';  // Yellow
+    return '#4CAF50';  // Green
+}
+
 
 // Function to determine color based on "Read" value
 function getColorForReadValue(readValue) {
