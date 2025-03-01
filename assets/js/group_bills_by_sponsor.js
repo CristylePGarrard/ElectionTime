@@ -65,14 +65,15 @@ function processBills(data) {
         Object.values(billsBySponsor[sponsor]).forEach(bill => {
             const billCard = document.createElement("div");
             billCard.classList.add("bill-card");
-            billCard.style.backgroundColor = getColorForReadValue(bill.Read);
-            billCard.style.border = "1px solid black"; // Add border for visual separation
+            billCard.style.border = "3px solid " + getColorForReadValue(bill.Read); // Border color
             billCard.style.padding = "10px";
             billCard.style.margin = "5px 0";
             billCard.style.borderRadius = "5px";
 
             billCard.innerHTML = `
-                <h4>${bill["Bill_Number"]}: ${bill["Bill_Title"]}</h4>
+                <h4 style="background-color: ${getColorForReadValue(bill.Read)}; color: white; padding: 5px; border-radius: 5px 5px 0 0; margin: -10px -10px 10px -10px; text-align: center;">
+                    ${bill["Bill_Number"]}: ${bill["Bill_Title"]}
+                </h4>
                 <p>${bill.Description}</p>
                 <p><strong>Status:</strong> ${bill["Process_Tag"]}</p>
                 <p><strong>Day of Legislature:</strong> ${bill["Day_of_Legislature"]}</p>
@@ -80,6 +81,7 @@ function processBills(data) {
 
             rightCol.appendChild(billCard);
         });
+
 
         rowDiv.appendChild(leftCol); // Add left column to the row
         rowDiv.appendChild(rightCol); // Add right column to the row

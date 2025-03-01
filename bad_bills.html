@@ -4,12 +4,12 @@
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-
     <!-- Bootstrap CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css"
           rel="stylesheet"
           integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC"
           crossorigin="anonymous">
+    <!-- Chart.js -->
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 
     <title>Utah Bad Bills Dashboard</title>
@@ -18,24 +18,24 @@
         font-size: 1.6vw; /* Adjust text size based on viewport width */
         min-width: 80%; /* Prevent wrapping */
         white-space: nowrap;
-}
+        }
         .hstack {
-  display: flex;
-  flex-direction: row;
-  align-items: center;
-  align-self: stretch;
-}
+          display: flex;
+          flex-direction: row;
+          align-items: center;
+          align-self: stretch;
+        }
 
-.vstack {
-  display: flex;
-  flex: 1 1 auto;
-  flex-direction: column;
-  align-self: stretch;
-}
+        .vstack {
+          display: flex;
+          flex: 1 1 auto;
+          flex-direction: column;
+          align-self: stretch;
+        }
 
     </style>
 </head>
-<body data-office="State House">
+<body>
 
 <!-- Top Navbar -->
 
@@ -134,36 +134,20 @@
                 </div>
             </div>
         </div>
-        <!-- List of bill sponsors in dataset sorted by rep with the most bills on top.
-        That's what i'll do with the full dataset but for this let's just use the examples from the video -->
-        <!--
-        Brady Brammer
-        Nicholeen Peck
-        Jordan Teuscher
-        Dan McCay
-        Casey Snider
-        Lincoln Fillmore
-        Karianne Lisonbee
-        Stephanie Gricius
-        Kurt Fillmore
-        Jason Kyle
-        Lisa Shepherd
-        Kristen Chevrier
-        Jefferson Burton
-        -->
+        <!-- Chart Container -->
         <div class="row">
             <div class="container" id="billsContainer">
-                <script src="assets/js/group_bills_by_sponsor.js">
-                </script>
+                <canvas id="billProgressChart"></canvas>
             </div>
-
         </div>
     </div>
 
 </main>
+<!-- JavaScript at the end of the body for performance -->
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"
+        crossorigin="anonymous"></script>
+<script src="assets/js/group_bills_by_sponsor.js"></script>
 
-
-<!-- Option 1: Bootstrap Bundle with Popper -->
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
 </body>
 </html>
