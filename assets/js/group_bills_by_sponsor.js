@@ -102,10 +102,9 @@ function processBills(data) {
 
 
 // Function to generate progress bar based on process tags and bill progress
-function generateProgressBar(bill, processTags) {
-    const currentStepIndex = processTags.indexOf(bill.Process_Tag);  // Get index of current step
-    const totalSteps = processTags.length;  // Total number of steps
-    const progressPercentage = (currentStepIndex / (totalSteps - 1)) * 100;  // Calculate percentage
+function generateProgressBar(bill) {
+    const progressValue = bill.Progress; // This should be the new 'Progress' column from your dataset
+    const progressPercentage = (progressValue / 12) * 100; // Calculate the percentage
 
     // HTML for progress bar
     return `
