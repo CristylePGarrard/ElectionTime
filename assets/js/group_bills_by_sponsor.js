@@ -117,8 +117,8 @@ function generateProgressBar(bill) {
 
 // Function to get the color based on the percentage of progress
 function getProgressColor(progress) {
-    if (progress <= 30) return '#FF5733';  // Red
-    if (progress <= 60) return '#FFC300';  // Yellow
+    if (progress <= 45) return '#FF5733';  // Red
+    if (progress <= 85) return '#FFC300';  // Yellow
     return '#4CAF50';  // Green
 }
 
