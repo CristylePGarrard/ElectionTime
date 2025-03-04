@@ -74,7 +74,7 @@ function processBills(data) {
             billCard.style.borderRadius = "5px";
 
             // Call generateProgressBar to get the progress bar HTML
-            const progressBarHTML = generateProgressBar(bill, processTags);
+            const progressBarHTML = generateProgressBar(bill);
 
             billCard.innerHTML = `
                 <h4 style="background-color: ${getColorForReadValue(bill.Read)}; color: white; padding: 5px; border-radius: 5px 5px 0 0; margin: -10px -10px 10px -10px; text-align: center;">
@@ -103,7 +103,7 @@ function processBills(data) {
 
 // Function to generate progress bar based on process tags and bill progress
 function generateProgressBar(bill) {
-    const progressValue = bill.Progress; // This should be the new 'Progress' column from your dataset
+    const progressValue = bill.Progress;
     const progressPercentage = (progressValue / 12) * 100; // Calculate the percentage
 
     // HTML for progress bar
