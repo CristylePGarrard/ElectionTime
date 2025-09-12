@@ -4,7 +4,7 @@ import geopandas as gpd
 import plotly.express as px
 
 # Ensure target folder exists
-save_dir = "/Users/cristylegarrard/repos/ElectionTime/streamlit_app"
+save_dir = "repos/ElectionTime/streamlit_app"
 os.makedirs(save_dir, exist_ok=True)
 
 # File paths
