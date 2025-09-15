@@ -3,69 +3,71 @@ import streamlit as st
 import geopandas as gpd
 import plotly.express as px
 
-# Ensure target folder exists
-save_dir = "repos/ElectionTime/streamlit_app"
-os.makedirs(save_dir, exist_ok=True)
-
+# -------------------------------
 # File paths
-geojson_path = os.path.join(save_dir, "reps_with_geo_data.geojson")
-json_path    = os.path.join(save_dir, "reps_with_geo_data.json")
+# -------------------------------
+BASE_DIR = "repos/ElectionTime/streamlit_app"
+os.makedirs(BASE_DIR, exist_ok=True)
 
-# ✅ Load your GeoDataFrame from the existing geojson
-all_data = gpd.read_file(geojson_path)
+GEOJSON_PATH = os.path.join(BASE_DIR, "reps_with_geo_data.geojson")
+JSON_PATH    = os.path.join(BASE_DIR, "reps_with_geo_data.json")
 
-# Save attributes only as JSON
-all_data.drop(columns="geometry").to_json(json_path, orient="records")
+# -------------------------------
+# Load data
+# -------------------------------
+gdf = gpd.read_file(GEOJSON_PATH)
 
+# Save attributes only (without geometry) as JSON
+gdf.drop(columns="geometry").to_json(JSON_PATH, orient="records")
 
+st.title("Reps by District Map")
 
-print(f"✅ Loaded GeoJSON from {geojson_path}")
-print(f"✅ Saved JSON to {json_path}")
-print(all_data.columns)
+# -------------------------------
+# Sidebar
 
-st.title("Utah District Map")
-
-# Convert GeoDataFrame to GeoJSON
-# geojson_data = all_data.__geo_interface__
-
-# Pick something to color by (Representative, Party, etc.)
-# color_col = "Representative" if "Representative" in all_data.columns else None
-
-print(all_data.head())
-print(all_data.columns)
+reps = sorted(gdf["Representative"].unique())
+selected_reps = st.sidebar.multiselect("Select Representative", reps, default=[])
 
 
-minimized_all_data = all_data[['Representative', 'Img_ID', 'Party', 'DistrictKey', 'COLOR4', 'Shape__Area', 'Shape__Length', 'Chamber', 'geometry']].copy()
+# If nothing selected, show all
+if selected_reps:
+    filtered = gdf[gdf["Representative"].isin(selected_reps)]
+else:
+    filtered = gdf
 
-# Simplify polygons (tolerance controls how much detail is removed)
-simplified = all_data.copy()
-simplified["geometry"] = simplified["geometry"].simplify(tolerance=0.02, preserve_topology=True)
+# -------------------------------
+# Simplify geometries for speed
+# -------------------------------
+filtered = filtered.copy()
+filtered["geometry"] = filtered["geometry"].simplify(
+    tolerance=0.02, preserve_topology=True
+)
 
-print("Before:", all_data.memory_usage(deep=True).sum() / 1e6, "MB")
-print("After:", simplified.memory_usage(deep=True).sum() / 1e6, "MB")
 
-
-# geojson_data = minimized_all_data.__geo_interface__
-color_col = "Representative" if "Representative" in simplified.columns else None
-
-geojson_data = simplified.__geo_interface__
-print(geojson_data["features"][0]["properties"])
-
+# -------------------------------
+# Build choropleth
+# -------------------------------
 fig = px.choropleth_mapbox(
-    simplified,
-    geojson=geojson_data,
-    locations="Representative",
-    featureidkey="properties.Representative",  # must match geojson property
-    color="Representative",
+    filtered,
+    geojson=filtered.__geo_interface__,
+    locations="Representative",                # column to match features
+    featureidkey="properties.Representative",  # must match GeoJSON property
+    color="Representative",                    # coloring variable
     hover_name="Representative",
     mapbox_style="carto-positron",
-    center={"lat": 39.5, "lon": -111.5},
+    center={"lat": 39.5, "lon": -111.5},       # Utah center
     zoom=6,
     opacity=0.6
 )
 
-
+# Set figure size (height in px, width is auto by container)
+fig.update_layout(height=800)  # try 800–1000 for taller map
 
 st.plotly_chart(fig, use_container_width=True)
 
-
+# -------------------------------
+# Debug info (optional)
+# -------------------------------
+st.write("✅ Loaded districts:", len(gdf))
+st.write("Memory before simplification (MB):", round(gdf.memory_usage(deep=True).sum() / 1e6, 2))
+st.write("Memory after simplification (MB):", round(filtered.memory_usage(deep=True).sum() / 1e6, 2))
