@@ -123,8 +123,8 @@ if __name__ == "__main__":
             df["Bill Sponsor"] = df["Bill Sponsor"].str.replace(r"\.\b", "", regex=True)
 
             # --- Save ---
-            df.to_csv("utah_bills_2025.csv", index=False)
-            df.to_json("utah_bills_2025.json", orient="records", indent=2, force_ascii=False)
+            df.to_csv("data/utah_bills_2025.csv", index=False)
+            df.to_json("data/utah_bills_2025.json", orient="records", indent=2, force_ascii=False)
 
             print("Saved utah_bills_2025.csv and utah_bills_2025.json")
         else:
