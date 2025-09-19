@@ -14,6 +14,11 @@ import re
 import sys
 from tqdm import tqdm  # progress bar
 
+
+# This is where all the bills that were introduced in the Utah state 2025 Legislative Session
+# The csv I downloaded from the website only had the bills that had passed.
+# This data set will give all the bills introduced so they can be compared and added to the dashboard data
+
 BASE_URL = "https://le.utah.gov/billlist.jsp?session=2025GS"
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
