@@ -1,0 +1,276 @@
+## This is some of the html copied and pasted from https://equalityutah.org/advocacy/
+## copied and pasted Wed 24 September 2025
+
+<ul class="DARK cards cards_3 animate">
+
+            <li>
+                <div class="content_container has_button">
+                                        <div class="status_tag failed">Failed</div>
+                                            <div class="eyebrow">HB 566</div>
+
+                    <h4>Sex Education Instruction Amendments</h4>
+                    <div class="small">
+                        <p>This bill removes “human sexuality” from the definition of sex education instruction in Utah schools. While seemingly minor, this change has significant implications. By removing “human sexuality” from the list of topics requiring parental consent, the bill creates confusion about what can be taught and whether LGBTQ identities can be discussed in educational settings. This bill was introduced so late in the session that it was clear it would not advance.</p>
+                        <p><strong>Status: </strong>Introduced in 2025</p>                    </div>
+
+                                            <div class="wp-block-buttons">
+                            <div class="wp-block-button">
+                                <a class="wp-block-button__link" href="https://le.utah.gov/~2025/bills/static/HB0566.html" target="_blank" aria-label="Read Bill (new tab)">Read More</a>
+                            </div>
+                        </div>
+                                    </div>
+            </li>
+
+            <li class="">
+                <div class="content_container has_button">
+                                        <div class="status_tag failed">Failed</div>
+                                            <div class="eyebrow">HB 487</div>
+
+                    <h4>Women Veterans Day Observance</h4>
+                    <div class="small">
+                        <p>This bill would create a Women’s Veteran Day in Utah, but would specifically exclude from recognition transgender women who serve or have served in the military. We lobbied key lawmakers to ensure this bill did not move forward through the legislative process.</p>
+                        <p><strong>Status: </strong>Introduced in 2025</p>                    </div>
+
+                                            <div class="wp-block-buttons">
+                            <div class="wp-block-button">
+                                <a class="wp-block-button__link" href="https://le.utah.gov/~2025/bills/static/HB0487.html#:~:text=This%20bill%20establishes%20Women%20Veterans%20Day%20as%20a%20commemorative%20period." target="_blank" aria-label="Read Bill (new tab)">Read More</a>
+                            </div>
+                        </div>
+                                    </div>
+            </li>
+
+            <li>
+                <div class="content_container has_button">
+                                        <div class="status_tag failed">Failed</div>
+                                            <div class="eyebrow">HB 521</div>
+
+                    <h4>Transgender Medical Procedures Amendments</h4>
+                    <div class="small">
+                        <p>This bill would ban the use of any public funds for gender affirming health care. This bill would have serious consequences for transgender Utahns who are on Medicaid, and for transgender individuals who are housed in Utah’s prisons and jails, among others. The bill could also impact transgender health services provided by Utah’s public university health providers. We lobbied key lawmakers and other governmental stakeholders to ensure this bill did not move forward.</p>
+                        <p><strong>Status: </strong>Introduced in 2025</p>                    </div>
+
+                                            <div class="wp-block-buttons">
+                            <div class="wp-block-button">
+                                <a class="wp-block-button__link" href="https://le.utah.gov/~2025/bills/static/HB0521.html" target="_blank" aria-label="Read Bill (new tab)">Read More</a>
+                            </div>
+                        </div>
+                                    </div>
+            </li>
+
+            <li>
+                <div class="content_container has_button">
+                                        <div class="status_tag failed">Failed</div>
+                                            <div class="eyebrow">HB 413</div>
+
+                    <h4>Child Custody Proceedings Amendments</h4>
+                    <div class="small">
+                        <p>This bill would prevent law enforcement and child welfare professionals from protecting transgender youth when parents refuse to acknowledge their gender identity. The bill also shields parents from consideration of such refusal during custody proceedings, potentially leaving children without vital support during critical developmental periods. We raised concerns during the consideration of the bill and were able to block it from advancing during a senate committee hearing.</p>
+                        <p><strong>Status: </strong>Died in Senate Health and Human Services Committee</p>                    </div>
+
+                                            <div class="wp-block-buttons">
+                            <div class="wp-block-button">
+                                <a class="wp-block-button__link" href="https://le.utah.gov/~2025/bills/static/HB0413.html" target="_blank" aria-label="Read Bill (new tab)">Read More</a>
+                            </div>
+                        </div>
+                                    </div>
+            </li>
+
+            <li class="">
+                <div class="content_container has_button">
+                                        <div class="status_tag failed">Failed</div>
+                                            <div class="eyebrow">SB 320</div>
+
+                    <h4>Physician Practice Amendments</h4>
+                    <div class="small">
+                        <p>This bill would permit physicians to deny medical services based solely on their personal, medical, moral, religious, or ethical beliefs—potentially creating dangerous barriers to healthcare access for all Utahns, including LGBTQ Utahns. Along with other community stakeholders we brought our concerns to the sponsor who pulled the bill from the agenda before it was ever heard. The bill therefore did not advance.</p>
+                        <p><strong>Status: </strong>Introduced in 2025 </p>                    </div>
+
+                                            <div class="wp-block-buttons">
+                            <div class="wp-block-button">
+                                <a class="wp-block-button__link" href="https://le.utah.gov/~2025/bills/static/SB0320.html" target="_blank" aria-label="Read Bill (new tab)">Read More</a>
+                            </div>
+                        </div>
+                                    </div>
+            </li>
+
+            <li>
+                <div class="content_container has_button">
+                                        <div class="status_tag failed">Failed</div>
+                                            <div class="eyebrow">SB 205</div>
+
+                    <h4>Student Privacy Amendments</h4>
+                    <div class="small">
+                        <p>Defines “multiuser unisex restroom” as a restroom that is designated for the use of both sexes; or is not sex-designated at all; allows the inclusion of a multiuser unisex restroom to satisfy a middle or high school’s obligation to meet the privacy needs of certain students; and allows government entities to construct new multiuser unisex restrooms to preserve individual privacy. This bill was introduced but never received a hearing and did not advance through the legislature.</p>
+                        <p><strong>Status: </strong>Died in Senate Education Committee </p>                    </div>
+
+                                            <div class="wp-block-buttons">
+                            <div class="wp-block-button">
+                                <a class="wp-block-button__link" href="https://le.utah.gov/~2025/bills/static/SB0205.html" target="_blank" aria-label="Read Bill (new tab)">Read More</a>
+                            </div>
+                        </div>
+                                    </div>
+            </li>
+
+            <li>
+                <div class="content_container has_button">
+                                        <div class="status_tag failed">Failed</div>
+                                            <div class="eyebrow">HB 401</div>
+
+                    <h4>Adult-oriented Performance Amendments</h4>
+                    <div class="small">
+                        <p>This bill is another attempt to target First Amendment protected expressive conduct. Last year, the legislature introduced and passed legislation targeting lewd behavior towards minors. That legislation has only been in effect since May 2024, and yet now HB 401 is being advanced to expand upon that prior legislation. This year’s bill includes vague language that is constitutionally problematic and could target protected First Amendment activity. The bill language is borrowed from a Tennessee statute that was introduced to prohibit drag performances. We lobbied key lawmakers to ensure this bill did not move through the legislative process.</p>
+                        <p><strong>Status: </strong>Died in House Government Operations Committee</p>                    </div>
+
+                                            <div class="wp-block-buttons">
+                            <div class="wp-block-button">
+                                <a class="wp-block-button__link" href="https://le.utah.gov/~2025/bills/static/HB0401.html" target="_blank" aria-label="Read Bill (new tab)">Read More</a>
+                            </div>
+                        </div>
+                                    </div>
+            </li>
+
+            <li class="">
+                <div class="content_container has_button">
+                                        <div class="status_tag passed">Passed</div>
+                                            <div class="eyebrow">HB 424</div>
+
+                    <h4>School Activity Eligibility Commission Amendments</h4>
+                    <div class="small">
+                        <p>This bill makes various technical changes to Utah’s School Activity Eligibility Commission, which is the body created by statute to determine whether trans kids can participate in school sports and activities. These changes include scheduling meetings, filling vacancies on the commission, and other procedural aspects. We worked closely with the bill sponsor to make sure only process-related changes were included in the bill language.</p>
+                        <p><strong>Status: </strong>Passed</p>                    </div>
+
+                                            <div class="wp-block-buttons">
+                            <div class="wp-block-button">
+                                <a class="wp-block-button__link" href="https://le.utah.gov/~2025/bills/static/HB0424.html" target="_blank" aria-label="Read Bill (new tab)">Read More</a>
+                            </div>
+                        </div>
+                                    </div>
+            </li>
+
+            <li>
+                <div class="content_container has_button">
+                                        <div class="status_tag passed">Passed</div>
+                                            <div class="eyebrow">HB 300</div>
+
+                    <h4>Amendments to Election Law</h4>
+                    <div class="small">
+                        <p><span style="font-weight: 400;">While Equality Utah primarily focuses our resources on bills directly impacting the LGBTQ community, occasionally bills so aggressively impinge on the broader principles of democracy that it becomes important for us to unite with other community partners to voice collective opposition. HB 300 presents one of those circumstances. As first introduced, the bill essentially ended vote-by-mail in Utah. The bill was amended to largely preserve vote by mail, although as passed it still contains various unnecessary barriers to voter participation. Because the bill has a delayed implementation date of 2029, there is still time for future positive amendments in upcoming legislative sessions.&nbsp;</span></p>
+                        <p><strong>Status: </strong>Passed</p>                    </div>
+
+                                            <div class="wp-block-buttons">
+                            <div class="wp-block-button">
+                                <a class="wp-block-button__link" href="https://le.utah.gov/~2025/bills/static/HB0300.html" target="_blank" aria-label="Read Bill (new tab)">Read More</a>
+                            </div>
+                        </div>
+                                    </div>
+            </li>
+
+            <li>
+                <div class="content_container has_button">
+                                        <div class="status_tag passed">Passed</div>
+                                            <div class="eyebrow">SB 86</div>
+
+                    <h4>Workplace Protection Amendments</h4>
+                    <div class="small">
+                        <p><span style="font-weight: 400;">This bill initially expanded the reach of state anti-discrimination protections by reducing the minimum employee threshold from 15 to 5 workers. Under current law, only businesses with 15 or more employees must comply with state anti-discrimination regulations. By lowering this threshold to 5 employees, the bill would extend these important workplace protections to employees of smaller businesses. In the Senate committee hearing, language regarding sexual harassment was added, but the committee members failed to lower the threshold of employees below 15.&nbsp;&nbsp;</span></p>
+                        <p><strong>Status: </strong>Passed</p>                    </div>
+
+                                            <div class="wp-block-buttons">
+                            <div class="wp-block-button">
+                                <a class="wp-block-button__link" href="https://le.utah.gov/~2025/bills/static/SB0086.html" target="_blank" aria-label="Read Bill (new tab)">Read More</a>
+                            </div>
+                        </div>
+                                    </div>
+            </li>
+
+            <li class="">
+                <div class="content_container has_button">
+                                        <div class="status_tag passed">Passed</div>
+                                            <div class="eyebrow">HB 283</div>
+
+                    <h4>Child and Family Services Amendments</h4>
+                    <div class="small">
+                        <p><span style="font-weight: 400;">This bill addresses various aspects of foster care placement. Importantly, the bill prevents a child from being placed with a family who is not supportive of a child’s gender identity or sexual orientation; does not allow support or lack of support of a child’s LGBTQ status from being determinative in custody or reunification decisions, unless potential for harm to a child exists. We worked closely with the sponsor to ensure these protections remained in the bill.</span></p>
+                        <p><strong>Status: </strong>Passed</p>                    </div>
+
+                                            <div class="wp-block-buttons">
+                            <div class="wp-block-button">
+                                <a class="wp-block-button__link" href="https://le.utah.gov/~2025/bills/static/HB0283.html" target="_blank" aria-label="Read Bill (new tab)">Read More</a>
+                            </div>
+                        </div>
+                                    </div>
+            </li>
+
+            <li>
+                <div class="content_container has_button">
+                                        <div class="status_tag passed">Passed</div>
+                                            <div class="eyebrow">HB 269</div>
+
+                    <h4>Privacy Protections in Sex-designated Areas</h4>
+                    <div class="small">
+                        <p><span style="font-weight: 400;">The bill modifies HB 257 from the 2024 Legislative Session, which restricted access to privacy spaces such as restrooms and locker rooms, by adding higher education student housing as a privacy space. Under the substitute bill adopted in committee, sex-segregated student housing on Utah’s public college campuses is now restricted based on birth-sex, with the original exceptions (birth certificate changes and primary sex characteristic surgery) being eliminated. The bill maintains provisions allowing universities to offer co-ed, multigender dorm facilities.&nbsp;</span></p>
+                        <p><strong>Status: </strong>Passed</p>                    </div>
+
+                                            <div class="wp-block-buttons">
+                            <div class="wp-block-button">
+                                <a class="wp-block-button__link" href="https://le.utah.gov/~2025/bills/static/HB0269.html" target="_blank" aria-label="Read Bill (new tab)">Read More</a>
+                            </div>
+                        </div>
+                                    </div>
+            </li>
+
+            <li>
+                <div class="content_container has_button">
+                                        <div class="status_tag passed">Passed</div>
+                                            <div class="eyebrow">HB 252</div>
+
+                    <h4>Transgender State Custody Amendments</h4>
+                    <div class="small">
+                        <p><span style="font-weight: 400;">Prohibits the Department of Corrections from allowing an inmate to initiate gender transition by means of cross-sex hormones, primary or secondary sex characteristic surgical procedures or puberty blockers. This bill does not prevent inmates currently receiving gender-affirming care from continuing the care. The bill also restricts placement in secure care and youth rooms by gender assigned at birth. However, we understand the current practice in the youth criminal justice system is to provide individual rooms to youth offenders.&nbsp;</span></p>
+                        <p><strong>Status: </strong>Passed</p>                    </div>
+
+                                            <div class="wp-block-buttons">
+                            <div class="wp-block-button">
+                                <a class="wp-block-button__link" href="https://le.utah.gov/~2025/bills/static/HB0252.html" target="_blank" aria-label="Read Bill (new tab)">Read More</a>
+                            </div>
+                        </div>
+                                    </div>
+            </li>
+
+            <li class="">
+                <div class="content_container has_button">
+                                        <div class="status_tag failed">Failed</div>
+                                            <div class="eyebrow">HB 250</div>
+
+                    <h4>Public Employee Gender-specific Language Requirements</h4>
+                    <div class="small">
+                        <p><span style="font-weight: 400;">This bill prevents disciplinary action from being taken against a Utah public school teacher for using a name or pronoun other than that requested by the student, so long as done in good faith, or at the request of the student’s parents. The bill also limits disciplinary action from being taken against a government employee for using a name or pronoun other than that requested by another employee, so long as done in good faith or because of a sincerely held religious or moral belief. We worked closely with lawmakers in the House to amend the bill to incorporate anti-discrimination language from the Utah Compromise. We continued to assert that even the amended bill was unnecessary and worked with lawmakers to kill the bill in a Senate committee hearing.&nbsp;</span></p>
+                        <p><strong>Status: </strong>Died in Senate Government Operations Committee </p>                    </div>
+
+                                            <div class="wp-block-buttons">
+                            <div class="wp-block-button">
+                                <a class="wp-block-button__link" href="https://le.utah.gov/~2025/bills/static/HB0250.html" target="_blank" aria-label="Read Bill (new tab)">Read More</a>
+                            </div>
+                        </div>
+                                    </div>
+            </li>
+
+            <li>
+                <div class="content_container has_button">
+                                        <div class="status_tag passed">Passed</div>
+                                            <div class="eyebrow">HB 77</div>
+
+                    <h4>Flag Display Amendments</h4>
+                    <div class="small">
+                        <p>This bill prohibits cities, counties, and public schools from displaying Pride and other community flags. We worked with the bill’s sponsor to secure amendments that protect the First Amendment rights of teachers and students, ensuring they can continue to wear rainbow stickers, pins, and patches in the classroom. Additionally, we advocated for language that safeguards students, including LGBTQ youth, from discrimination. We also successfully pushed for the removal of a provision that would have allowed parents to sue teachers over flags displayed in classrooms. However, the bill still includes restrictions on state and local governments flying certain flags, which raises concerns about its constitutional limitations.</p>
+<p>&nbsp;</p>
+                        <p><strong>Status: </strong>Passed</p>                    </div>
+
+                                            <div class="wp-block-buttons">
+                            <div class="wp-block-button">
+                                <a class="wp-block-button__link" href="https://le.utah.gov/~2025/bills/static/HB0077.html" target="_blank" aria-label="Read Bill (new tab)">Read More</a>
+                            </div>
+                        </div>
+                                    </div>
+            </li>
+            </ul>

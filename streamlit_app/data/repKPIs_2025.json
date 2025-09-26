@@ -1,0 +1,2513 @@
+[
+  {
+    "Bill Sponsor":"Abbott, N.",
+    "total_bills":12,
+    "passed_bills":5,
+    "failed_bills":7,
+    "pass_rate":41.7,
+    "Representative":"Nelson T. Abbott",
+    "Office":"State House",
+    "Party":"R",
+    "Committee":[
+      "House Judiciary Committee",
+      "General Government Appropriations Subcommittee",
+      "House Health and Human Services Committee"
+    ],
+    "Role":[
+      "Chair",
+      "Member",
+      "Member"
+    ],
+    "Committee Count":3.0
+  },
+  {
+    "Bill Sponsor":"Acton, CK.",
+    "total_bills":7,
+    "passed_bills":0,
+    "failed_bills":7,
+    "pass_rate":0.0,
+    "Representative":null,
+    "Office":null,
+    "Party":null,
+    "Committee":null,
+    "Role":null,
+    "Committee Count":null
+  },
+  {
+    "Bill Sponsor":"Albrecht, C.",
+    "total_bills":10,
+    "passed_bills":7,
+    "failed_bills":3,
+    "pass_rate":70.0,
+    "Representative":"Carl R. Albrecht",
+    "Office":"State House",
+    "Party":"R",
+    "Committee":[
+      "House Natural Resources, Agriculture, and Environment Committee",
+      "House Public Utilities and Energy Committee",
+      "Natural Resources, Agriculture, and Environmental Quality Appropriations Subcommittee"
+    ],
+    "Role":[
+      "Chair",
+      "Member",
+      "Member"
+    ],
+    "Committee Count":3.0
+  },
+  {
+    "Bill Sponsor":"Auxier, T.",
+    "total_bills":7,
+    "passed_bills":4,
+    "failed_bills":3,
+    "pass_rate":57.1,
+    "Representative":"Tiara Auxier",
+    "Office":"State House",
+    "Party":"R",
+    "Committee":[
+      "House Education Committee",
+      "House Judiciary Committee",
+      "Public Education Appropriations Subcommittee"
+    ],
+    "Role":[
+      "Member",
+      "Member",
+      "Member"
+    ],
+    "Committee Count":3.0
+  },
+  {
+    "Bill Sponsor":"Balderree, H.",
+    "total_bills":5,
+    "passed_bills":4,
+    "failed_bills":1,
+    "pass_rate":80.0,
+    "Representative":"Heidi Balderree",
+    "Office":"State Senate",
+    "Party":"R",
+    "Committee":[
+      "Public Education Appropriations Subcommittee",
+      "Senate Education Committee",
+      "Senate Education Confirmation Committee",
+      "Senate Judiciary, Law Enforcement, and Criminal Justice Committee",
+      "Senate Retirement and Independent Entities Confirmation Committee",
+      "Social Services Appropriations Subcommittee"
+    ],
+    "Role":[
+      "Senate Chair",
+      "Member",
+      "Member",
+      "Member",
+      "Member",
+      "Member"
+    ],
+    "Committee Count":6.0
+  },
+  {
+    "Bill Sponsor":"Ballard, MG.",
+    "total_bills":8,
+    "passed_bills":0,
+    "failed_bills":8,
+    "pass_rate":0.0,
+    "Representative":null,
+    "Office":null,
+    "Party":null,
+    "Committee":null,
+    "Role":null,
+    "Committee Count":null
+  },
+  {
+    "Bill Sponsor":"Barlow, S.",
+    "total_bills":3,
+    "passed_bills":3,
+    "failed_bills":0,
+    "pass_rate":100.0,
+    "Representative":"Stewart E. Barlow",
+    "Office":"State House",
+    "Party":"R",
+    "Committee":[
+      "Natural Resources, Agriculture, and Environmental Quality Appropriations Subcommittee",
+      "House Health and Human Services Committee",
+      "House Revenue and Taxation Committee"
+    ],
+    "Role":[
+      "House Chair",
+      "Member",
+      "Member"
+    ],
+    "Committee Count":3.0
+  },
+  {
+    "Bill Sponsor":"Bennion, G.",
+    "total_bills":7,
+    "passed_bills":4,
+    "failed_bills":3,
+    "pass_rate":57.1,
+    "Representative":"Gay Lynn Bennion",
+    "Office":"State House",
+    "Party":"D",
+    "Committee":[
+      "House Natural Resources, Agriculture, and Environment Committee",
+      "House Political Subdivisions Committee",
+      "Natural Resources, Agriculture, and Environmental Quality Appropriations Subcommittee",
+      "Rules Review and General Oversight Committee"
+    ],
+    "Role":[
+      "Member",
+      "Member",
+      "Member",
+      "Member"
+    ],
+    "Committee Count":4.0
+  },
+  {
+    "Bill Sponsor":"Blouin, N.",
+    "total_bills":10,
+    "passed_bills":0,
+    "failed_bills":10,
+    "pass_rate":0.0,
+    "Representative":"Nate Blouin",
+    "Office":"State Senate",
+    "Party":"D",
+    "Committee":[
+      "General Government Appropriations Subcommittee",
+      "Natural Resources, Agriculture, and Environmental Quality Appropriations Subcommittee",
+      "Senate Economic Development and Workforce Services Confirmation Committee",
+      "Senate Government Operations and Political Subdivisions Committee",
+      "Senate Government Operations Confirmation Committee",
+      "Senate Natural Resources, Agriculture, and Environment Committee",
+      "Senate Political Subdivisions Confirmation Committee"
+    ],
+    "Role":[
+      "Member",
+      "Member",
+      "Member",
+      "Member",
+      "Member",
+      "Member",
+      "Member"
+    ],
+    "Committee Count":7.0
+  },
+  {
+    "Bill Sponsor":"Bolinder, B.",
+    "total_bills":7,
+    "passed_bills":3,
+    "failed_bills":4,
+    "pass_rate":42.9,
+    "Representative":"Bridger Bolinder",
+    "Office":"State House",
+    "Party":"R",
+    "Committee":[
+      "House Health and Human Services Committee",
+      "House Natural Resources, Agriculture, and Environment Committee",
+      "Rules Review and General Oversight Committee",
+      "Transportation and Infrastructure Appropriations Subcommittee"
+    ],
+    "Role":[
+      "Chair",
+      "Member",
+      "Member",
+      "Member"
+    ],
+    "Committee Count":4.0
+  },
+  {
+    "Bill Sponsor":"Brammer, B.",
+    "total_bills":20,
+    "passed_bills":7,
+    "failed_bills":13,
+    "pass_rate":35.0,
+    "Representative":"Brady Brammer",
+    "Office":"State Senate",
+    "Party":"R",
+    "Committee":[
+      "Criminal Justice Appropriations Subcommittee",
+      "Senate Judiciary Confirmation Committee",
+      "General Government Appropriations Subcommittee",
+      "Rules Review and General Oversight Committee",
+      "Senate Judicial Confirmation Committee",
+      "Senate Judiciary, Law Enforcement, and Criminal Justice Committee",
+      "Senate Law Enforcement and Criminal Justice Confirmation Committee",
+      "Senate Revenue and Taxation Committee",
+      "Senate Revenue and Taxation Confirmation Committee"
+    ],
+    "Role":[
+      "Chair",
+      "Chair",
+      "Member",
+      "Member",
+      "Member",
+      "Member",
+      "Member",
+      "Member",
+      "Member"
+    ],
+    "Committee Count":9.0
+  },
+  {
+    "Bill Sponsor":"Brooks, W.",
+    "total_bills":10,
+    "passed_bills":6,
+    "failed_bills":4,
+    "pass_rate":60.0,
+    "Representative":"Walt Brooks",
+    "Office":"State House",
+    "Party":"R",
+    "Committee":[
+      "Executive Appropriations Committee",
+      "House Natural Resources, Agriculture, and Environment Committee",
+      "House Public Utilities and Energy Committee",
+      "Public Education Appropriations Subcommittee"
+    ],
+    "Role":[
+      "House Vice Chair",
+      "Member",
+      "Member",
+      "Member"
+    ],
+    "Committee Count":4.0
+  },
+  {
+    "Bill Sponsor":"Burton, J.",
+    "total_bills":10,
+    "passed_bills":6,
+    "failed_bills":4,
+    "pass_rate":60.0,
+    "Representative":"Jefferson S. Burton",
+    "Office":"State House",
+    "Party":"R",
+    "Committee":[
+      "House Government Operations Committee",
+      "Criminal Justice Appropriations Subcommittee",
+      "House Business, Labor, and Commerce Committee",
+      "House Ethics Committee",
+      "House Rules Committee"
+    ],
+    "Role":[
+      "Chair",
+      "Member",
+      "Member",
+      "Member",
+      "Member"
+    ],
+    "Committee Count":5.0
+  },
+  {
+    "Bill Sponsor":"Chevrier, K.",
+    "total_bills":5,
+    "passed_bills":2,
+    "failed_bills":3,
+    "pass_rate":40.0,
+    "Representative":"Kristen Chevrier",
+    "Office":"State House",
+    "Party":"R",
+    "Committee":[
+      "House Health and Human Services Committee",
+      "House Transportation Committee",
+      "Social Services Appropriations Subcommittee"
+    ],
+    "Role":[
+      "Member",
+      "Member",
+      "Member"
+    ],
+    "Committee Count":3.0
+  },
+  {
+    "Bill Sponsor":"Chew, S.",
+    "total_bills":5,
+    "passed_bills":3,
+    "failed_bills":2,
+    "pass_rate":60.0,
+    "Representative":"Scott H. Chew",
+    "Office":"State House",
+    "Party":"R",
+    "Committee":[
+      "Natural Resources, Agriculture, and Environmental Quality Appropriations Subcommittee",
+      "House Natural Resources, Agriculture, and Environment Committee",
+      "House Public Utilities and Energy Committee"
+    ],
+    "Role":[
+      "House Vice Chair",
+      "Member",
+      "Member"
+    ],
+    "Committee Count":3.0
+  },
+  {
+    "Bill Sponsor":"Christofferson, K.",
+    "total_bills":6,
+    "passed_bills":3,
+    "failed_bills":3,
+    "pass_rate":50.0,
+    "Representative":"Kay J. Christofferson",
+    "Office":"State House",
+    "Party":"R",
+    "Committee":[
+      "House Transportation Committee",
+      "House Revenue and Taxation Committee",
+      "Transportation and Infrastructure Appropriations Subcommittee"
+    ],
+    "Role":[
+      "Chair",
+      "Member",
+      "Member"
+    ],
+    "Committee Count":3.0
+  },
+  {
+    "Bill Sponsor":"Clancy, T.",
+    "total_bills":10,
+    "passed_bills":5,
+    "failed_bills":5,
+    "pass_rate":50.0,
+    "Representative":"Tyler Clancy",
+    "Office":"State House",
+    "Party":"R",
+    "Committee":[
+      "House Judiciary Committee",
+      "House Health and Human Services Committee",
+      "Social Services Appropriations Subcommittee"
+    ],
+    "Role":[
+      "Vice Chair",
+      "Member",
+      "Member"
+    ],
+    "Committee Count":3.0
+  },
+  {
+    "Bill Sponsor":"Cullimore, K. A.",
+    "total_bills":17,
+    "passed_bills":11,
+    "failed_bills":6,
+    "pass_rate":64.7,
+    "Representative":null,
+    "Office":null,
+    "Party":null,
+    "Committee":null,
+    "Role":null,
+    "Committee Count":null
+  },
+  {
+    "Bill Sponsor":"Cutler, P.",
+    "total_bills":7,
+    "passed_bills":5,
+    "failed_bills":2,
+    "pass_rate":71.4,
+    "Representative":"Paul A. Cutler",
+    "Office":"State House",
+    "Party":"R",
+    "Committee":[
+      "House Economic Development and Workforce Services Committee",
+      "General Government Appropriations Subcommittee",
+      "House Government Operations Committee"
+    ],
+    "Role":[
+      "Vice Chair",
+      "Member",
+      "Member"
+    ],
+    "Committee Count":3.0
+  },
+  {
+    "Bill Sponsor":"Dailey-Provost, J.",
+    "total_bills":18,
+    "passed_bills":6,
+    "failed_bills":12,
+    "pass_rate":33.3,
+    "Representative":"Jennifer Dailey-Provost",
+    "Office":"State House",
+    "Party":"D",
+    "Committee":[
+      "Executive Appropriations Committee",
+      "House Health and Human Services Committee",
+      "House Revenue and Taxation Committee",
+      "Legislative Management Committee",
+      "Rules Review and General Oversight Committee",
+      "Social Services Appropriations Subcommittee",
+      "Utah Behavioral Health Legislative Policy Committee"
+    ],
+    "Role":[
+      "Member",
+      "Member",
+      "Member",
+      "Member",
+      "Member",
+      "Member",
+      "Member"
+    ],
+    "Committee Count":7.0
+  },
+  {
+    "Bill Sponsor":"Defay, A.",
+    "total_bills":9,
+    "passed_bills":6,
+    "failed_bills":3,
+    "pass_rate":66.7,
+    "Representative":"Ariel Defay",
+    "Office":"State House",
+    "Party":"R",
+    "Committee":[
+      "House Transportation Committee",
+      "Economic and Community Development Appropriations Subcommittee",
+      "House Education Committee"
+    ],
+    "Role":[
+      "Vice Chair",
+      "Member",
+      "Member"
+    ],
+    "Committee Count":3.0
+  },
+  {
+    "Bill Sponsor":"Dominguez, R.",
+    "total_bills":2,
+    "passed_bills":1,
+    "failed_bills":1,
+    "pass_rate":50.0,
+    "Representative":"Rosalba Dominguez",
+    "Office":"State House",
+    "Party":"D",
+    "Committee":[
+      "General Government Appropriations Subcommittee",
+      "House Public Utilities and Energy Committee",
+      "House Transportation Committee"
+    ],
+    "Role":[
+      "Member",
+      "Member",
+      "Member"
+    ],
+    "Committee Count":3.0
+  },
+  {
+    "Bill Sponsor":"Dunnigan, J.",
+    "total_bills":17,
+    "passed_bills":11,
+    "failed_bills":6,
+    "pass_rate":64.7,
+    "Representative":"James A. Dunnigan",
+    "Office":"State House",
+    "Party":"R",
+    "Committee":[
+      "House Political Subdivisions Committee",
+      "Legislative Process Committee",
+      "Criminal Justice Appropriations Subcommittee",
+      "House Business, Labor, and Commerce Committee"
+    ],
+    "Role":[
+      "Chair",
+      "Chair",
+      "Member",
+      "Member"
+    ],
+    "Committee Count":4.0
+  },
+  {
+    "Bill Sponsor":"Eliason, S.",
+    "total_bills":17,
+    "passed_bills":12,
+    "failed_bills":5,
+    "pass_rate":70.6,
+    "Representative":"Steve Eliason",
+    "Office":"State House",
+    "Party":"R",
+    "Committee":[
+      "House Revenue and Taxation Committee",
+      "Utah Behavioral Health Legislative Policy Committee",
+      "House Health and Human Services Committee",
+      "Public Education Appropriations Subcommittee",
+      "School Security Task Force"
+    ],
+    "Role":[
+      "Chair",
+      "Chair",
+      "Member",
+      "Member",
+      "Member"
+    ],
+    "Committee Count":5.0
+  },
+  {
+    "Bill Sponsor":"Elison, J.",
+    "total_bills":4,
+    "passed_bills":2,
+    "failed_bills":2,
+    "pass_rate":50.0,
+    "Representative":"Joseph Elison",
+    "Office":"State House",
+    "Party":"R",
+    "Committee":[
+      "House Revenue and Taxation Committee",
+      "House Education Committee",
+      "Transportation and Infrastructure Appropriations Subcommittee"
+    ],
+    "Role":[
+      "Vice Chair",
+      "Member",
+      "Member"
+    ],
+    "Committee Count":3.0
+  },
+  {
+    "Bill Sponsor":"Escamilla, L.",
+    "total_bills":8,
+    "passed_bills":2,
+    "failed_bills":6,
+    "pass_rate":25.0,
+    "Representative":"Luz Escamilla",
+    "Office":"State Senate",
+    "Party":"D",
+    "Committee":[
+      "Senate Ethics Committee",
+      "Executive Appropriations Committee",
+      "Legislative Audit Subcommittee",
+      "Legislative Management Committee",
+      "Legislative Process Committee",
+      "Public Education Appropriations Subcommittee",
+      "Rules Review and General Oversight Committee",
+      "Senate Business and Labor Confirmation Committee",
+      "Senate Education Confirmation Committee",
+      "Senate Health and Human Services Committee",
+      "Senate Health and Human Services Confirmation Committee",
+      "Senate Judiciary Confirmation Committee",
+      "Senate Judiciary, Law Enforcement, and Criminal Justice Committee",
+      "Senate Law Enforcement and Criminal Justice Confirmation Committee",
+      "Senate Legislative Expense Oversight Committee",
+      "Senate Revenue and Taxation Committee",
+      "Senate Revenue and Taxation Confirmation Committee",
+      "Senate Rules Committee",
+      "Social Services Appropriations Subcommittee",
+      "Utah Behavioral Health Legislative Policy Committee"
+    ],
+    "Role":[
+      "Vice Chair",
+      "Member",
+      "Member",
+      "Member",
+      "Member",
+      "Member",
+      "Member",
+      "Member",
+      "Member",
+      "Member",
+      "Member",
+      "Member",
+      "Member",
+      "Member",
+      "Member",
+      "Member",
+      "Member",
+      "Member",
+      "Member",
+      "Member"
+    ],
+    "Committee Count":20.0
+  },
+  {
+    "Bill Sponsor":"Fiefia, D.",
+    "total_bills":3,
+    "passed_bills":2,
+    "failed_bills":1,
+    "pass_rate":66.7,
+    "Representative":"Doug Fiefia",
+    "Office":"State House",
+    "Party":"R",
+    "Committee":[
+      "Social Services Appropriations Subcommittee",
+      "House Economic Development and Workforce Services Committee",
+      "House Government Operations Committee"
+    ],
+    "Role":[
+      "House Vice Chair",
+      "Member",
+      "Member"
+    ],
+    "Committee Count":3.0
+  },
+  {
+    "Bill Sponsor":"Fillmore, L.",
+    "total_bills":26,
+    "passed_bills":16,
+    "failed_bills":10,
+    "pass_rate":61.5,
+    "Representative":"Lincoln Fillmore",
+    "Office":"State Senate",
+    "Party":"R",
+    "Committee":[
+      "Legislative Process Committee",
+      "Senate Rules Committee",
+      "Criminal Justice Appropriations Subcommittee",
+      "Public Education Appropriations Subcommittee",
+      "Senate Education Committee",
+      "Senate Education Confirmation Committee",
+      "Senate Judiciary, Law Enforcement, and Criminal Justice Committee",
+      "Senate Law Enforcement and Criminal Justice Confirmation Committee",
+      "Senate Retirement and Independent Entities Confirmation Committee",
+      "Senate Revenue and Taxation Committee",
+      "Senate Revenue and Taxation Confirmation Committee"
+    ],
+    "Role":[
+      "Chair",
+      "Chair",
+      "Member",
+      "Member",
+      "Member",
+      "Member",
+      "Member",
+      "Member",
+      "Member",
+      "Member",
+      "Member"
+    ],
+    "Committee Count":11.0
+  },
+  {
+    "Bill Sponsor":"Fitisemanu, J.",
+    "total_bills":4,
+    "passed_bills":1,
+    "failed_bills":3,
+    "pass_rate":25.0,
+    "Representative":"Jake Fitisemanu",
+    "Office":"State House",
+    "Party":"D",
+    "Committee":[
+      "House Health and Human Services Committee",
+      "House Political Subdivisions Committee",
+      "Social Services Appropriations Subcommittee"
+    ],
+    "Role":[
+      "Member",
+      "Member",
+      "Member"
+    ],
+    "Committee Count":3.0
+  },
+  {
+    "Bill Sponsor":"Gricius, S.",
+    "total_bills":12,
+    "passed_bills":11,
+    "failed_bills":1,
+    "pass_rate":91.7,
+    "Representative":"Stephanie Gricius",
+    "Office":"State House",
+    "Party":"R",
+    "Committee":[
+      "Rules Review and General Oversight Committee",
+      "House Health and Human Services Committee",
+      "House Judiciary Committee",
+      "Social Services Appropriations Subcommittee"
+    ],
+    "Role":[
+      "Chair",
+      "Member",
+      "Member",
+      "Member"
+    ],
+    "Committee Count":4.0
+  },
+  {
+    "Bill Sponsor":"Grover, K.",
+    "total_bills":10,
+    "passed_bills":4,
+    "failed_bills":6,
+    "pass_rate":40.0,
+    "Representative":"Keith Grover",
+    "Office":"State Senate",
+    "Party":"R",
+    "Committee":[
+      "Senate Health and Human Services Committee",
+      "Senate Health and Human Services Confirmation Committee",
+      "Senate Rules Committee",
+      "Economic and Community Development Appropriations Subcommittee",
+      "Higher Education Appropriations Subcommittee",
+      "Senate Ethics Committee",
+      "Senate Natural Resources, Agriculture, and Environment Committee",
+      "Senate Natural Resources, Agriculture, and Environment Confirmation Committee",
+      "Senate Retirement and Independent Entities Confirmation Committee"
+    ],
+    "Role":[
+      "Chair",
+      "Chair",
+      "Vice Chair",
+      "Member",
+      "Member",
+      "Member",
+      "Member",
+      "Member",
+      "Member"
+    ],
+    "Committee Count":9.0
+  },
+  {
+    "Bill Sponsor":"Gwynn, M.",
+    "total_bills":8,
+    "passed_bills":8,
+    "failed_bills":0,
+    "pass_rate":100.0,
+    "Representative":"Matthew H. Gwynn",
+    "Office":"State House",
+    "Party":"R",
+    "Committee":[
+      "Criminal Justice Appropriations Subcommittee",
+      "House Law Enforcement and Criminal Justice Committee",
+      "House Political Subdivisions Committee",
+      "School Security Task Force"
+    ],
+    "Role":[
+      "Chair",
+      "Member",
+      "Member",
+      "Member"
+    ],
+    "Committee Count":4.0
+  },
+  {
+    "Bill Sponsor":"Hall, K.",
+    "total_bills":8,
+    "passed_bills":5,
+    "failed_bills":3,
+    "pass_rate":62.5,
+    "Representative":"Katy Hall",
+    "Office":"State House",
+    "Party":"R",
+    "Committee":[
+      "House Health and Human Services Committee",
+      "Higher Education Appropriations Subcommittee",
+      "House Law Enforcement and Criminal Justice Committee"
+    ],
+    "Role":[
+      "Vice Chair",
+      "Member",
+      "Member"
+    ],
+    "Committee Count":3.0
+  },
+  {
+    "Bill Sponsor":"Harper, W.",
+    "total_bills":26,
+    "passed_bills":21,
+    "failed_bills":5,
+    "pass_rate":80.8,
+    "Representative":"Wayne A. Harper",
+    "Office":"State Senate",
+    "Party":"R",
+    "Committee":[
+      "Senate Retirement and Independent Entities Confirmation Committee",
+      "Senate Transportation, Public Utilities, Energy, and Technology Committee",
+      "Senate Transportation, Public Utilities, Energy, and Technology Confirmation Committee",
+      "Criminal Justice Appropriations Subcommittee",
+      "Senate Revenue and Taxation Committee",
+      "Transportation and Infrastructure Appropriations Subcommittee"
+    ],
+    "Role":[
+      "Chair",
+      "Chair",
+      "Chair",
+      "Member",
+      "Member",
+      "Member"
+    ],
+    "Committee Count":6.0
+  },
+  {
+    "Bill Sponsor":"Hawkins, J.",
+    "total_bills":5,
+    "passed_bills":3,
+    "failed_bills":2,
+    "pass_rate":60.0,
+    "Representative":"Jon Hawkins",
+    "Office":"State House",
+    "Party":"R",
+    "Committee":[
+      "House Economic Development and Workforce Services Committee",
+      "Higher Education Appropriations Subcommittee",
+      "House Ethics Committee",
+      "House Judiciary Committee"
+    ],
+    "Role":[
+      "Chair",
+      "Member",
+      "Member",
+      "Member"
+    ],
+    "Committee Count":4.0
+  },
+  {
+    "Bill Sponsor":"Hayes, S.",
+    "total_bills":4,
+    "passed_bills":1,
+    "failed_bills":3,
+    "pass_rate":25.0,
+    "Representative":"Sahara Hayes",
+    "Office":"State House",
+    "Party":"D",
+    "Committee":[
+      "Executive Appropriations Committee",
+      "Higher Education Appropriations Subcommittee",
+      "House Education Committee",
+      "House Government Operations Committee",
+      "Legislative Management Committee"
+    ],
+    "Role":[
+      "Member",
+      "Member",
+      "Member",
+      "Member",
+      "Member"
+    ],
+    "Committee Count":5.0
+  },
+  {
+    "Bill Sponsor":"Hollins, S.",
+    "total_bills":2,
+    "passed_bills":0,
+    "failed_bills":2,
+    "pass_rate":0.0,
+    "Representative":"Sandra Hollins",
+    "Office":"State House",
+    "Party":"D",
+    "Committee":[
+      "Economic and Community Development Appropriations Subcommittee",
+      "House Health and Human Services Committee",
+      "House Law Enforcement and Criminal Justice Committee",
+      "House Rules Committee"
+    ],
+    "Role":[
+      "Member",
+      "Member",
+      "Member",
+      "Member"
+    ],
+    "Committee Count":4.0
+  },
+  {
+    "Bill Sponsor":"Ipson, D.",
+    "total_bills":7,
+    "passed_bills":7,
+    "failed_bills":0,
+    "pass_rate":100.0,
+    "Representative":"Don L. Ipson",
+    "Office":"State Senate",
+    "Party":"R",
+    "Committee":[
+      "Senate Law Enforcement and Criminal Justice Confirmation Committee",
+      "Transportation and Infrastructure Appropriations Subcommittee",
+      "Criminal Justice Appropriations Subcommittee",
+      "Senate Business and Labor Committee",
+      "Senate Judicial Confirmation Committee",
+      "Senate Rules Committee",
+      "Senate Transportation, Public Utilities, Energy, and Technology Committee",
+      "Senate Transportation, Public Utilities, Energy, and Technology Confirmation Committee"
+    ],
+    "Role":[
+      "Chair",
+      "Chair",
+      "Member",
+      "Member",
+      "Member",
+      "Member",
+      "Member",
+      "Member"
+    ],
+    "Committee Count":8.0
+  },
+  {
+    "Bill Sponsor":"Ivory, K.",
+    "total_bills":12,
+    "passed_bills":7,
+    "failed_bills":5,
+    "pass_rate":58.3,
+    "Representative":"Ken Ivory",
+    "Office":"State House",
+    "Party":"R",
+    "Committee":[
+      "House Business, Labor, and Commerce Committee",
+      "House Transportation Committee",
+      "Transportation and Infrastructure Appropriations Subcommittee"
+    ],
+    "Role":[
+      "Member",
+      "Member",
+      "Member"
+    ],
+    "Committee Count":3.0
+  },
+  {
+    "Bill Sponsor":"Jack, C.",
+    "total_bills":11,
+    "passed_bills":4,
+    "failed_bills":7,
+    "pass_rate":36.4,
+    "Representative":"Colin W. Jack",
+    "Office":"State House",
+    "Party":"R",
+    "Committee":[
+      "House Economic Development and Workforce Services Committee",
+      "House Public Utilities and Energy Committee",
+      "Social Services Appropriations Subcommittee"
+    ],
+    "Role":[
+      "Member",
+      "Member",
+      "Member"
+    ],
+    "Committee Count":3.0
+  },
+  {
+    "Bill Sponsor":"Johnson, J.",
+    "total_bills":7,
+    "passed_bills":4,
+    "failed_bills":3,
+    "pass_rate":57.1,
+    "Representative":"John D. Johnson",
+    "Office":"State Senate",
+    "Party":"R",
+    "Committee":[
+      "Senate Education Committee",
+      "Higher Education Appropriations Subcommittee",
+      "Public Education Appropriations Subcommittee",
+      "Rules Review and General Oversight Committee",
+      "Senate Economic Development and Workforce Services Committee",
+      "Senate Economic Development and Workforce Services Confirmation Committee",
+      "Senate Education Confirmation Committee"
+    ],
+    "Role":[
+      "Chair",
+      "Member",
+      "Member",
+      "Member",
+      "Member",
+      "Member",
+      "Member"
+    ],
+    "Committee Count":7.0
+  },
+  {
+    "Bill Sponsor":"Koford, J.",
+    "total_bills":5,
+    "passed_bills":4,
+    "failed_bills":1,
+    "pass_rate":80.0,
+    "Representative":"Jill Koford",
+    "Office":"State House",
+    "Party":"R",
+    "Committee":[
+      "General Government Appropriations Subcommittee",
+      "House Natural Resources, Agriculture, and Environment Committee",
+      "House Revenue and Taxation Committee"
+    ],
+    "Role":[
+      "Member",
+      "Member",
+      "Member"
+    ],
+    "Committee Count":3.0
+  },
+  {
+    "Bill Sponsor":"Kohler, M.",
+    "total_bills":8,
+    "passed_bills":2,
+    "failed_bills":6,
+    "pass_rate":25.0,
+    "Representative":"Michael L. Kohler",
+    "Office":"State House",
+    "Party":"R",
+    "Committee":[
+      "House Education Committee",
+      "House Natural Resources, Agriculture, and Environment Committee",
+      "Natural Resources, Agriculture, and Environmental Quality Appropriations Subcommittee"
+    ],
+    "Role":[
+      "Vice Chair",
+      "Member",
+      "Member"
+    ],
+    "Committee Count":3.0
+  },
+  {
+    "Bill Sponsor":"Kwan, K.",
+    "total_bills":5,
+    "passed_bills":3,
+    "failed_bills":2,
+    "pass_rate":60.0,
+    "Representative":"Karen Kwan",
+    "Office":"State Senate",
+    "Party":"D",
+    "Committee":[
+      "Executive Appropriations Committee",
+      "Higher Education Appropriations Subcommittee",
+      "Legislative Management Committee",
+      "Rules Review and General Oversight Committee",
+      "Senate Economic Development and Workforce Services Committee",
+      "Senate Economic Development and Workforce Services Confirmation Committee",
+      "Senate Ethics Committee",
+      "Senate Judicial Confirmation Committee",
+      "Senate Retirement and Independent Entities Confirmation Committee",
+      "Senate Rules Committee",
+      "Senate Transportation, Public Utilities, Energy, and Technology Committee",
+      "Senate Transportation, Public Utilities, Energy, and Technology Confirmation Committee",
+      "Transportation and Infrastructure Appropriations Subcommittee"
+    ],
+    "Role":[
+      "Member",
+      "Member",
+      "Member",
+      "Member",
+      "Member",
+      "Member",
+      "Member",
+      "Member",
+      "Member",
+      "Member",
+      "Member",
+      "Member",
+      "Member"
+    ],
+    "Committee Count":13.0
+  },
+  {
+    "Bill Sponsor":"Kyle, J.",
+    "total_bills":7,
+    "passed_bills":3,
+    "failed_bills":4,
+    "pass_rate":42.9,
+    "Representative":"Jason B. Kyle",
+    "Office":"State House",
+    "Party":"R",
+    "Committee":[
+      "House Business, Labor, and Commerce Committee",
+      "Economic and Community Development Appropriations Subcommittee",
+      "House Revenue and Taxation Committee"
+    ],
+    "Role":[
+      "Vice Chair",
+      "Member",
+      "Member"
+    ],
+    "Committee Count":3.0
+  },
+  {
+    "Bill Sponsor":"Lee, T.",
+    "total_bills":7,
+    "passed_bills":5,
+    "failed_bills":2,
+    "pass_rate":71.4,
+    "Representative":"Trevor Lee",
+    "Office":"State House",
+    "Party":"R",
+    "Committee":[
+      "House Political Subdivisions Committee",
+      "Higher Education Appropriations Subcommittee",
+      "House Law Enforcement and Criminal Justice Committee",
+      "House Rules Committee"
+    ],
+    "Role":[
+      "Vice Chair",
+      "Member",
+      "Member",
+      "Member"
+    ],
+    "Committee Count":4.0
+  },
+  {
+    "Bill Sponsor":"Lisonbee, K.",
+    "total_bills":12,
+    "passed_bills":7,
+    "failed_bills":5,
+    "pass_rate":58.3,
+    "Representative":"Karianne Lisonbee",
+    "Office":"State House",
+    "Party":"R",
+    "Committee":[
+      "Criminal Justice Appropriations Subcommittee",
+      "Executive Appropriations Committee",
+      "House Education Committee",
+      "House Judiciary Committee",
+      "Legislative Management Committee"
+    ],
+    "Role":[
+      "Member",
+      "Member",
+      "Member",
+      "Member",
+      "Member"
+    ],
+    "Committee Count":5.0
+  },
+  {
+    "Bill Sponsor":"Loubet, A.",
+    "total_bills":8,
+    "passed_bills":4,
+    "failed_bills":4,
+    "pass_rate":50.0,
+    "Representative":"Anthony E. Loubet",
+    "Office":"State House",
+    "Party":"R",
+    "Committee":[
+      "General Government Appropriations Subcommittee",
+      "House Government Operations Committee",
+      "House Judiciary Committee"
+    ],
+    "Role":[
+      "Vice Chair",
+      "Member",
+      "Member"
+    ],
+    "Committee Count":3.0
+  },
+  {
+    "Bill Sponsor":"MacPherson, M.",
+    "total_bills":12,
+    "passed_bills":4,
+    "failed_bills":8,
+    "pass_rate":33.3,
+    "Representative":"Matt MacPherson",
+    "Office":"State House",
+    "Party":"R",
+    "Committee":[
+      "Public Education Appropriations Subcommittee",
+      "House Education Committee",
+      "House Government Operations Committee"
+    ],
+    "Role":[
+      "House Vice Chair",
+      "Member",
+      "Member"
+    ],
+    "Committee Count":3.0
+  },
+  {
+    "Bill Sponsor":"Maloy, A. Cory",
+    "total_bills":8,
+    "passed_bills":5,
+    "failed_bills":3,
+    "pass_rate":62.5,
+    "Representative":null,
+    "Office":null,
+    "Party":null,
+    "Committee":null,
+    "Role":null,
+    "Committee Count":null
+  },
+  {
+    "Bill Sponsor":"Matthews, A.",
+    "total_bills":4,
+    "passed_bills":2,
+    "failed_bills":2,
+    "pass_rate":50.0,
+    "Representative":"Ashlee Matthews",
+    "Office":"State House",
+    "Party":"D",
+    "Committee":[
+      "House Business, Labor, and Commerce Committee",
+      "House Ethics Committee",
+      "House Rules Committee",
+      "House Transportation Committee",
+      "Transportation and Infrastructure Appropriations Subcommittee"
+    ],
+    "Role":[
+      "Member",
+      "Member",
+      "Member",
+      "Member",
+      "Member"
+    ],
+    "Committee Count":5.0
+  },
+  {
+    "Bill Sponsor":"Mauga, V.",
+    "total_bills":6,
+    "passed_bills":3,
+    "failed_bills":3,
+    "pass_rate":50.0,
+    "Representative":"Verona Mauga",
+    "Office":"State House",
+    "Party":"D",
+    "Committee":[
+      "Economic and Community Development Appropriations Subcommittee",
+      "House Economic Development and Workforce Services Committee",
+      "House Judiciary Committee"
+    ],
+    "Role":[
+      "Member",
+      "Member",
+      "Member"
+    ],
+    "Committee Count":3.0
+  },
+  {
+    "Bill Sponsor":"McCay, D.",
+    "total_bills":14,
+    "passed_bills":8,
+    "failed_bills":6,
+    "pass_rate":57.1,
+    "Representative":"Daniel McCay",
+    "Office":"State Senate",
+    "Party":"R",
+    "Committee":[
+      "Rules Review and General Oversight Committee",
+      "Senate Revenue and Taxation Committee",
+      "Senate Revenue and Taxation Confirmation Committee",
+      "Natural Resources, Agriculture, and Environmental Quality Appropriations Subcommittee",
+      "Senate Business and Labor Committee",
+      "Senate Business and Labor Confirmation Committee",
+      "Senate Judicial Confirmation Committee",
+      "Senate Rules Committee",
+      "Transportation and Infrastructure Appropriations Subcommittee"
+    ],
+    "Role":[
+      "Chair",
+      "Chair",
+      "Chair",
+      "Member",
+      "Member",
+      "Member",
+      "Member",
+      "Member",
+      "Member"
+    ],
+    "Committee Count":9.0
+  },
+  {
+    "Bill Sponsor":"McKell, M.",
+    "total_bills":19,
+    "passed_bills":12,
+    "failed_bills":7,
+    "pass_rate":63.2,
+    "Representative":"Michael K. McKell",
+    "Office":"State Senate",
+    "Party":"R",
+    "Committee":[
+      "Executive Appropriations Committee",
+      "General Government Appropriations Subcommittee",
+      "Higher Education Appropriations Subcommittee",
+      "Legislative Management Committee",
+      "Senate Education Committee",
+      "Senate Education Confirmation Committee",
+      "Senate Ethics Committee",
+      "Senate Government Operations and Political Subdivisions Committee",
+      "Senate Judiciary Confirmation Committee",
+      "Senate Judiciary, Law Enforcement, and Criminal Justice Committee"
+    ],
+    "Role":[
+      "Member",
+      "Member",
+      "Member",
+      "Member",
+      "Member",
+      "Member",
+      "Member",
+      "Member",
+      "Member",
+      "Member"
+    ],
+    "Committee Count":10.0
+  },
+  {
+    "Bill Sponsor":"Miller, G.",
+    "total_bills":3,
+    "passed_bills":1,
+    "failed_bills":2,
+    "pass_rate":33.3,
+    "Representative":"Grant Amjad Miller",
+    "Office":"State House",
+    "Party":"D",
+    "Committee":[
+      "Criminal Justice Appropriations Subcommittee",
+      "House Economic Development and Workforce Services Committee",
+      "House Judiciary Committee"
+    ],
+    "Role":[
+      "Member",
+      "Member",
+      "Member"
+    ],
+    "Committee Count":3.0
+  },
+  {
+    "Bill Sponsor":"Miller, T.",
+    "total_bills":5,
+    "passed_bills":4,
+    "failed_bills":1,
+    "pass_rate":80.0,
+    "Representative":"Tracy J. Miller",
+    "Office":"State House",
+    "Party":"R",
+    "Committee":[
+      "House Education Committee",
+      "House Political Subdivisions Committee",
+      "Public Education Appropriations Subcommittee"
+    ],
+    "Role":[
+      "Member",
+      "Member",
+      "Member"
+    ],
+    "Committee Count":3.0
+  },
+  {
+    "Bill Sponsor":"Millner, A.",
+    "total_bills":5,
+    "passed_bills":3,
+    "failed_bills":2,
+    "pass_rate":60.0,
+    "Representative":"Ann Millner",
+    "Office":"State Senate",
+    "Party":"R",
+    "Committee":[
+      "School Security Task Force",
+      "Senate Economic Development and Workforce Services Committee",
+      "Senate Economic Development and Workforce Services Confirmation Committee",
+      "Senate Education Confirmation Committee",
+      "Senate Ethics Committee",
+      "Higher Education Appropriations Subcommittee",
+      "Public Education Appropriations Subcommittee",
+      "Senate Transportation, Public Utilities, Energy, and Technology Committee",
+      "Senate Transportation, Public Utilities, Energy, and Technology Confirmation Committee"
+    ],
+    "Role":[
+      "Chair",
+      "Chair",
+      "Chair",
+      "Chair",
+      "Chair",
+      "Senate Chair",
+      "Member",
+      "Member",
+      "Member"
+    ],
+    "Committee Count":9.0
+  },
+  {
+    "Bill Sponsor":"Monson, L.",
+    "total_bills":3,
+    "passed_bills":2,
+    "failed_bills":1,
+    "pass_rate":66.7,
+    "Representative":"Logan J. Monson",
+    "Office":"State House",
+    "Party":"R",
+    "Committee":[
+      "House Health and Human Services Committee",
+      "House Natural Resources, Agriculture, and Environment Committee",
+      "Natural Resources, Agriculture, and Environmental Quality Appropriations Subcommittee"
+    ],
+    "Role":[
+      "Member",
+      "Member",
+      "Member"
+    ],
+    "Committee Count":3.0
+  },
+  {
+    "Bill Sponsor":"Moss, C.",
+    "total_bills":7,
+    "passed_bills":2,
+    "failed_bills":5,
+    "pass_rate":28.6,
+    "Representative":"Carol S. Moss",
+    "Office":"State House",
+    "Party":"D",
+    "Committee":[
+      "House Education Committee",
+      "House Public Utilities and Energy Committee",
+      "Legislative Process Committee",
+      "Public Education Appropriations Subcommittee"
+    ],
+    "Role":[
+      "Member",
+      "Member",
+      "Member",
+      "Member"
+    ],
+    "Committee Count":4.0
+  },
+  {
+    "Bill Sponsor":"Moss, J.",
+    "total_bills":4,
+    "passed_bills":3,
+    "failed_bills":1,
+    "pass_rate":75.0,
+    "Representative":"Jefferson Moss",
+    "Office":"State House",
+    "Party":"R",
+    "Committee":[
+      "Economic and Community Development Appropriations Subcommittee",
+      "Executive Appropriations Committee",
+      "House Economic Development and Workforce Services Committee",
+      "House Education Committee",
+      "House Legislative Expense Oversight Committee",
+      "House Public Utilities and Energy Committee",
+      "Legislative Audit Subcommittee",
+      "Legislative Management Committee"
+    ],
+    "Role":[
+      "Member",
+      "Member",
+      "Member",
+      "Member",
+      "Member",
+      "Member",
+      "Member",
+      "Member"
+    ],
+    "Committee Count":8.0
+  },
+  {
+    "Bill Sponsor":"Musselman, CR.",
+    "total_bills":10,
+    "passed_bills":0,
+    "failed_bills":10,
+    "pass_rate":0.0,
+    "Representative":null,
+    "Office":null,
+    "Party":null,
+    "Committee":null,
+    "Role":null,
+    "Committee Count":null
+  },
+  {
+    "Bill Sponsor":"Nguyen, H.",
+    "total_bills":2,
+    "passed_bills":1,
+    "failed_bills":1,
+    "pass_rate":50.0,
+    "Representative":"Hoang Nguyen",
+    "Office":"State House",
+    "Party":"D",
+    "Committee":[
+      "House Business, Labor, and Commerce Committee",
+      "House Revenue and Taxation Committee",
+      "Natural Resources, Agriculture, and Environmental Quality Appropriations Subcommittee"
+    ],
+    "Role":[
+      "Member",
+      "Member",
+      "Member"
+    ],
+    "Committee Count":3.0
+  },
+  {
+    "Bill Sponsor":"Okerlund, C.",
+    "total_bills":2,
+    "passed_bills":2,
+    "failed_bills":0,
+    "pass_rate":100.0,
+    "Representative":"Clinton D. Okerlund",
+    "Office":"State House",
+    "Party":"R",
+    "Committee":[
+      "Economic and Community Development Appropriations Subcommittee",
+      "House Revenue and Taxation Committee",
+      "House Transportation Committee"
+    ],
+    "Role":[
+      "Member",
+      "Member",
+      "Member"
+    ],
+    "Committee Count":3.0
+  },
+  {
+    "Bill Sponsor":"Owens, D.",
+    "total_bills":16,
+    "passed_bills":4,
+    "failed_bills":12,
+    "pass_rate":25.0,
+    "Representative":"Derrin R. Owens",
+    "Office":"State Senate",
+    "Party":"R",
+    "Committee":[
+      "Senate Natural Resources, Agriculture, and Environment Committee",
+      "Senate Natural Resources, Agriculture, and Environment Confirmation Committee",
+      "Criminal Justice Appropriations Subcommittee",
+      "Economic and Community Development Appropriations Subcommittee",
+      "School Security Task Force",
+      "Senate Economic Development and Workforce Services Committee",
+      "Senate Economic Development and Workforce Services Confirmation Committee",
+      "Senate Law Enforcement and Criminal Justice Confirmation Committee"
+    ],
+    "Role":[
+      "Chair",
+      "Chair",
+      "Member",
+      "Member",
+      "Member",
+      "Member",
+      "Member",
+      "Member"
+    ],
+    "Committee Count":8.0
+  },
+  {
+    "Bill Sponsor":"Owens, D.",
+    "total_bills":16,
+    "passed_bills":4,
+    "failed_bills":12,
+    "pass_rate":25.0,
+    "Representative":"Doug Owens",
+    "Office":"State House",
+    "Party":"D",
+    "Committee":[
+      "House Ethics Committee",
+      "Transportation and Infrastructure Appropriations Subcommittee",
+      "Executive Appropriations Committee",
+      "House Economic Development and Workforce Services Committee",
+      "House Natural Resources, Agriculture, and Environment Committee",
+      "Legislative Management Committee"
+    ],
+    "Role":[
+      "Vice Chair",
+      "Vice Chair",
+      "Member",
+      "Member",
+      "Member",
+      "Member"
+    ],
+    "Committee Count":6.0
+  },
+  {
+    "Bill Sponsor":"Owens, DR.",
+    "total_bills":15,
+    "passed_bills":0,
+    "failed_bills":15,
+    "pass_rate":0.0,
+    "Representative":null,
+    "Office":null,
+    "Party":null,
+    "Committee":null,
+    "Role":null,
+    "Committee Count":null
+  },
+  {
+    "Bill Sponsor":"Peck, N.",
+    "total_bills":10,
+    "passed_bills":2,
+    "failed_bills":8,
+    "pass_rate":20.0,
+    "Representative":"Nicholeen P. Peck",
+    "Office":"State House",
+    "Party":"R",
+    "Committee":[
+      "House Education Committee",
+      "House Public Utilities and Energy Committee",
+      "Social Services Appropriations Subcommittee"
+    ],
+    "Role":[
+      "Member",
+      "Member",
+      "Member"
+    ],
+    "Committee Count":3.0
+  },
+  {
+    "Bill Sponsor":"Petersen, M.",
+    "total_bills":4,
+    "passed_bills":1,
+    "failed_bills":3,
+    "pass_rate":25.0,
+    "Representative":"Michael J. Petersen",
+    "Office":"State House",
+    "Party":"R",
+    "Committee":[
+      "House Government Operations Committee",
+      "Higher Education Appropriations Subcommittee",
+      "House Transportation Committee"
+    ],
+    "Role":[
+      "Vice Chair",
+      "Member",
+      "Member"
+    ],
+    "Committee Count":3.0
+  },
+  {
+    "Bill Sponsor":"Peterson, K.",
+    "total_bills":10,
+    "passed_bills":9,
+    "failed_bills":1,
+    "pass_rate":90.0,
+    "Representative":"Karen M. Peterson",
+    "Office":"State House",
+    "Party":"R",
+    "Committee":[
+      "Higher Education Appropriations Subcommittee",
+      "House Rules Committee",
+      "House Education Committee",
+      "House Political Subdivisions Committee"
+    ],
+    "Role":[
+      "House Chair",
+      "Vice Chair",
+      "Member",
+      "Member"
+    ],
+    "Committee Count":4.0
+  },
+  {
+    "Bill Sponsor":"Peterson, T.",
+    "total_bills":10,
+    "passed_bills":5,
+    "failed_bills":5,
+    "pass_rate":50.0,
+    "Representative":"Thomas W. Peterson",
+    "Office":"State House",
+    "Party":"R",
+    "Committee":[
+      "Economic and Community Development Appropriations Subcommittee",
+      "House Business, Labor, and Commerce Committee",
+      "House Public Utilities and Energy Committee"
+    ],
+    "Role":[
+      "Vice Chair",
+      "Member",
+      "Member"
+    ],
+    "Committee Count":3.0
+  },
+  {
+    "Bill Sponsor":"Peterson, V.",
+    "total_bills":13,
+    "passed_bills":11,
+    "failed_bills":2,
+    "pass_rate":84.6,
+    "Representative":"Val L. Peterson",
+    "Office":"State House",
+    "Party":"R",
+    "Committee":[
+      "Executive Appropriations Committee",
+      "House Education Committee",
+      "House Law Enforcement and Criminal Justice Committee"
+    ],
+    "Role":[
+      "House Chair",
+      "Member",
+      "Member"
+    ],
+    "Committee Count":3.0
+  },
+  {
+    "Bill Sponsor":"Pierucci, C.",
+    "total_bills":14,
+    "passed_bills":7,
+    "failed_bills":7,
+    "pass_rate":50.0,
+    "Representative":"Candice B. Pierucci",
+    "Office":"State House",
+    "Party":"R",
+    "Committee":[
+      "House Education Committee",
+      "House Government Operations Committee",
+      "Legislative Process Committee",
+      "Public Education Appropriations Subcommittee"
+    ],
+    "Role":[
+      "Chair",
+      "Member",
+      "Member",
+      "Member"
+    ],
+    "Committee Count":4.0
+  },
+  {
+    "Bill Sponsor":"Pitcher, S.",
+    "total_bills":23,
+    "passed_bills":13,
+    "failed_bills":10,
+    "pass_rate":56.5,
+    "Representative":"Stephanie Pitcher",
+    "Office":"State Senate",
+    "Party":"D",
+    "Committee":[
+      "Criminal Justice Appropriations Subcommittee",
+      "Economic and Community Development Appropriations Subcommittee",
+      "Senate Business and Labor Committee",
+      "Senate Business and Labor Confirmation Committee",
+      "Senate Judicial Confirmation Committee",
+      "Senate Judiciary Confirmation Committee",
+      "Senate Judiciary, Law Enforcement, and Criminal Justice Committee",
+      "Senate Law Enforcement and Criminal Justice Confirmation Committee"
+    ],
+    "Role":[
+      "Member",
+      "Member",
+      "Member",
+      "Member",
+      "Member",
+      "Member",
+      "Member",
+      "Member"
+    ],
+    "Committee Count":8.0
+  },
+  {
+    "Bill Sponsor":"Plumb, J.",
+    "total_bills":22,
+    "passed_bills":13,
+    "failed_bills":9,
+    "pass_rate":59.1,
+    "Representative":"Jen Plumb",
+    "Office":"State Senate",
+    "Party":"D",
+    "Committee":[
+      "Executive Appropriations Committee",
+      "General Government Appropriations Subcommittee",
+      "Legislative Management Committee",
+      "Senate Ethics Committee",
+      "Senate Government Operations and Political Subdivisions Committee",
+      "Senate Government Operations Confirmation Committee",
+      "Senate Health and Human Services Committee",
+      "Senate Health and Human Services Confirmation Committee",
+      "Senate Natural Resources, Agriculture, and Environment Confirmation Committee",
+      "Senate Political Subdivisions Confirmation Committee",
+      "Senate Retirement and Independent Entities Confirmation Committee",
+      "Senate Revenue and Taxation Confirmation Committee",
+      "Social Services Appropriations Subcommittee"
+    ],
+    "Role":[
+      "Member",
+      "Member",
+      "Member",
+      "Member",
+      "Member",
+      "Member",
+      "Member",
+      "Member",
+      "Member",
+      "Member",
+      "Member",
+      "Member",
+      "Member"
+    ],
+    "Committee Count":13.0
+  },
+  {
+    "Bill Sponsor":"Riebe, K.",
+    "total_bills":5,
+    "passed_bills":1,
+    "failed_bills":4,
+    "pass_rate":20.0,
+    "Representative":"Kathleen A. Riebe",
+    "Office":"State Senate",
+    "Party":"D",
+    "Committee":[
+      "Executive Appropriations Committee",
+      "Higher Education Appropriations Subcommittee",
+      "Legislative Management Committee",
+      "Senate Education Committee",
+      "Senate Education Confirmation Committee",
+      "Senate Natural Resources, Agriculture, and Environment Confirmation Committee",
+      "Senate Transportation, Public Utilities, Energy, and Technology Committee",
+      "Senate Transportation, Public Utilities, Energy, and Technology Confirmation Committee",
+      "Transportation and Infrastructure Appropriations Subcommittee"
+    ],
+    "Role":[
+      "Member",
+      "Member",
+      "Member",
+      "Member",
+      "Member",
+      "Member",
+      "Member",
+      "Member",
+      "Member"
+    ],
+    "Committee Count":9.0
+  },
+  {
+    "Bill Sponsor":"Roberts, C.",
+    "total_bills":2,
+    "passed_bills":2,
+    "failed_bills":0,
+    "pass_rate":100.0,
+    "Representative":"Calvin Roberts",
+    "Office":"State House",
+    "Party":"R",
+    "Committee":[
+      "House Business, Labor, and Commerce Committee",
+      "House Transportation Committee",
+      "Transportation and Infrastructure Appropriations Subcommittee"
+    ],
+    "Role":[
+      "Member",
+      "Member",
+      "Member"
+    ],
+    "Committee Count":3.0
+  },
+  {
+    "Bill Sponsor":"Romero, A.",
+    "total_bills":6,
+    "passed_bills":0,
+    "failed_bills":6,
+    "pass_rate":0.0,
+    "Representative":"Angela Romero",
+    "Office":"State House",
+    "Party":"D",
+    "Committee":[
+      "Criminal Justice Appropriations Subcommittee",
+      "Executive Appropriations Committee",
+      "House Ethics Committee",
+      "House Government Operations Committee",
+      "House Legislative Expense Oversight Committee",
+      "House Transportation Committee",
+      "Legislative Audit Subcommittee",
+      "Legislative Management Committee"
+    ],
+    "Role":[
+      "Member",
+      "Member",
+      "Member",
+      "Member",
+      "Member",
+      "Member",
+      "Member",
+      "Member"
+    ],
+    "Committee Count":8.0
+  },
+  {
+    "Bill Sponsor":"Sandall, S.",
+    "total_bills":14,
+    "passed_bills":13,
+    "failed_bills":1,
+    "pass_rate":92.9,
+    "Representative":"Scott D. Sandall",
+    "Office":"State Senate",
+    "Party":"R",
+    "Committee":[
+      "Executive Appropriations Committee",
+      "Economic and Community Development Appropriations Subcommittee",
+      "Legislative Process Committee",
+      "Natural Resources, Agriculture, and Environmental Quality Appropriations Subcommittee",
+      "Senate Business and Labor Committee",
+      "Senate Business and Labor Confirmation Committee",
+      "Senate Ethics Committee",
+      "Senate Government Operations and Political Subdivisions Committee",
+      "Senate Government Operations Confirmation Committee",
+      "Senate Natural Resources, Agriculture, and Environment Committee",
+      "Senate Natural Resources, Agriculture, and Environment Confirmation Committee",
+      "Senate Political Subdivisions Confirmation Committee"
+    ],
+    "Role":[
+      "Senate Vice Chair",
+      "Member",
+      "Member",
+      "Member",
+      "Member",
+      "Member",
+      "Member",
+      "Member",
+      "Member",
+      "Member",
+      "Member",
+      "Member"
+    ],
+    "Committee Count":12.0
+  },
+  {
+    "Bill Sponsor":"Sawyer, J.",
+    "total_bills":1,
+    "passed_bills":1,
+    "failed_bills":0,
+    "pass_rate":100.0,
+    "Representative":"Jake Sawyer",
+    "Office":"State House",
+    "Party":"R",
+    "Committee":[
+      "House Business, Labor, and Commerce Committee",
+      "House Transportation Committee",
+      "Transportation and Infrastructure Appropriations Subcommittee"
+    ],
+    "Role":[
+      "Member",
+      "Member",
+      "Member"
+    ],
+    "Committee Count":3.0
+  },
+  {
+    "Bill Sponsor":"Schultz, M.",
+    "total_bills":2,
+    "passed_bills":1,
+    "failed_bills":1,
+    "pass_rate":50.0,
+    "Representative":"Mike Schultz",
+    "Office":"State House",
+    "Party":"R",
+    "Committee":[
+      "House Legislative Expense Oversight Committee",
+      "Legislative Audit Subcommittee",
+      "Legislative Management Committee",
+      "Executive Appropriations Committee",
+      "House Business, Labor, and Commerce Committee",
+      "House Natural Resources, Agriculture, and Environment Committee"
+    ],
+    "Role":[
+      "Chair",
+      "Co-chair",
+      "Vice Chair",
+      "Member",
+      "Member",
+      "Member"
+    ],
+    "Committee Count":6.0
+  },
+  {
+    "Bill Sponsor":"Shallenberger, D.",
+    "total_bills":4,
+    "passed_bills":4,
+    "failed_bills":0,
+    "pass_rate":100.0,
+    "Representative":"David Shallenberger",
+    "Office":"State House",
+    "Party":"R",
+    "Committee":[
+      "House Economic Development and Workforce Services Committee",
+      "House Natural Resources, Agriculture, and Environment Committee",
+      "Transportation and Infrastructure Appropriations Subcommittee"
+    ],
+    "Role":[
+      "Member",
+      "Member",
+      "Member"
+    ],
+    "Committee Count":3.0
+  },
+  {
+    "Bill Sponsor":"Shelley, T.",
+    "total_bills":3,
+    "passed_bills":2,
+    "failed_bills":1,
+    "pass_rate":66.7,
+    "Representative":"Troy Shelley",
+    "Office":"State House",
+    "Party":"R",
+    "Committee":[
+      "House Economic Development and Workforce Services Committee",
+      "House Public Utilities and Energy Committee",
+      "Natural Resources, Agriculture, and Environmental Quality Appropriations Subcommittee"
+    ],
+    "Role":[
+      "Member",
+      "Member",
+      "Member"
+    ],
+    "Committee Count":3.0
+  },
+  {
+    "Bill Sponsor":"Shepherd, L.",
+    "total_bills":5,
+    "passed_bills":1,
+    "failed_bills":4,
+    "pass_rate":20.0,
+    "Representative":"Lisa Shepherd",
+    "Office":"State House",
+    "Party":"R",
+    "Committee":[
+      "General Government Appropriations Subcommittee",
+      "House Law Enforcement and Criminal Justice Committee",
+      "House Revenue and Taxation Committee"
+    ],
+    "Role":[
+      "Member",
+      "Member",
+      "Member"
+    ],
+    "Committee Count":3.0
+  },
+  {
+    "Bill Sponsor":"Shipp, RP.",
+    "total_bills":9,
+    "passed_bills":0,
+    "failed_bills":9,
+    "pass_rate":0.0,
+    "Representative":null,
+    "Office":null,
+    "Party":null,
+    "Committee":null,
+    "Role":null,
+    "Committee Count":null
+  },
+  {
+    "Bill Sponsor":"Snider, C.",
+    "total_bills":15,
+    "passed_bills":13,
+    "failed_bills":2,
+    "pass_rate":86.7,
+    "Representative":"Casey Snider",
+    "Office":"State House",
+    "Party":"R",
+    "Committee":[
+      "Executive Appropriations Committee",
+      "House Natural Resources, Agriculture, and Environment Committee",
+      "House Public Utilities and Energy Committee",
+      "Legislative Management Committee",
+      "Natural Resources, Agriculture, and Environmental Quality Appropriations Subcommittee"
+    ],
+    "Role":[
+      "Member",
+      "Member",
+      "Member",
+      "Member",
+      "Member"
+    ],
+    "Committee Count":5.0
+  },
+  {
+    "Bill Sponsor":"Stevenson, J.",
+    "total_bills":10,
+    "passed_bills":10,
+    "failed_bills":0,
+    "pass_rate":100.0,
+    "Representative":"Jerry W. Stevenson",
+    "Office":"State Senate",
+    "Party":"R",
+    "Committee":[
+      "Executive Appropriations Committee",
+      "Economic and Community Development Appropriations Subcommittee",
+      "Natural Resources, Agriculture, and Environmental Quality Appropriations Subcommittee",
+      "Senate Economic Development and Workforce Services Committee",
+      "Senate Economic Development and Workforce Services Confirmation Committee",
+      "Senate Health and Human Services Committee",
+      "Senate Health and Human Services Confirmation Committee",
+      "Senate Natural Resources, Agriculture, and Environment Committee"
+    ],
+    "Role":[
+      "Senate Chair",
+      "Member",
+      "Member",
+      "Member",
+      "Member",
+      "Member",
+      "Member",
+      "Member"
+    ],
+    "Committee Count":8.0
+  },
+  {
+    "Bill Sponsor":"Stoddard, A.",
+    "total_bills":12,
+    "passed_bills":4,
+    "failed_bills":8,
+    "pass_rate":33.3,
+    "Representative":"Andrew Stoddard",
+    "Office":"State House",
+    "Party":"D",
+    "Committee":[
+      "General Government Appropriations Subcommittee",
+      "House Ethics Committee",
+      "House Government Operations Committee",
+      "House Law Enforcement and Criminal Justice Committee",
+      "Legislative Process Committee"
+    ],
+    "Role":[
+      "Member",
+      "Member",
+      "Member",
+      "Member",
+      "Member"
+    ],
+    "Committee Count":5.0
+  },
+  {
+    "Bill Sponsor":"Stratton, K.",
+    "total_bills":12,
+    "passed_bills":8,
+    "failed_bills":4,
+    "pass_rate":66.7,
+    "Representative":"Keven J. Stratton",
+    "Office":"State Senate",
+    "Party":"R",
+    "Committee":[
+      "Social Services Appropriations Subcommittee",
+      "Senate Government Operations Confirmation Committee",
+      "Senate Health and Human Services Committee",
+      "Senate Health and Human Services Confirmation Committee",
+      "Senate Natural Resources, Agriculture, and Environment Committee",
+      "Senate Natural Resources, Agriculture, and Environment Confirmation Committee",
+      "Senate Rules Committee",
+      "Transportation and Infrastructure Appropriations Subcommittee"
+    ],
+    "Role":[
+      "Senate Chair",
+      "Member",
+      "Member",
+      "Member",
+      "Member",
+      "Member",
+      "Member",
+      "Member"
+    ],
+    "Committee Count":8.0
+  },
+  {
+    "Bill Sponsor":"Strong, MA.",
+    "total_bills":5,
+    "passed_bills":0,
+    "failed_bills":5,
+    "pass_rate":0.0,
+    "Representative":null,
+    "Office":null,
+    "Party":null,
+    "Committee":null,
+    "Role":null,
+    "Committee Count":null
+  },
+  {
+    "Bill Sponsor":"Teuscher, J.",
+    "total_bills":19,
+    "passed_bills":10,
+    "failed_bills":9,
+    "pass_rate":52.6,
+    "Representative":"Jordan D. Teuscher",
+    "Office":"State House",
+    "Party":"R",
+    "Committee":[
+      "House Rules Committee",
+      "Economic and Community Development Appropriations Subcommittee",
+      "House Business, Labor, and Commerce Committee",
+      "House Ethics Committee",
+      "House Political Subdivisions Committee"
+    ],
+    "Role":[
+      "Chair",
+      "Member",
+      "Member",
+      "Member",
+      "Member"
+    ],
+    "Committee Count":5.0
+  },
+  {
+    "Bill Sponsor":"Thatcher, D.",
+    "total_bills":1,
+    "passed_bills":0,
+    "failed_bills":1,
+    "pass_rate":0.0,
+    "Representative":"Daniel W. Thatcher",
+    "Office":"State Senate",
+    "Party":"R",
+    "Committee":[
+      "General Government Appropriations Subcommittee",
+      "Senate Government Operations and Political Subdivisions Committee",
+      "Senate Government Operations Confirmation Committee",
+      "Senate Health and Human Services Committee",
+      "Senate Health and Human Services Confirmation Committee",
+      "Senate Political Subdivisions Confirmation Committee",
+      "Social Services Appropriations Subcommittee"
+    ],
+    "Role":[
+      "Member",
+      "Member",
+      "Member",
+      "Member",
+      "Member",
+      "Member",
+      "Member"
+    ],
+    "Committee Count":7.0
+  },
+  {
+    "Bill Sponsor":"Thompson, J.",
+    "total_bills":4,
+    "passed_bills":2,
+    "failed_bills":2,
+    "pass_rate":50.0,
+    "Representative":"Jason E. Thompson",
+    "Office":"State House",
+    "Party":"R",
+    "Committee":[
+      "House Government Operations Committee",
+      "House Judiciary Committee",
+      "Public Education Appropriations Subcommittee"
+    ],
+    "Role":[
+      "Member",
+      "Member",
+      "Member"
+    ],
+    "Committee Count":3.0
+  },
+  {
+    "Bill Sponsor":"Thurston, N.",
+    "total_bills":13,
+    "passed_bills":7,
+    "failed_bills":6,
+    "pass_rate":53.8,
+    "Representative":"Norman K Thurston",
+    "Office":"State House",
+    "Party":"R",
+    "Committee":[
+      "General Government Appropriations Subcommittee",
+      "House Business, Labor, and Commerce Committee",
+      "House Transportation Committee",
+      "Rules Review and General Oversight Committee"
+    ],
+    "Role":[
+      "Chair",
+      "Member",
+      "Member",
+      "Member"
+    ],
+    "Committee Count":4.0
+  },
+  {
+    "Bill Sponsor":"Vickers, E.",
+    "total_bills":16,
+    "passed_bills":12,
+    "failed_bills":4,
+    "pass_rate":75.0,
+    "Representative":"Evan J. Vickers",
+    "Office":"State Senate",
+    "Party":"R",
+    "Committee":[
+      "General Government Appropriations Subcommittee",
+      "Senate Business and Labor Committee",
+      "Senate Business and Labor Confirmation Committee",
+      "Utah Behavioral Health Legislative Policy Committee",
+      "Higher Education Appropriations Subcommittee",
+      "Senate Government Operations and Political Subdivisions Committee",
+      "Senate Government Operations Confirmation Committee",
+      "Senate Legislative Expense Oversight Committee",
+      "Senate Political Subdivisions Confirmation Committee"
+    ],
+    "Role":[
+      "Chair",
+      "Chair",
+      "Chair",
+      "Chair",
+      "Member",
+      "Member",
+      "Member",
+      "Member",
+      "Member"
+    ],
+    "Committee Count":9.0
+  },
+  {
+    "Bill Sponsor":"Walter, N.",
+    "total_bills":14,
+    "passed_bills":10,
+    "failed_bills":4,
+    "pass_rate":71.4,
+    "Representative":null,
+    "Office":null,
+    "Party":null,
+    "Committee":null,
+    "Role":null,
+    "Committee Count":null
+  },
+  {
+    "Bill Sponsor":"Ward, R.",
+    "total_bills":12,
+    "passed_bills":6,
+    "failed_bills":6,
+    "pass_rate":50.0,
+    "Representative":"Raymond P. Ward",
+    "Office":"State House",
+    "Party":"R",
+    "Committee":[
+      "Social Services Appropriations Subcommittee",
+      "House Health and Human Services Committee",
+      "House Political Subdivisions Committee"
+    ],
+    "Role":[
+      "House Chair",
+      "Member",
+      "Member"
+    ],
+    "Committee Count":3.0
+  },
+  {
+    "Bill Sponsor":"Watkins, C.",
+    "total_bills":11,
+    "passed_bills":6,
+    "failed_bills":5,
+    "pass_rate":54.5,
+    "Representative":"Christine F. Watkins",
+    "Office":"State House",
+    "Party":"R",
+    "Committee":[
+      "Economic and Community Development Appropriations Subcommittee",
+      "House Natural Resources, Agriculture, and Environment Committee",
+      "House Public Utilities and Energy Committee"
+    ],
+    "Role":[
+      "Chair",
+      "Member",
+      "Member"
+    ],
+    "Committee Count":3.0
+  },
+  {
+    "Bill Sponsor":"Weiler, T.",
+    "total_bills":33,
+    "passed_bills":16,
+    "failed_bills":17,
+    "pass_rate":48.5,
+    "Representative":"Todd Weiler",
+    "Office":"State Senate",
+    "Party":"R",
+    "Committee":[
+      "Senate Judicial Confirmation Committee",
+      "Senate Judiciary, Law Enforcement, and Criminal Justice Committee",
+      "General Government Appropriations Subcommittee",
+      "Senate Business and Labor Committee",
+      "Senate Health and Human Services Confirmation Committee",
+      "Senate Judiciary Confirmation Committee",
+      "Senate Rules Committee",
+      "Social Services Appropriations Subcommittee"
+    ],
+    "Role":[
+      "Chair",
+      "Chair",
+      "Member",
+      "Member",
+      "Member",
+      "Member",
+      "Member",
+      "Member"
+    ],
+    "Committee Count":8.0
+  },
+  {
+    "Bill Sponsor":"Welton, D.",
+    "total_bills":10,
+    "passed_bills":6,
+    "failed_bills":4,
+    "pass_rate":60.0,
+    "Representative":"Douglas R. Welton",
+    "Office":"State House",
+    "Party":"R",
+    "Committee":[
+      "Transportation and Infrastructure Appropriations Subcommittee",
+      "House Education Committee",
+      "House Government Operations Committee"
+    ],
+    "Role":[
+      "Chair",
+      "Member",
+      "Member"
+    ],
+    "Committee Count":3.0
+  },
+  {
+    "Bill Sponsor":"Whyte, S.",
+    "total_bills":6,
+    "passed_bills":5,
+    "failed_bills":1,
+    "pass_rate":83.3,
+    "Representative":"Stephen L. Whyte",
+    "Office":"State House",
+    "Party":"R",
+    "Committee":[
+      "Public Education Appropriations Subcommittee",
+      "House Business, Labor, and Commerce Committee",
+      "House Law Enforcement and Criminal Justice Committee"
+    ],
+    "Role":[
+      "House Chair",
+      "Member",
+      "Member"
+    ],
+    "Committee Count":3.0
+  },
+  {
+    "Bill Sponsor":"Wilcox, R.",
+    "total_bills":15,
+    "passed_bills":9,
+    "failed_bills":6,
+    "pass_rate":60.0,
+    "Representative":"Ryan D. Wilcox",
+    "Office":"State House",
+    "Party":"R",
+    "Committee":[
+      "House Law Enforcement and Criminal Justice Committee",
+      "School Security Task Force",
+      "Higher Education Appropriations Subcommittee",
+      "House Business, Labor, and Commerce Committee",
+      "House Rules Committee",
+      "Legislative Process Committee"
+    ],
+    "Role":[
+      "Chair",
+      "Chair",
+      "Member",
+      "Member",
+      "Member",
+      "Member"
+    ],
+    "Committee Count":6.0
+  },
+  {
+    "Bill Sponsor":"Wilson, C.",
+    "total_bills":8,
+    "passed_bills":6,
+    "failed_bills":2,
+    "pass_rate":75.0,
+    "Representative":"Chris H. Wilson",
+    "Office":"State Senate",
+    "Party":"R",
+    "Committee":[
+      "Executive Appropriations Committee",
+      "Higher Education Appropriations Subcommittee",
+      "Legislative Management Committee",
+      "Senate Economic Development and Workforce Services Confirmation Committee",
+      "Senate Education Committee",
+      "Senate Revenue and Taxation Committee",
+      "Senate Revenue and Taxation Confirmation Committee",
+      "Senate Transportation, Public Utilities, Energy, and Technology Committee",
+      "Senate Transportation, Public Utilities, Energy, and Technology Confirmation Committee",
+      "Transportation and Infrastructure Appropriations Subcommittee",
+      "Utah Behavioral Health Legislative Policy Committee"
+    ],
+    "Role":[
+      "Member",
+      "Member",
+      "Member",
+      "Member",
+      "Member",
+      "Member",
+      "Member",
+      "Member",
+      "Member",
+      "Member",
+      "Member"
+    ],
+    "Committee Count":11.0
+  },
+  {
+    "Bill Sponsor":"Winterton, R.",
+    "total_bills":7,
+    "passed_bills":5,
+    "failed_bills":2,
+    "pass_rate":71.4,
+    "Representative":"Ronald M. Winterton",
+    "Office":"State Senate",
+    "Party":"R",
+    "Committee":[
+      "Senate Government Operations and Political Subdivisions Committee",
+      "Senate Government Operations Confirmation Committee",
+      "Senate Political Subdivisions Confirmation Committee",
+      "Natural Resources, Agriculture, and Environmental Quality Appropriations Subcommittee",
+      "Senate Rules Committee",
+      "Senate Transportation, Public Utilities, Energy, and Technology Committee",
+      "Senate Transportation, Public Utilities, Energy, and Technology Confirmation Committee",
+      "Transportation and Infrastructure Appropriations Subcommittee"
+    ],
+    "Role":[
+      "Chair",
+      "Chair",
+      "Chair",
+      "Member",
+      "Member",
+      "Member",
+      "Member",
+      "Member"
+    ],
+    "Committee Count":8.0
+  }
+]

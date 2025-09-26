@@ -18,7 +18,8 @@ def load_data(path):
 # File paths
 # -------------------------------
 # Ensure target folder exists
-save_dir = "repos/ElectionTime/streamlit_app"
+save_dir = "data/"
+
 os.makedirs(save_dir, exist_ok=True)
 
 # File paths

@@ -25,8 +25,8 @@ def load_data(path):
 # -------------------------------
 # Load data
 # -------------------------------
-geojson_path = "repos/ElectionTime/streamlit_app/data/reps_with_geo_data.geojson"
-json_path = "repos/ElectionTime/streamlit_app/data/reps_with_geo_data.json"
+geojson_path = "streamlit_app/data/reps_with_geo_data.geojson"
+json_path = "streamlit_app/data/reps_with_geo_data.json"
 
 # with open(geojson_path) as f:
 #     geojson = json.load(f)
