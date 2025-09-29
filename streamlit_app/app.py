@@ -343,6 +343,7 @@ with col1:
     rep_key = rep.get("rep_key", "")
     rep_bills = bills_with_rep[bills_with_rep["rep_key"] == rep_key].copy() if rep_key else pd.DataFrame()
 
+    row = rep_bills.iloc[0]
     # bill status column in bills_df
     bill_status_col = find_col(bills_df, ["Bill Status", "Status", "Outcome"])
 
@@ -364,7 +365,7 @@ with col1:
 
     # horizontal bar chart - normalized
     # status stacked bar (horizontal, normalized to 100%)
-    row = rep_bills.iloc[0]
+
 
     total = row["total_bills"] or 0
     passed = row["passed_bills"] or 0
@@ -400,6 +401,7 @@ with col1:
     # # ------------------------------------------# #
     # # --- aggregates - top level info
     # # ------------------------------------------# #
+    st.image(row["Img_URL"], use_container_width=True)
     st.metric("Pass rate", f"{pass_rate:.1f}%")
     k1, k2, k3 = st.columns(3)
     k1.metric("Failed", failed_bills)
@@ -408,40 +410,40 @@ with col1:
 
 
 
-# ==============================
-# Committees & Roles
-# ==============================
-
-st.subheader("Committee Assignments")
-
-# Identify which columns to use
-committee_col = find_col(reps_merged, ["Committee", "Committees", "committee"])
-role_col = find_col(reps_merged, ["Role", "Roles", "role"])
-
-# Extract lists for the selected representative
-comm_list = parse_list_column(rep.get(committee_col)) if committee_col else []
-role_list = parse_list_column(rep.get(role_col)) if role_col else []
-
-# Make sure lengths line up
-if len(comm_list) != len(role_list):
-    st.warning("⚠️ Committees and Roles list lengths don’t match for this representative.")
-    min_len = min(len(comm_list), len(role_list))
-    comm_list = comm_list[:min_len]
-    role_list = role_list[:min_len]
-
-# Display committees with corresponding roles
-if comm_list:
-    for c, r in zip(comm_list, role_list):
-        st.markdown(f"- **{c}** — {r}")
-else:
-    st.info("No committee data available for this representative.")
+# # ==============================
+# # Committees & Roles
+# # ==============================
+#
+# st.subheader("Committee Assignments")
+#
+# # Identify which columns to use
+# committee_col = find_col(reps_merged, ["Committee", "Committees", "committee"])
+# role_col = find_col(reps_merged, ["Role", "Roles", "role"])
+#
+# # Extract lists for the selected representative
+# comm_list = parse_list_column(rep.get(committee_col)) if committee_col else []
+# role_list = parse_list_column(rep.get(role_col)) if role_col else []
+#
+# # Make sure lengths line up
+# if len(comm_list) != len(role_list):
+#     st.warning("⚠️ Committees and Roles list lengths don’t match for this representative.")
+#     min_len = min(len(comm_list), len(role_list))
+#     comm_list = comm_list[:min_len]
+#     role_list = role_list[:min_len]
+#
+# # Display committees with corresponding roles
+# if comm_list:
+#     for c, r in zip(comm_list, role_list):
+#         st.markdown(f"- **{c}** — {r}")
+# else:
+#     st.info("No committee data available for this representative.")
 
 
 # ---------------------
 # Right column: bills overview & map
 # ---------------------
 with col2:
-    st.subheader("Bills overview")
+    # st.subheader("Bills overview")
     if rep_bills.empty:
         st.write("_No bills found for this rep via rep_key. (We will try a last-name fallback.)_")
         # fallback by last name match from bills_df
@@ -507,21 +509,21 @@ with col2:
         #     line = alt.Chart(ts).mark_line(point=True).encode(x="bill_date_parsed:T", y="count:Q").properties(height=180)
         #     st.altair_chart(line, use_container_width=True)
 
-        # show table with expanded columns
-        display_cols = [
-            find_col(rep_bills, ["Bill Number", "BillNumber", "bill_number"]),
-            "Bill Title",
-            bill_status_col,
-            "Date Passed",
-            "Effective Date",
-            rep_bills["bill_date_parsed"].name if "bill_date_parsed" in rep_bills else None,
-            find_col(rep_bills, ["Bill URL", "BillURL", "url"])
-        ]
-        display_cols = [c for c in display_cols if c]
-
-        rep_bills_sorted = rep_bills.sort_values(by="bill_date_parsed", ascending=False).reset_index(drop=True)
-
-        st.dataframe(rep_bills_sorted[display_cols], use_container_width=True)
+        # # show table with expanded columns
+        # display_cols = [
+        #     find_col(rep_bills, ["Bill Number", "BillNumber", "bill_number"]),
+        #     "Bill Title",
+        #     bill_status_col,
+        #     "Date Passed",
+        #     "Effective Date",
+        #     rep_bills["bill_date_parsed"].name if "bill_date_parsed" in rep_bills else None,
+        #     find_col(rep_bills, ["Bill URL", "BillURL", "url"])
+        # ]
+        # display_cols = [c for c in display_cols if c]
+        #
+        # rep_bills_sorted = rep_bills.sort_values(by="bill_date_parsed", ascending=False).reset_index(drop=True)
+        #
+        # st.dataframe(rep_bills_sorted[display_cols], use_container_width=True)
 
 
 # Map: use geometry from reps_merged (should be in geo)
@@ -570,7 +572,50 @@ with col2:
                 st.write("_No geometry or lat/lon available for this rep._")
         except Exception:
             st.write("_No geometry or lat/lon available for this rep._")
+# show table with expanded columns
+st.subheader("Bills overview")
+display_cols = [
+    find_col(rep_bills, ["Bill Number", "BillNumber", "bill_number"]),
+    "Bill Title",
+    bill_status_col,
+    "Date Passed",
+    "Effective Date",
+    rep_bills["bill_date_parsed"].name if "bill_date_parsed" in rep_bills else None,
+    find_col(rep_bills, ["Bill URL", "BillURL", "url"])
+]
+display_cols = [c for c in display_cols if c]
 
+rep_bills_sorted = rep_bills.sort_values(by="bill_date_parsed", ascending=False).reset_index(drop=True)
+
+st.dataframe(rep_bills_sorted[display_cols], use_container_width=True)
+
+# ==============================
+# Committees & Roles
+# ==============================
+
+st.subheader("Committee Assignments")
+
+# Identify which columns to use
+committee_col = find_col(reps_merged, ["Committee", "Committees", "committee"])
+role_col = find_col(reps_merged, ["Role", "Roles", "role"])
+
+# Extract lists for the selected representative
+comm_list = parse_list_column(rep.get(committee_col)) if committee_col else []
+role_list = parse_list_column(rep.get(role_col)) if role_col else []
+
+# Make sure lengths line up
+if len(comm_list) != len(role_list):
+    st.warning("⚠️ Committees and Roles list lengths don’t match for this representative.")
+    min_len = min(len(comm_list), len(role_list))
+    comm_list = comm_list[:min_len]
+    role_list = role_list[:min_len]
+
+# Display committees with corresponding roles
+if comm_list:
+    for c, r in zip(comm_list, role_list):
+        st.markdown(f"- **{c}** — {r}")
+else:
+    st.info("No committee data available for this representative.")
 # ---------------------
 # Bottom: quick export
 # ---------------------
