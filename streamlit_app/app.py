@@ -333,6 +333,21 @@ col1, col2 = st.columns([2, 3])
 with col1:
     st.subheader(selected_rep)
 
+    # --- District
+    district_col = find_col(reps_merged, ["DistrictKey", "District Key", "district key"])
+    district = rep.get(district_col) if district_col else None
+    if not district or pd.isna(district):
+        district = "Unknown"
+    if district[0].upper() == 'H':
+        chamber = "House District"
+        d_num = district[1:]
+        district = chamber + " " + d_num
+    if district[0].upper() == 'S':
+        chamber = "Senate District"
+        d_num = district[1:]
+        district = chamber + " " + d_num
+    st.markdown(f"{district}")
+
     # find KPI column names on the merged df (these should come from repKPIs)
     total_col = find_col(reps_merged, ["total_bills", "Total Bills", "total"])
     passed_col = find_col(reps_merged, ["passed_bills", "passed"])
@@ -363,6 +378,51 @@ with col1:
         failed_bills = total_bills - passed_bills
         pass_rate = (passed_bills / total_bills * 100) if total_bills else 0.0
 
+    # # horizontal bar chart - normalized
+    # # status stacked bar (horizontal, normalized to 100%)
+    #
+    #
+    # total = row["total_bills"] or 0
+    # passed = row["passed_bills"] or 0
+    # failed = row["failed_bills"] or 0
+    # unknown = max(0, total - (passed + failed))
+    #
+    # # Build a dataframe for the stacked bar
+    # data = pd.DataFrame({
+    #     "Status": ["Passed", "Failed", "Unknown"],
+    #     "Value": [passed, failed, unknown]
+    # })
+    #
+    # # Horizontal stacked bar, normalized to total
+    # chart = (
+    #     alt.Chart(data)
+    #     .mark_bar(size=40)  # thicker bar
+    #     .encode(
+    #         x=alt.X("Value:Q", stack="normalize", axis=alt.Axis(format="%", labelPadding=10, tickSize=5)),
+    #         y=alt.value(0),  # single horizontal bar
+    #         color=alt.Color("Status:N", scale=alt.Scale(
+    #             domain=["Passed", "Failed", "Unknown"],
+    #             range=["green", "red", "#f7f7f7"]  # white/light gray for unknown
+    #         ),
+    #                         legend=None
+    #                         ),
+    #         tooltip=["Status", "Value"       ]
+    #     )
+    #     .properties(height=50)
+    # )
+    #
+    # st.altair_chart(chart, use_container_width=True)
+
+    # # ------------------------------------------# #
+    # # --- aggregates - top level info
+    # # ------------------------------------------# #
+    st.image(row["Img_URL"], use_container_width=True)
+
+    k1, k2, k3 = st.columns(3)
+    k1.metric("Failed", failed_bills)
+    k2.metric("Passed", passed_bills)
+    k3.metric("Total bills", total_bills)
+
     # horizontal bar chart - normalized
     # status stacked bar (horizontal, normalized to 100%)
 
@@ -371,6 +431,12 @@ with col1:
     passed = row["passed_bills"] or 0
     failed = row["failed_bills"] or 0
     unknown = max(0, total - (passed + failed))
+
+    # --------------------------------
+    # ---- general info -------------
+    # --------------------------------
+
+
 
     # Build a dataframe for the stacked bar
     data = pd.DataFrame({
@@ -398,47 +464,7 @@ with col1:
 
     st.altair_chart(chart, use_container_width=True)
 
-    # # ------------------------------------------# #
-    # # --- aggregates - top level info
-    # # ------------------------------------------# #
-    st.image(row["Img_URL"], use_container_width=True)
     st.metric("Pass rate", f"{pass_rate:.1f}%")
-    k1, k2, k3 = st.columns(3)
-    k1.metric("Failed", failed_bills)
-    k2.metric("Passed", passed_bills)
-    k3.metric("Total bills", total_bills)
-
-
-
-# # ==============================
-# # Committees & Roles
-# # ==============================
-#
-# st.subheader("Committee Assignments")
-#
-# # Identify which columns to use
-# committee_col = find_col(reps_merged, ["Committee", "Committees", "committee"])
-# role_col = find_col(reps_merged, ["Role", "Roles", "role"])
-#
-# # Extract lists for the selected representative
-# comm_list = parse_list_column(rep.get(committee_col)) if committee_col else []
-# role_list = parse_list_column(rep.get(role_col)) if role_col else []
-#
-# # Make sure lengths line up
-# if len(comm_list) != len(role_list):
-#     st.warning("⚠️ Committees and Roles list lengths don’t match for this representative.")
-#     min_len = min(len(comm_list), len(role_list))
-#     comm_list = comm_list[:min_len]
-#     role_list = role_list[:min_len]
-#
-# # Display committees with corresponding roles
-# if comm_list:
-#     for c, r in zip(comm_list, role_list):
-#         st.markdown(f"- **{c}** — {r}")
-# else:
-#     st.info("No committee data available for this representative.")
-
-
 # ---------------------
 # Right column: bills overview & map
 # ---------------------
@@ -460,70 +486,6 @@ with col2:
             if date_col
             else pd.NaT
         )
-        # # status stacked bar (horizontal, normalized to 100%)
-        # row = rep_bills.iloc[0]
-        #
-        # total = row["total_bills"] or 0
-        # passed = row["passed_bills"] or 0
-        # failed = row["failed_bills"] or 0
-        # unknown = max(0, total - (passed + failed))
-        #
-        # # Build a dataframe for the stacked bar
-        # data = pd.DataFrame({
-        #     "Status": ["Passed", "Failed", "Unknown"],
-        #     "Value": [passed, failed, unknown]
-        # })
-        #
-        # # Horizontal stacked bar, normalized to total
-        # chart = (
-        #     alt.Chart(data)
-        #     .mark_bar(size=40)  # thicker bar
-        #     .encode(
-        #         x=alt.X("Value:Q", stack="normalize", axis=alt.Axis(format="%", labelPadding=10, tickSize=5)),
-        #         y=alt.value(0),  # single horizontal bar
-        #         color=alt.Color("Status:N", scale=alt.Scale(
-        #             domain=["Passed", "Failed", "Unknown"],
-        #             range=["green", "red", "#f7f7f7"]  # white/light gray for unknown
-        #             ),
-        #         legend=None
-        #         ),
-        #         tooltip=["Status", "Value"]
-        #     )
-        #     .properties(height=50)
-        # )
-        #
-        # st.altair_chart(chart, use_container_width=True)
-
-
-
-
-    # if bill_status_col and bill_status_col in rep_bills.columns:
-        #     sc = rep_bills[bill_status_col].fillna("Unknown").value_counts().reset_index()
-        #     sc.columns = ["Status", "Count"]
-        #     chart = alt.Chart(sc).mark_bar().encode(x=alt.X("Status:N", sort="-y"), y="Count:Q").properties(height=200)
-        #     st.altair_chart(chart, use_container_width=True)
-
-        # # timeline
-        # if rep_bills["bill_date_parsed"].notna().any():
-        #     ts = rep_bills.groupby(pd.Grouper(key="bill_date_parsed", freq="W")).size().reset_index(name="count")
-        #     line = alt.Chart(ts).mark_line(point=True).encode(x="bill_date_parsed:T", y="count:Q").properties(height=180)
-        #     st.altair_chart(line, use_container_width=True)
-
-        # # show table with expanded columns
-        # display_cols = [
-        #     find_col(rep_bills, ["Bill Number", "BillNumber", "bill_number"]),
-        #     "Bill Title",
-        #     bill_status_col,
-        #     "Date Passed",
-        #     "Effective Date",
-        #     rep_bills["bill_date_parsed"].name if "bill_date_parsed" in rep_bills else None,
-        #     find_col(rep_bills, ["Bill URL", "BillURL", "url"])
-        # ]
-        # display_cols = [c for c in display_cols if c]
-        #
-        # rep_bills_sorted = rep_bills.sort_values(by="bill_date_parsed", ascending=False).reset_index(drop=True)
-        #
-        # st.dataframe(rep_bills_sorted[display_cols], use_container_width=True)
 
 
 # Map: use geometry from reps_merged (should be in geo)
@@ -572,26 +534,177 @@ with col2:
                 st.write("_No geometry or lat/lon available for this rep._")
         except Exception:
             st.write("_No geometry or lat/lon available for this rep._")
+
+    # -----------
+    # --- Rep info
+    # --------------
+    # --- Website
+    # Find the correct column name for webpage
+    url_col = find_col(reps_merged, ["webpage", "Webpage"])
+
+    # Get the URL value from the current rep row
+    url = rep.get(url_col) if url_col else None
+
+    # If URL is missing or empty, use default
+    if not url or pd.isna(url):
+        url = "https://le.utah.gov/Documents/find.htm"
+
+    # Display the button
+    st.link_button("Go to website", url)
+
+    # Debugging helper
+    # st.markdown(f"link is: {url}")
+    # --- party
+    party_col = find_col(reps_merged, ["party", "Party"])
+    party = rep.get(party_col) if party_col else None
+    if not party or pd.isna(party):
+        party = "Unknown"
+    elif party == "R" or party == "r":
+        party = "Republican"
+    elif party == "D" or party == "d":
+        party = "Democrat"
+    st.text(f"Party: {party}")
+    # --- county
+    county_col = find_col(reps_merged, ["County(ies)", "County", "Counties", "county"])
+    county = rep.get(county_col) if county_col else None
+    if not county or pd.isna(county):
+        county = "Unknown"
+    st.text(f"Count(ies): {county}")
+    # --- Email
+    email_col = find_col(reps_merged, ["email", "Email"])
+    email = rep.get(email_col) if email_col else None
+    if not email or pd.isna(email):
+        email = "Unknown"
+    st.text(f"Email: {email}")
+
+
 # show table with expanded columns
+# st.subheader("Bills overview")
+# display_cols = [
+#     find_col(rep_bills, ["Bill Number", "BillNumber", "bill_number"]),
+#     "Bill Title",
+#     bill_status_col,
+#     "Date Passed",
+#     "Effective Date",
+#     rep_bills["bill_date_parsed"].name if "bill_date_parsed" in rep_bills else None,
+#     find_col(rep_bills, ["Bill URL", "BillURL", "url"])
+# ]
+# display_cols = [c for c in display_cols if c]
+#
+# rep_bills_sorted = rep_bills.sort_values(by="bill_date_parsed", ascending=False).reset_index(drop=True)
+#
+# st.dataframe(rep_bills_sorted[display_cols], use_container_width=True)
 st.subheader("Bills overview")
+
 display_cols = [
     find_col(rep_bills, ["Bill Number", "BillNumber", "bill_number"]),
     "Bill Title",
     bill_status_col,
     "Date Passed",
     "Effective Date",
-    rep_bills["bill_date_parsed"].name if "bill_date_parsed" in rep_bills else None,
     find_col(rep_bills, ["Bill URL", "BillURL", "url"])
 ]
 display_cols = [c for c in display_cols if c]
 
 rep_bills_sorted = rep_bills.sort_values(by="bill_date_parsed", ascending=False).reset_index(drop=True)
 
-st.dataframe(rep_bills_sorted[display_cols], use_container_width=True)
+# Convert numeric timestamps to proper datetime (if necessary)
+for col in ["Date Passed", "Effective Date", "bill_date_parsed"]:
+    if col in rep_bills_sorted.columns:
+        # Check if numeric (milliseconds) or string
+        if pd.api.types.is_numeric_dtype(rep_bills_sorted[col]):
+            rep_bills_sorted[col] = pd.to_datetime(rep_bills_sorted[col], unit='ms', errors='coerce')
+        else:
+            rep_bills_sorted[col] = pd.to_datetime(rep_bills_sorted[col], errors='coerce')
+        # Format nicely
+        rep_bills_sorted[col] = rep_bills_sorted[col].dt.strftime("%Y-%m-%d")
+
+st.dataframe(rep_bills_sorted[display_cols], use_container_width=True, hide_index=True)
+
+
+# ==============================
+# Right column: Bills overview (updated)
+# ==============================
+from st_aggrid import AgGrid, GridOptionsBuilder, JsCode
+
+# --- Bills overview table ---
+# st.subheader("Bills overview")
+#
+# # Convert date columns to readable format
+# for date_col in ["Date Passed", "Effective Date"]:
+#     if date_col in rep_bills.columns:
+#         rep_bills[date_col] = pd.to_datetime(rep_bills[date_col], errors="coerce")
+#         rep_bills[date_col] = rep_bills[date_col].dt.strftime("%Y-%m-%d")
+#
+# # Build HTML table
+# display_cols = [
+#     find_col(rep_bills, ["Bill Number", "BillNumber", "bill_number"]),
+#     "Bill Title",
+#     bill_status_col,
+#     "Date Passed",
+#     "Effective Date",
+#     rep_bills["bill_date_parsed"].name if "bill_date_parsed" in rep_bills else None,
+#     find_col(rep_bills, ["Bill URL", "BillURL", "url"])
+# ]
+# display_cols = [c for c in display_cols if c]
+#
+# table_html = '<table style="width:100%; border-collapse: collapse;">'
+# # header
+# table_html += "<tr style='background-color:#f0f0f0'>"
+# for c in display_cols:
+#     if c != find_col(rep_bills, ["Bill URL", "BillURL", "url"]):  # hide URL column
+#         table_html += f"<th style='padding:4px;text-align:left'>{c}</th>"
+# table_html += "</tr>"
+#
+# # rows
+# url_col = find_col(rep_bills, ["Bill URL", "BillURL", "url"])
+# for idx, row in rep_bills.iterrows():
+#     table_html += "<tr style='border-bottom:1px solid #ddd;'>"
+#     for c in display_cols:
+#         if c == "Bill Title" and url_col and pd.notna(row[url_col]):
+#             table_html += f'<td style="padding:4px"><a href="{row[url_col]}" target="_blank">{row[c]}</a></td>'
+#         elif c != url_col:  # skip URL column
+#             table_html += f"<td style='padding:4px'>{row[c]}</td>"
+#     table_html += "</tr>"
+#
+# table_html += "</table>"
+#
+# st.markdown(table_html, unsafe_allow_html=True)
+
+
+# ==============================
+# Download CSV button
+# ==============================
+# if st.button("Download currently visible rep's bills as CSV"):
+#     try:
+#         # export df_display with proper formatting
+#         export_df = df_display.copy()
+#         for date_col in ["Date Passed", "Effective Date"]:
+#             if date_col in export_df:
+#                 export_df[date_col] = export_df[date_col].dt.strftime("%Y-%m-%d")
+#         csv = export_df.to_csv(index=False)
+#         st.download_button(
+#             "Download CSV",
+#             data=csv,
+#             file_name=f"{selected_rep.replace(' ','_')}_bills.csv",
+#             mime="text/csv"
+#         )
+#     except Exception as e:
+#         st.error(f"Could not prepare download: {e}")
+# --- CSV download ---
+csv_string = rep_bills_sorted[display_cols].to_csv(index=False)
+st.download_button(
+    "Download currently visible rep's bills as CSV",
+    data=csv_string,
+    file_name=f"{selected_rep.replace(' ','_')}_bills.csv",
+    mime="text/csv",
+    key=f"download_{rep_key}"  # unique per rep
+)
 
 # ==============================
 # Committees & Roles
 # ==============================
+st.markdown("---")
 
 st.subheader("Committee Assignments")
 
@@ -619,11 +732,11 @@ else:
 # ---------------------
 # Bottom: quick export
 # ---------------------
-st.markdown("---")
-st.write(f"- Loaded {len(bills_df)} bills, {len(repkpis_df)} KPI rows, {len(reps_merged)} geo rows.")
-if st.button("Download currently visible rep's bills as CSV"):
-    try:
-        csv = rep_bills.to_csv(index=False)
-        st.download_button("Download CSV", data=csv, file_name=f"{selected_rep.replace(' ','_')}_bills.csv", mime="text/csv")
-    except Exception as e:
-        st.error(f"Could not prepare download: {e}")
+# st.markdown("---")
+# st.write(f"- Loaded {len(bills_df)} bills, {len(repkpis_df)} KPI rows, {len(reps_merged)} geo rows.")
+# if st.button("Download currently visible rep's bills as CSV"):
+#     try:
+#         csv = rep_bills.to_csv(index=False)
+#         st.download_button("Download CSV", data=csv, file_name=f"{selected_rep.replace(' ','_')}_bills.csv", mime="text/csv")
+#     except Exception as e:
+#         st.error(f"Could not prepare download: {e}")
