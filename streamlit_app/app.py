@@ -347,7 +347,7 @@ with col1:
         d_num = district[1:]
         district = chamber + " " + d_num
     st.markdown(f"{district}")
-
+    
     # find KPI column names on the merged df (these should come from repKPIs)
     total_col = find_col(reps_merged, ["total_bills", "Total Bills", "total"])
     passed_col = find_col(reps_merged, ["passed_bills", "passed"])
@@ -739,4 +739,4 @@ else:
 #         csv = rep_bills.to_csv(index=False)
 #         st.download_button("Download CSV", data=csv, file_name=f"{selected_rep.replace(' ','_')}_bills.csv", mime="text/csv")
 #     except Exception as e:
-#         st.error(f"Could not prepare download: {e}")
+#         st.error(f"Could not prepare download: {e
